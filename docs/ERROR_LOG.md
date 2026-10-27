@@ -93,4 +93,34 @@ Real problems met while building, in time order (IST). The README's "Challenges 
 - **Cause:** Phase 2 flattens nested tables into one table cell, and that one row is longer than the 450-word limit. The chunker never splits a row, except when a single row alone exceeds the limit; then it cuts that row (3 cases in 415 chunks) and the header is lost.
 - **Fix:** none; kept the hard limit. Listed as a limitation.
 
+## 2026-10-28 ~02:05 IST | A hand-written key fact was not on the page it came from
+- **Symptom:** the new test `test_every_key_fact_is_written_on_an_expected_page` failed twice: "10 crore" (loan against property) and "7.5 lakh" (skill loan) were not found on their pages.
+- **Cause:** I wrote two key facts the way a person would say them. The LAP page prints the ceiling as `10.00` under a "Rs. in crore" caption, and the skill-loan page prints `Rs. 7,50,000`. The facts came from my reading, not from the exact text.
+- **Fix:** the key facts now accept the page's own form (`10 crore | 10.00`, `7.5 lakh | 750000`). The test stays, so every fact in `eval/questions.jsonl` is proven to be on its official page.
+- **Lesson:** a test that checks the answer key against the source is cheap and caught two errors before any grading.
+
+## 2026-10-28 ~02:10 IST | The first full evaluation run lost answers to Groq's token limit
+- **Symptom:** several questions failed with `RateLimitError`; the Gemini fallback was down at the same moment (503 / 504), so the run had `all providers failed` errors.
+- **Cause:** the free Groq tier allows 8,000 tokens a minute for `gpt-oss-120b`. One answer costs about 2,500 tokens (5 chunks plus reasoning), so only about 3 answers fit in a minute. The first pause between calls was 2 s (based on the 30 requests/minute limit in the spec, which is not the binding limit).
+- **Fix:** the evaluation waits 15 s between live calls and, on a rate-limit error, waits 20 s and retries up to 4 times. Failed calls are never cached. Successful answers are cached in `eval/cache/`, so a re-run costs no API calls.
+- **Lesson:** token limits, not request limits, bound this pipeline on the free tier. The same limit will affect a reviewer who asks several questions quickly in the UI.
+
+## 2026-10-28 ~02:50 IST | Gemini judge could not run: free quota exhausted
+- **Symptom:** every judge call returned `429 RESOURCE_EXHAUSTED` (and earlier 503 / 504 on the fallback). Zero verdicts were produced, so the judge column in the reports is empty.
+- **Cause:** the Gemini free-tier quota was used up (the Phase 3 check and the first evaluation attempts both spent it). Not a code fault.
+- **Fix / status:** the judge is implemented and tested (`Judge`, cached verdicts, retries) but has not produced any numbers. Run `python -m loan_assistant.evaluate --mode both` again after the quota resets. Until then the README must not claim a judge-vs-hand agreement rate. Time wasted: about 25 minutes of a run that kept retrying; fixed by using `--no-judge` (answers are cached).
+
+## 2026-10-28 ~02:40 IST | Citations written as `[1†L4-L5]` showed no Sources
+- **Symptom:** for q07, q15, q17 and q18 the answer text was right but the Sources list was empty (the UI would show no links).
+- **Cause:** the model sometimes adds a line reference after the number, like `[1†L4-L5]`. The citation parser only knows `[1]`.
+- **Fix:** `clean_model_text` rewrites `[n†...]` to `[n]`. Test: `test_line_references_after_a_citation_number_are_dropped`. The cached answers keep the raw text; the fix applies when they are read, so no new API calls were needed.
+
+## 2026-10-28 ~02:45 IST | Evaluation findings (hand-read, provisional grades by Claude, owner to confirm)
+- **Invented number survives the prompt rule (hybrid q01):** the home-loan rate answer says "Women borrowers: 7.20% p.a. (7.25% - 0.05%)". Rule 3 forbids arithmetic, and the model did it anyway in this run. The vector run did not. Graded 1, not 2. This is a limit of prompt-only control.
+- **Rate range still missing (q01, both modes):** neither mode gives the CIBIL-based range (7.25% to 9.40%). Known weakness from Phase 3, now measured.
+- **Vector wrongly refused q13 (loan against FD):** the `/lad` page was not in the vector top 5, so the model said "not found". Hybrid found it at rank 4. The one clear case where keyword search helps.
+- **The bank's own gold-loan page gives two rates:** 8.75% in the headline and "starts from 8.35%" lower down. The answer reports both, which is faithful. Not a bug in our system.
+- **One answer key was too strict:** q02 lists "60 months" as a key fact, but the question only needs 84 months. The automatic check scores it 50% in hybrid while the hand grade is 2. I left the key unchanged so the key is not tuned after seeing answers.
+- **Refusal worked through two layers:** the other-bank rule caught "SBI" before retrieval; the weather and savings-account questions were stopped by the 0.68 cosine threshold (0.497 and 0.605). The savings-account question is the closest call.
+
 Note: the timestamps above before 00:28 are approximate. The network and sitemap entries were first written with a wrong clock reading, so only the date and the order are reliable for those two.

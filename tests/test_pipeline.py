@@ -171,3 +171,9 @@ def test_all_providers_failing_raises_a_clear_error():
         complete_with_fallback([FakeProvider(fail=True)], "s", "u")
     with pytest.raises(ProviderError, match="no LLM key"):
         complete_with_fallback([], "s", "u")
+
+
+def test_line_references_after_a_citation_number_are_dropped():
+    raw = "Up to 5 lakh[1†L4-L5] over 60 months[1†L5][2†line11]."
+    assert clean_model_text(raw) == "Up to 5 lakh[1] over 60 months[1][2]."
+    assert cited_numbers(clean_model_text(raw)) == [1, 2]

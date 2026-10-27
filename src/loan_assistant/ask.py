@@ -6,6 +6,7 @@ import sys
 
 from loan_assistant.config import settings
 from loan_assistant.llm.providers import ProviderError
+from loan_assistant.rag.generate import sources_by_page
 from loan_assistant.rag.pipeline import Answer, Pipeline
 
 
@@ -13,12 +14,8 @@ def format_answer(answer: Answer, show_context: bool = False) -> str:
     lines = [answer.text.strip(), ""]
     if answer.sources:
         lines.append("Sources:")
-        by_page: dict[str, list[int]] = {}  # one line per page, with every [n] that cites it
-        for s in sorted(answer.sources, key=lambda s: s.n):
-            by_page.setdefault(s.url, []).append(s.n)
-        titles = {s.url: s.title for s in answer.sources}
-        for url, numbers in by_page.items():
-            lines.append(f"  {''.join(f'[{n}]' for n in numbers)} {titles[url]} - {url}")
+        for url, title, numbers in sources_by_page(answer.sources):  # one line per page
+            lines.append(f"  {''.join(f'[{n}]' for n in numbers)} {title} - {url}")
         lines.append("")
     if show_context:
         lines.append("Retrieved context:")

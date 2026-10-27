@@ -22,6 +22,8 @@ TEXT_FIXES = str.maketrans(
         " ": " ",
     }
 )
+# The model sometimes adds a line reference after the number: [1†L4-L5] or [2†line11].
+LINE_REFERENCE = re.compile(r"\[(\d+)†[^\]]*\]")
 CITATION = re.compile(r"\[(\d+(?:\s*[,;]\s*\d+)*)\]")
 
 
@@ -33,7 +35,7 @@ class Source:
 
 
 def clean_model_text(text: str) -> str:
-    return text.translate(TEXT_FIXES).strip()
+    return LINE_REFERENCE.sub(r"[\1]", text.translate(TEXT_FIXES)).strip()
 
 
 def cited_numbers(text: str) -> list[int]:
@@ -51,6 +53,25 @@ def sources_for(text: str, chunks: Sequence[RetrievedChunk]) -> list[Source]:
     """The pages the answer cites. A citation of a block that does not exist is ignored."""
     numbers = [n for n in cited_numbers(text) if 1 <= n <= len(chunks)]
     return [Source(n, chunks[n - 1].chunk["product"], chunks[n - 1].chunk["url"]) for n in numbers]
+
+
+def sources_by_page(sources: Sequence[Source]) -> list[tuple[str, str, list[int]]]:
+    """One ``(url, title, [n, ...])`` entry per page, in the order of first citation."""
+    pages: dict[str, tuple[str, list[int]]] = {}
+    for s in sorted(sources, key=lambda s: s.n):
+        pages.setdefault(s.url, (s.title, []))[1].append(s.n)
+    return [(url, title, numbers) for url, (title, numbers) in pages.items()]
+
+
+def link_citations(text: str, sources: Sequence[Source]) -> str:
+    """Turn each single ``[n]`` into a Markdown link to its page (for the web UI)."""
+    urls = {s.n: s.url for s in sources}
+
+    def link(match: re.Match[str]) -> str:
+        n = int(match.group(1))
+        return f"[\\[{n}\\]]({urls[n]})" if n in urls else match.group(0)
+
+    return re.sub(r"\[(\d+)\](?!\()", link, text)
 
 
 def with_disclaimer(text: str, data_as_of: date) -> str:
