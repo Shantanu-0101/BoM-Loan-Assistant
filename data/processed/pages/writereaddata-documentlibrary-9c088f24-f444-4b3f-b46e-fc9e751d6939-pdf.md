@@ -1,0 +1,721 @@
+---
+title: 'Re: Agricultural Debt Waiver & Debt Relief Scheme, 2008'
+url: https://bankofmaharashtra.bank.in/writereaddata/documentlibrary/9c088f24-f444-4b3f-b46e-fc9e751d6939.pdf
+category: agri
+tier: 2
+type: pdf
+scraped_at: '2026-10-27T19:01:08+00:00'
+---
+
+# Re: Agricultural Debt Waiver & Debt Relief Scheme, 2008
+
+## Document text
+
+You are aware that Union Finance Minister during his budget speech for 2008-09 announced a Debt Waiver & Debt Relief Scheme for the farmers. The scheme will cover direct agricultural loans extended to 'marginal & small farmers' and 'other farmers'.
+
+Guidelines for implementation of the Scheme are given below -
+
+1. Scope
+
+1.1 The Scheme will cover direct agricultural loans extended to 'marginal and small farmers' and 'other farmers'.
+
+1.2 The Scheme shall come into force with immediate effect.
+
+2. Definitions
+
+2.1. 'Direct Agricultural Loans' means Short Term Production Loans and
+Investment Loans provided directly to farmers for agricultural purposes. This would also include such loans provided directly to groups of individual farmers (for example
+Self Help Groups and Joint Liability Groups), provided banks maintain disaggregated data of the loan extended to each farmer belonging to that group.
+
+2.2. 'Short Term Production Loan' means a loan given in connection with the raising of crops, which is to be repaid within 18 months. It will include working capital loan, not exceeding Rs. 1.00 lakh, for traditional and non-traditional plantations and horticulture.
+
+2.3. 'Investment Loan' means
+2.3.1 Investment credit for direct agricultural activities extended for meeting outlays relating to the replacement and maintenance of wasting assets and for capital investment designed to increase the output from the land, e.g. deepening of wells, sinking of new wells, installation of pump sets, purchase of tractor / pair of bullocks, land development and term loan for traditional and non-traditional plantations and horticulture; and
+2.3.2 Investment credit for allied activities extended for acquiring assets in respect of activities allied to agriculture e.g. dairy, poultry farming, goatery, sheep rearing, piggery, fisheries, bee-keeping, green houses and biogas.
+2.3.3 'Cooperative Credit Institution' means a cooperative society that -
+2.3.3.1 provides short-term crop loans to farmers and is eligible for interest subvention from the Central Government; or
+2.3.3.2 carries on banking activities regulated or supervised by RBI or
+NABARD; or
+2.3.3.3 is part of the Short-Term Cooperative Credit Structure or Long-
+Term Cooperative Credit Structure in a State or Union Territory.
+
+2.4. 'Marginal Farmer' means a farmer cultivating (as owner or tenant or share cropper) agricultural land up to 1 hectare (2.5 acres).
+
+2.5. 'Small Farmer' means a farmer cultivating (as owner or tenant or share cropper) agricultural land of more than 1 hectare and up to 2 hectares (5 acres).
+
+1
+
+2.6. 'Other Farmer' means a farmer cultivating (as owner or tenant or share cropper) agricultural land of more than 2 hectares (more than 5 acres).
+
+2.7 Explanation:
+
+2.7.1
+The classification of eligible farmers as per the above landholding criteria under the Scheme would be based on the total extent of land owned by the farmer either singly or as joint holder (in the case of an owner-farmer) or the total extent of land cultivated by the farmer (as tenant or share cropper), at the time of sanction of the loan, irrespective of any subsequent changes in ownership or possession.
+2.7.2
+In the case of borrowing by more than one farmer by pooling their landholdings, the size of the largest landholding in the pool shall be the basis for the purpose of classification of all farmers in that pool as
+'marginal farmer' or 'small farmer' or 'other farmer'.
+2.7.3
+In the case of a farmer who has obtained investment credit for allied activities where the principal loan amount does not exceed Rs. 50,000, he would be classified as "small and marginal farmer" and, where the principal amount exceeds Rs. 50,000, he would be classified as 'other farmer', irrespective in both cases of the size of the land holding, if any.
+2.7.4
+Direct agricultural loan taken under a Kisan Credit Card would also be covered under this Scheme subject to these Guidelines.
+2.7.5
+A short-term production loan and an investment loan taken by a farmer shall be counted as two distinct loans and the Scheme will apply to the two loans separately. Likewise, in the case of a farmer who has taken two investment loans for two separate purposes, the two loans shall be counted as two distinct loans and the Scheme will apply to the two loans separately.
+2.7.6
+A single eligible borrower may have more than one agricultural loan account. The overdue loans in all these accounts will be independently covered under the Scheme. The OTS Relief of 25% (relief upto Rs. 20,000 or 25%, whichever is higher, in 237 stressed districts) is also to be separately applied in the case of crop loans and investment loans.
+2.7.7
+Loans granted by banks to such agricultural credit co-operative societies which are lending institutions (as defined in the Scheme) for advancing direct agricultural loans to farmers are covered under the Scheme.
+2.7.8
+Separate sectoral definitions for 'marginal farmer', 'small farmer' and 'other farmer' may exist in some other context, as for example in the case of plantations crops. However, for the implementation of this Scheme, classification as a 'marginal farmer' or 'small farmer' or 'other farmer' will be done using the criteria of size of landholding as prescribed in the
+Scheme.
+
+However, in the case of investment credit for allied activities, the size of the landholding is not germane. If the principal amount of the loan is
+Rs. 50,000 or less, the farmer will be classified as 'small and marginal farmer' and if the principal amount of the loan is more than Rs. 50,000, the farmer will be classified as 'other farmer'.
+2.7.9
+The amount of loans written off (prudentially or actually) will not be covered under the Scheme. Such written-off loans shall neither be claimed from the Central Government nor will they be recovered from the farmer.
+
+2
+
+However, the farmers whose loans have been written off (prudentially or actually) will be eligible for fresh finance from the branches.
+2.7.10 Short-term loans sanctioned against pledge of gold jewels are covered under the Scheme, provided such loans were given for agricultural purposes. However, the applicable interest will not be in excess of what is normally charged for agricultural loans by the lending institution in the corresponding year and not in excess of 7% per annum in respect of loans disbursed after April 1, 2006.
+2.7.11 Marine fisheries would come within the ambit of pisciculture and loans given to marine fishermen by the branches would be covered under investment loans for allied activities.
+2.7.12 Short-term production credit will include working capital loan up to Rs. 1 lakh for traditional and non-traditional plantations and horticulture. This means that working capital loans for these categories will be reckoned only up to Rs. 1 lakh and of this reckoned sum, only the irregular amounts
+(overdues) as on December 31, 2007 will be eligible for waiver or OTS relief (and not the entire sum of Rs. 1 lakh).
+
+3. Eligible amount
+
+3.1 The amount eligible for debt waiver or debt relief, as the case may be
+(hereinafter referred to as the 'eligible amount'), shall comprise of:
+3.1.1 In the case of a short-term production loan, the amount of such loan
+(together with applicable interest):
+
+3.1.1.1 disbursed up to March 31, 2007 and overdue as on
+December 31, 2007 and remaining unpaid until February 29,
+2008;
+3.1.1.2 restructured and rescheduled by banks in 2004 and in 2006 through the special packages announced by the Central
+Government, whether overdue or not; and
+3.1.1.3 restructured and rescheduled in the normal course up to
+
+March 31, 2007 as per applicable RBI guidelines on account of natural calamities, whether overdue or not.
+
+3.1.2 In the case of an investment loan, the installments of such loan that are over due (together with applicable interest on such installments) if the loan was:
+
+3.1.2.1 disbursed up to March 31, 2007 and overdue as on
+December 31, 2007 and remaining unpaid until February 29,
+2008;
+3.1.2.2 restructured and rescheduled by banks in 2004 and in 2006 through the special packages announced by the Central
+Government; and
+3.1.2.3 restructured and rescheduled in the normal course up to
+March 31, 2007 as per applicable RBI guidelines on account of natural calamities.
+
+Explanation: In the case of an investment loan disbursed up to March
+31, 2007 and classified as non-performing asset or suit filed account, only the installments that were overdue as on December 31, 2007 shall be the eligible amount.
+
+3
+
+3.1.3 Accounts restructured and rescheduled by the branches in 2004
+(FM's Package) includes accounts that are restructured in terms of
+C. O. Cir. No. AX1/CRP/ Cir.1635/2004-05 dated 29.06.04 i. e. relief measures for farmers affected by natural calamities.
+
+3.1.4 Accounts restructured and rescheduled by branches in 2006 (PM's
+Package) for 31 debt stressed district includes accounts that are restructured in terms of C. O. Cir. No. AX1/CRP/ Cir. MH 60/2006-07 dated 19.07.2006 & AX1/PS & RC/ Cir.OT-1/06-07 dated 03.12.06.
+
+3.1.5 In addition to above the accounts that are restructured up to March
+31, 2007 as per RBI standing guidelines for relief measures by banks in areas affected by natural calamities circulated vide C. O. circular
+No.
+AX1/CRP/Agri/Cir.1718/2006-07 dated
+01.07.06 i.
+e.
+reschedulement/ restructuring of loans in areas affected by natural calamities like floods, droughts, cyclones, tidal waves etc. are to be included.
+
+3.1.6. Only those direct agricultural loans which fulfil all the three conditions, i.e., (a) disbursed between March 31, 1997 and March 31, 2007, (b) overdue on
+December 31, 2007, and (c) remaining unpaid until February 29, 2008 will be eligible for debt waiver/debt relief under the Scheme.
+
+Illustrations:
+
+3.1.6.1. An instalment of investment credit for allied activity overdue on
+December 31, 2007 will not be eligible if it has been disbursed after March 31,
+2007.
+
+3.1.6.2 A short-term production loan disbursed up to March 31, 2007 for raising crops with repayment period of 18 months will not be eligible for debt waiver/debt relief if it has not become overdue on December 31, 2007.
+
+3.1.7 Only the instalments of Investment Credit (not the total loan), which were overdue on the date of restructuring and the instalments of the portion of the
+Investment Credit which had not fallen due on the date of restructuring but have subsequently fallen due on December 31, 2007, are eligible for debt waiver/debt relief. Hence, in the case of restructured Investment Credit, the overdue instalments on the date of restructuring plus the instalments which were not due on the date of restructuring but have subsequently fallen due on
+31.12.07 will be eligible for debt waiver/debt relief. Even in cases where the total Investment Credit has been restructured, only the overdue instalments on the date of restructuring and the instalments of the un-restructured portion that have fallen overdue on December 31, 2007 will be eligible for debt waiver/debt relief.
+
+3.1.8 In partially disbursed loan accounts, the 'eligible amount' shall be restricted to the overdues in respect of the portion/ instalments of the loan actually disbursed up to March 31, 2007 and overdue on December 31, 2007 and unpaid until February 29, 2008.
+
+4
+
+3.1.9 The accounting norms provide that in case of NPA accounts, 'suit-filed' accounts and 'recalled' loans, the whole loan will be classified as such.
+However, for the purposes of the Scheme, only instalments of such loans that were disbursed up to March 31, 2007 and overdue on December 31, 2007 and remain unpaid until February 29, 2008 will be eligible for debt waiver/debt relief.
+
+3.2 The following loans shall not be included in the eligible amount:
+
+3.2.1 Advances against pledge or hypothecation of agricultural produce other than standing crop; and
+3.2.2 Agricultural finance to corporates, partnership firms, societies other than cooperative credit institutions (referred to in para 2.3.3), and any similar institution.
+In other words loans for agricultural purposes to companies or other legal persons like registered societies, trusts, partnerships etc. are not covered under the Scheme.
+3.2.3 Loans for construction of storage facilities & for purchase of land, construction of farmhouses, sheds, fencing, etc.
+3.2.3 Loans to farmers for purposes other than agriculture.
+
+3.3 Nothing contained in this Scheme shall apply to any loan disbursed by a lending institution prior to March 31, 1997.
+
+4. Debt Waiver
+
+4.1. In the case of a small or marginal farmer, the entire 'eligible amount' shall be waived.
+
+5. Debt Relief
+
+5.1. In the case of 'other farmers', there will be a one time settlement (OTS) Scheme under which the farmer will be given a rebate of 25% of the 'eligible amount' subject to the condition that the farmer pays the balance of 75% of the 'eligible amount';
+
+Provided that in the case of revenue districts listed in Annexure-I, 'other farmers' will be given OTS rebate of 25% of the 'eligible amount' or Rs. 20,000, whichever is higher, subject to the condition that the farmer pays the balance of the 'eligible amount'. This will enable graded relief to 'Other Farmers' as shown below -
+
+| Amount overdue (Rs.) | Amount of Relief (Rs.) | Relief as % of overdue |
+| 16000 | 16000 | 100.00 |
+| 20000 | 20000 | 100.00 |
+| 40000 | 20000 | 50.00 |
+| 60000 | 20000 | 33.00 |
+| 80000 | 20000 | 25.00 |
+| 100000 | 25000 | 25.00 |
+
+5
+
+of the landholding, the eligible amount and the amount of debt waiver or debt relief proposed to be granted in each case. A proforma for preparation of lists (Annexure
+II) is enclosed for use by the branches. The lists shall be displayed on the notice board of the branch on or before June 30, 2008.
+
+6.2. A farmer classified as 'small farmer' or 'marginal farmer' will be eligible for fresh agricultural loans upon the eligible amount being waived.
+
+6.3. A farmer classified as 'other farmer' eligible for OTS relief shall give an undertaking agreeing to pay his share (i. e. eligible amount minus the amount of
+OTS relief) in not more than three instalments and the first two instalments shall be for an amount not less than one-third of his share. The last dates of payment in the case of three instalments will be September 30, 2008; March 31, 2009 and June 30,
+2009.
+
+6.4. A copy of the undertaking shall be supplied to you in due course.
+
+6.5. The amount of OTS relief (i.e. the Central Government's share) will be credited to the account of the 'other farmer' upon the farmer paying his share in full.
+
+6.6. In the case of a short-term production loan, the 'other farmer' will be eligible for fresh short-term production loan upon paying one-third of his share.
+
+6.7. In the case of an investment loan (for direct agricultural activities or allied activities), the 'other farmer' will be eligible for fresh investment loan upon paying his share in full.
+
+6.8. Reserve Bank of India shall be the nodal agency for the implementation of the
+Scheme.
+
+7. Interest and other charges
+
+7.1. The branches shall not charge any interest on the 'eligible amount' for any period after February 29, 2008. However, in the case of an 'other farmer' who defaults in paying his share of the eligible amount on or before June 30, 2009 and becomes ineligible for OTS relief, the branch may charge interest for the period after
+June 30, 2009.
+
+7.2. Instalments of investment credit which fall overdue after 31.12.2007 shall be recovered by the branches along with the applicable interest. Branches may, however, in appropriate cases, reschedule these instalments in accordance with the normal policy of the Bank.
+
+7.3. Notwithstanding anything contained in this Scheme, the amount of interest that a branch may claim as reimbursement from the Central Government under this
+Scheme shall not, in any case, exceed the principal amount of the loan.
+
+7.4 Branches shall neither claim from the Central Government, nor recover from the farmer, interest in excess of the principal amount, unapplied interest, penal interest, legal charges, inspection charges and miscellaneous charges, etc. All such interest/charges will be borne by the lending institutions.
+
+6
+
+Interest on crop loans disbursed after April 1, 2006 will be calculated at a rate not exceeding 7% per annum. The amount of interest in excess of 7% per annum on crop loans will be borne by the lending institutions.
+
+Normal interest will continue to accrue on the amount of loan not eligible for debt waiver/ debt relief.
+
+8. Certificate of debt waiver or debt relief
+
+8.1. In the case of small and marginal farmers, upon waiver of the eligible amount, the branches shall issue a certificate to the effect that the loan has been waived and specifically mention the eligible amount that has been waived.
+
+8.2. In the case of 'other farmers', upon granting OTS relief, the branches shall issue a certificate to the effect that the loan account has been settled to the satisfaction of the lending institution and specifically mention the eligible amount, the amount paid by the farmer as his share and the amount of OTS relief.
+
+8.3. The formats of certificates shall be supplied to you in due course. On issuing the certificate, the branches shall take an acknowledgement from the farmer.
+
+9. Obligations of the lending institutions
+
+9.1 Every branch shall be responsible for the correctness and integrity of the lists of farmers eligible under this Scheme and the particulars of the debt waiver or debt relief in respect of each farmer. Every document maintained, every list prepared and every certificate issued by a branch for the purposes of this Scheme shall bear the signature and designation of an authorised officer of the branch.
+
+9.2 All Regional Heads shall act as Grievance Redressal Officer for the respective region. They may appoint district wise Grievance Redressal Officers preferably the
+Branch Head of district place branch or a Senior Officer from that district. However, the final order will be passed by Regional Head as Grievance Redressal Officer. The name and address of the Grievance Redressal Officer concerned shall be displayed in each branch. The Grievance Redressal Officer shall have the authority to receive representations from aggrieved farmers and pass appropriate orders thereon. The order of the Grievance Redressal Officer shall be final.
+
+9.3 Any farmer who is aggrieved on the ground that his name has not been included in either of the two lists referred to in paragraph 6.1 or on the ground that his name has been included in the wrong list or on the ground that the relief granted to him has been calculated wrongly, may make a representation through the branch from which he received the loan or directly to the Grievance Redressal Officer of the lending institution concerned and every such representation shall be disposed of within 30 days of receipt thereof.
+
+10. Audit
+
+The books of account of every branch that has granted debt waiver or debt relief under this Scheme (including the books of accounts maintained at the branches) shall be subject to an audit in accordance with the procedure that may be prescribed by RBI/NABARD. The audit may be conducted by concurrent auditors, statutory auditors or special auditors as may be directed by RBI/NABARD. The Central
+
+7
+
+Government, if it is satisfied that it is necessary to do so, may direct a special audit in the case of any branch or one or more branches of such lending institution.
+
+Since the claims of the branches will be processed on the basis of the audited books
+
+of accounts, it is important that due care is taken while preparing the lists of beneficiaries.
+
+11. Publicity
+
+11.1. A copy of this Scheme in English and in the official language or languages of the State/Union Territory shall be displayed in each branch.
+
+12. Interpretation and power to remove difficulties
+
+12.1. If any doubt arises on the interpretation of any paragraph of this Scheme or any instructions issued thereunder, the Central Government shall resolve the doubt and the decision of the Central Government shall be final.
+
+12.2. If any difficulty arises in giving effect to the provisions of the Scheme or any instructions issued thereunder, the Central Government may by order do anything which appears to it to be necessary or expedient for the purposes of removing the difficulty.
+
+13. Monitoring
+
+13.1 Regional Offices are advised to form Steering Committees for Grievance
+Redressal & smooth implementation of the scheme. Branches may refer their difficulties/ grievances to this committee.
+
+13.2 Regional Heads are advised to visit all the branches and ensure smooth implementation of the scheme.
+
+13.3 Senior officers from Central Office/ Circle Offices will also visit the branches and ensure smooth implementation of the Scheme. Every branch will be visited atleast once by a designated officer in the second and third weeks of June 2008. In addition, the senior officers, in the months of June and July, undertake extensive tours to oversee the process of implementation of the Debt Waiver and Debt Relief Scheme.
+The primary object of these tours and visits shall be the preparation of accurate lists of beneficiaries together with the particulars of debt waiver or debt relief in each case, display of the lists on or up to June 30, 2008 and the issue of certificates to the farmers.
+
+13.4 It should be ensured that the lists are displayed without fail on or before June
+30, 2008. The list should be signed after careful verification by the Branch Manager and after supercheck by an officer superior to him, preferably the senior officer assigned as per the instructions in para (13.1) above. Every effort must be made to eliminate errors of inclusion as well as errors of exclusion. The two officers shall be responsible for the correctness and integrity of the lists of beneficiaries.
+
+Regional Heads may conduct sensitization programmes for the Branch Managers/ concerned staff for smooth implementation of the scheme. In case of need a support from Central Office shall be made available for such sensitization programmes.
+
+8
+
+Branches are advised to ensure adequate credit flow to the farmers who are approaching the branches and also those farmers who will become eligible for fresh loans immediately after loan waiver/ relief.
+
+Detail guidelines about accounting entries to be released and other related matters will be communicated to you shortly. In case of any difficulty/ clarification please feel free to contact Regional Office or Central Office.
+
+Yours faithfully,
+
+General Manager
+Priority Sector & Retail Credit
+
+Encl: Annexure I (List of DPAP, DDP & PM's Special Relief Package Districts)
+Annexure II (Proforma for preparation of lists)
+
+9
+
+Annexure 1
+
+Revenue Districts covering DPAP, DDP areas and PM's Special Relief Package Districts
+
+| STATE | SL.NO. | DISTRICTS covered under DPAP, |
+| DDP and PMS's Relief Package |
+| ANDHRA PRADESH | 1 | 1. | Adilabad |
+| 2 | 2. | Chittoor |
+| 3 | 3. | Cuddapah |
+| 4 | 4. | Khammam |
+| 5 | 5. | Kurnool |
+| 6 | 6. | Medak |
+| 7 | 7. | Mehaboobnagar |
+| 8 | 8. | Nalgonda |
+| 9 | 9. | Prakasam |
+| 10 | 10. | Rangareddy |
+| 11 | 11. | Srikakulam |
+| 12 | 12. | Anantpur |
+| 13 | 13. | Warangal |
+| 14 | 14. | Guntur |
+| 15 | 15. | Karimnagar |
+| 16 | 16. | Nellur |
+| 17 | 17. | Nizamabad |
+| BIHAR | 18 | 1. | Bhabhua |
+| 19 | 2. | Jamui |
+| 20 | 3. | Madhubani |
+| 21 | 4. | Nawadah |
+| 22 | 5. | Rohtas |
+| 23 | 6. | Sitamarhi |
+| CHHATISGARH | 24 | 1. | Bastar |
+| 25 | 2. | Bilaspur |
+| 26 | 3. | Dantewara |
+| 27 | 4. | Durg |
+| 28 | 5. | Janjgir-Champa |
+| 29 | 6. | Kabridham |
+| 30 | 7. | Korba |
+| 31 | 8. | Rajnandgaon |
+| GUJARAT | 32 | 1. | Ahmedabad |
+| 33 | 2. | Amreli |
+| 34 | 3. | Bharuch |
+| 35 | 4. | Bhavnagar |
+| 36 | 5. | Dahod |
+| 37 | 6. | Dang |
+| 38 | 7. | Junagadh |
+| 39 | 8. | Narmada |
+
+10
+
+| 40 | 9. | Navasari |
+| 41 | 10. | Panch Mahals |
+| 42 | 11. | Porbandar |
+| 43 | 12. | Sabarkantha |
+| 44 | 13. | Vadodara |
+| 45 | 14. | Valsad |
+| 46 | 15. | Banaskantha |
+| 47 | 16. | Jamnagar |
+| 48 | 17. | Kutchchh |
+| 49 | 18. | Patan |
+| 50 | 19. | Rajkot |
+| 51 | 20. | Surendranagar |
+| HARYANA | 52 | 1. | Bhiwani |
+| 53 | 2. | Fatehabad |
+| 54 | 3. | Hissar |
+| 55 | 4. | Jhahhar |
+| 56 | 5. | Mohindergarh |
+| 57 | 6. | Rewari |
+| 58 | 7. | Sirsa |
+| HIMACHAL | 59 | 1. | Bilaspur |
+| PRADESH |
+| 60 | 2. | Solan |
+| 61 | 3. | Una |
+| 62 | 4. | Kinnaur |
+| 63 | 5. | Lahaul and Spiti |
+| JAMMU & KASHMIR | 64 | 1. | Doda |
+| 65 | 2. | Udhampur |
+| 66 | 3. | Ramban |
+| 67 | 4. | Kishtwar |
+| 68 | 5. | Reasi |
+| 69 | 6. | Kargil |
+| 70 | 7. | Leh |
+| JHARKHAND | 71 | 1. | Bokaro |
+| 72 | 2. | Chatra |
+| 73 | 3. | Deoghar |
+| 74 | 4. | Dhanbad |
+| 75 | 5. | Dumka |
+| 76 | 6. | Garhwa |
+| 77 | 7. | Godda |
+| 78 | 8. | Hazaribagh |
+| 79 | 9. | Jamtara |
+| 80 | 10. | Koderma |
+| 81 | 11. | Latehar |
+| 82 | 12. | Pakur |
+| 83 | 13. | Palamau |
+
+11
+
+| 84 | 14. | Sahebganj |
+| KARNATAKA | 85 | 1. | Bangalore Rural |
+| 86 | 2. | Belgaum |
+| 87 | 3. | Bidar |
+| 88 | 4. | Chamaraja Nagar |
+| 89 | 5. | Chickmaglur |
+| 90 | 6. | Chitradurga |
+| 91 | 7. | Davanagere |
+| 92 | 8. | Dharwad |
+| 93 | 9. | Gadag |
+| 94 | 10. | Gulbarga |
+| 95 | 11. | Hassan |
+| 96 | 12. | Haveri |
+| 97 | 13. | Kolar |
+| 98 | 14. | Mysore |
+| 99 | 15. | Tumkur |
+| 100 | 16. | Kodagu |
+| 101 | 17. | Shimoga |
+| 102 | 18. | Bagalkote |
+| 103 | 19. | Bellary |
+| 104 | 20 | Bijapur |
+| 105 | 21. | Davanagere |
+| 106 | 22. | Koppal |
+| 107 | 23. | Raichur |
+| KERALA | 108 | 1. | Wayanad |
+| 109 | 2. | Palakkad |
+| 110 | 3. | Kasaragod |
+| MADHYA PRADESH | 111 | 1. | Barwani |
+| 112 | 2. | Betul |
+| 113 | 3. | Bhind |
+| 114 | 4. | Chhindwara |
+| 115 | 5. | Damoh |
+| 116 | 6. | Dewas |
+| 117 | 7. | Dhar |
+| 118 | 8. | Guna |
+| 119 | 9. | Jabalpur |
+| 120 | 10. | Jhabua |
+| 121 | 11. | Khandwa |
+| 122 | 12. | Khargaon |
+| 123 | 13. | Panna |
+| 124 | 14. | Raisen |
+| 125 | 15. | Rajgarh |
+| 126 | 16. | Ratlam |
+| 127 | 17. | Rewa |
+
+12
+
+| 128 | 18. | Shahdol |
+| 129 | 19. | Shajapur |
+| 130 | 20. | Shivpuri |
+| 131 | 21. | Sidhi |
+| 132 | 22. | Seoni |
+| 133 | 23. | Umaria |
+| 134 | 24. | Ashok Nagar |
+| 135 | 25. | Anuppur |
+| MAHARASHTRA | 136 | 1. | Ahmednagar |
+| 137 | 2. | Akola |
+| 138 | 3. | Amravati |
+| 139 | 4. | Aurangabad |
+| 140 | 5. | Beed |
+| 141 | 6. | Buldhana |
+| 142 | 7. | Chandrapur |
+| 143 | 8. | Dhule |
+| 144 | 9. | Gadchiroli |
+| 145 | 10. | Hingoli |
+| 146 | 11. | Jalgaon |
+| 147 | 12. | Jalna |
+| 148 | 13. | Latur |
+| 149 | 14. | Nagpur |
+| 150 | 15. | Nanded |
+| 151 | 16. | Nandurbar |
+| 152 | 17. | Nashik |
+| 153 | 18. | Oshmanabad |
+| 154 | 19. | Parbhani |
+| 155 | 20. | Pune |
+| 156 | 21. | Sangli |
+| 157 | 22. | Satara |
+| 158 | 23. | Solapur |
+| 159 | 24. | Washim |
+| 160 | 25. | Yavatmal |
+| 161 | 26. | Wardha |
+| ORISSA | 162 | 1. | Bargarh |
+| 163 | 2. | Bolangir |
+| 164 | 3. | Boudh |
+| 165 | 4. | Dhenkanal |
+| 166 | 5. | Kalahandi |
+| 167 | 6. | Nuapada |
+| 168 | 7. | Sonepur |
+| 169 | 8. | Phulbani |
+| RAJASTHAN | 170 | 1. | Ajmer |
+| 171 | 2. | Banswara |
+
+13
+
+| 172 | 3. | Baran |
+| 173 | 4. | Bharatpur |
+| 174 | 5. | Dungarpur |
+| 175 | 6. | Jhalawar |
+| 176 | 7. | Karauli |
+| 177 | 8. | Kota |
+| 178 | 9. | Sawai Madhopur |
+| 179 | 10. | Tonk |
+| 180 | 11. | Udaipur |
+| 181 | 12. | Barmer |
+| 182 | 13. | Bikaner |
+| 183 | 14 | Churu |
+| 184 | 15. | Hanuman Garh |
+| 185 | 16. | Jaipur |
+| 186 | 17. | Jaiselmer |
+| 187 | 18. | Jallore |
+| 188 | 19. | Jhunjhunu |
+| 189 | 20. | Jodhpur |
+| 190 | 21. | Nagaur |
+| 191 | 22. | Pali |
+| 192 | 23. | Rajsamand |
+| 193 | 24. | Sikar |
+| 194 | 25. | Sirohi |
+| TAMILNADU | 195 | 1. | Coimbatore |
+| 196 | 2. | Dharmapuri |
+| 197 | 3. | Dindigul |
+| 198 | 4. | Karur |
+| 199 | 5. | Krishnagiri |
+| 200 | 6. | Namakkal |
+| 201 | 7. | Perambalur |
+| 202 | 8. | Pudukottai |
+| 203 | 9. | Ramanathapuram |
+| 204 | 10. | Salem |
+| 205 | 11. | Sivaganga |
+| 206 | 12. | Tiruchirapalli |
+| 207 | 13. | Tirunelveli |
+| 208 | 14. | Tiruvannamalai |
+| 209 | 15. | Thothukudi |
+| 210 | 16. | Vellore |
+| 211 | 17. | Virudunagar |
+| UTTAR PRADESH | 212 | 1. | Allahabad |
+| 213 | 2. | Bahraich |
+| 214 | 3. | Balrampur |
+| 215 | 4. | Banda |
+
+14
+
+| 216 | 5. | Chitrakoot |
+| 217 | 6. | Hamirpur |
+| 218 | 7. | Jalaun |
+| 219 | 8. | Jhansi |
+| 220 | 9. | Lakhimpur Kheri |
+| 221 | 10. | Lalitpur |
+| 222 | 11. | Mahoba |
+| 223 | 12. | Mirzapur |
+| 224 | 13. | Shravasti |
+| 225 | 14. | Sitapur |
+| 226 | 15. | Sonbhadra |
+| UTTRAKHAND | 227 | 1. | Almora |
+| 228 | 2. | Bageswar |
+| 229 | 3. | Chamoli |
+| 230 | 4. | Champavat, |
+| 231 | 5. | Pauri Garhwal |
+| 232 | 6. | Pithoragarh, |
+| 233 | 7. | Tehri Garhwal |
+| WEST BENGAL | 234 | 1. | Bankura |
+| 235 | 2. | Birbhum |
+| 236 | 3. | Medinapur West |
+| 237 | 4. | Purulia |
+| Total No. of districts | 237 Districts |
+
+15
+
+Remarks
+
+Remarks
+
+Remarks
+
+Amount
+
+Amount
+
+Amount
+
+waiver
+
+waiver
+
+waiver
+
+of
+
+of
+
+of
+
+| remain | remain | remain |
+| Int | Int | Int |
+| 2008 |
+| which | 29/02/2008 | which | 29/02/2008 | which | 29/02/2008 |
+| REGION: | Principle | Principle | Principle |
+| unpaid | unpaid | unpaid |
+| Of | Of | Of |
+| SCHEME |
+
+| 31/12/2007 | 31/12/2007 | 31/12/2007 |
+| Overdues | Principle | Overdue | Principle | Overdue | Principle |
+| DEBT |
+| II |
+| Int | Int | Int |
+| AND |
+| Annexure | Outstanding 31/12/2007 | Outstanding 31/12/2007 | Outstanding 31/12/2007 |
+
+| DEBT | Disbursed | Disbursed | Disbursed |
+| Amount | Amount | Amount |
+| Activities: |
+| FARMERS |
+| AGRICULTURAL |
+| ________________________________ |
+
+Holding
+Date of
+
+Holding
+Date of
+
+Holding
+Date of
+
+3. Investment Credit for Allied Activities:
+
+1. Short Term Production Loan:
+
+Village Land
+
+Village Land
+
+Village Land
+
+N.
+Name of the
+
+N.
+Name of the
+
+N.
+Name of the
+
+borrower
+
+borrower
+
+borrower
+
+/ Farmer
+
+/ Farmer
+
+/ Farmer
+
+S.
+
+S.
+
+S.
+
+Remarks
+
+Remarks
+
+Remarks
+
+| of | of | of |
+| Amount | Rebate) | Amount | Rebate) | Amount | Rebate) |
+| Relief (OTS | Relief (OTS | Relief (OTS |
+| unpaid | unpaid | unpaid |
+
+| Of | Of | Of |
+| on |
+| Int | on | Int | on | Int |
+| as |
+| as | as |
+| (Instalments) | (Instalments) |
+| 31/12/2007 | 31/12/2007 | 31/12/2007 |
+| Overdues | Principle | Overdue | Principle | Overdue | Principle |
+
+| Int | Int | Int |
+| 17 |
+| Outstanding 31/12/2007 | Outstanding 31/12/2007 | Outstanding 31/12/2007 |
+| Principle | Principle | Principle |
+| Disbursed | Disbursed | Disbursed |
+| Amount | Amount | Amount |
+| Activities: |
+
+Holding
+Date of
+
+Holding
+Date of
+
+Holding
+Date of
+
+3. Investment Credit for Allied Activities:
+
+B. DEBT RELIEF - OTHER FARMERS
+
+1. Short Term Production Loan:
+
+Village Land
+
+Village Land
+
+Village Land
+
+N.
+Name of the
+
+N.
+Name of the
+
+N.
+Name of the
+
+borrower
+
+borrower
+
+borrower
+
+/ Farmer
+
+/ Farmer
+
+/ Farmer
+
+S.
+
+S.
+
+S.

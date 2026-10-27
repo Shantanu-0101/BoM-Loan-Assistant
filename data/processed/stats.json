@@ -1,8 +1,10 @@
 {
-  "pages_html": 50,
-  "pages_pdf": 1,
+  "pages_html": 86,
+  "pages_pdf": 3,
   "by_category": {
+    "agri": 19,
     "other": 14,
+    "msme": 19,
     "education": 5,
     "home": 11,
     "gold": 1,
@@ -12,29 +14,47 @@
     "rates": 2,
     "charges": 1
   },
-  "sections": 127,
-  "tables": 72,
-  "words_total": 41426,
-  "raw_visible_words_html": 150444,
-  "words_dropped_as_page_chrome": 109076,
+  "sections": 218,
+  "tables": 115,
+  "words_total": 72441,
+  "raw_visible_words_html": 252186,
+  "words_dropped_as_page_chrome": 186662,
   "boilerplate_lines_removed": 0,
   "boilerplate_top": [],
   "thin_pages": [
+    "agriculture-debt-waiver-relief (22 words)",
+    "agricultures (11 words)",
     "collateral-free-cash-credit-facility (34 words)",
     "collateral-free-term-loan-facility (42 words)",
+    "general-msme-credit-facilities (37 words)",
+    "government-schemes-for-msme (46 words)",
     "mahabank-green-financing-scheme (80 words)",
     "mahabank-personalloan-scheme-bpcl-employees (164 words)",
+    "msme-machinery-equipment-scheme (59 words)",
+    "msme-schematic-loans (48 words)",
+    "time-frame-msme-proposal (80 words)",
     "vehicle-loan-for-small-road-transport-operator (71 words)"
   ],
-  "skipped_urls": [],
-  "empty_pages": [],
-  "tier2_not_included": 40,
+  "skipped_urls": [
+    {
+      "url": "https://bankofmaharashtra.bank.in/agriculture",
+      "status": "301"
+    },
+    {
+      "url": "https://bankofmaharashtra.bank.in/msme",
+      "status": "301"
+    }
+  ],
+  "empty_pages": [
+    "https://bankofmaharashtra.bank.in/mahabank-kisan-corner",
+    "https://bankofmaharashtra.bank.in/msme-large-credit"
+  ],
+  "tier2_not_included": 0,
   "pdfs": {
-    "kept": 1,
+    "kept": 3,
     "left_out": {
       "no text (scanned image)": 14,
       "not English": 18,
-      "linked only from pages outside this build": 2,
       "site-wide footer link": 7,
       "too short or too long": 1,
       "blank application form": 2

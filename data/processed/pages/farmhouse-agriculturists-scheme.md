@@ -1,0 +1,27 @@
+---
+title: Scheme for construction of farmhouse to Agriculturists
+url: https://bankofmaharashtra.bank.in/farmhouse-agriculturists-scheme
+category: agri
+tier: 2
+type: html
+scraped_at: '2026-10-27T18:58:51+00:00'
+---
+
+# Scheme for construction of farmhouse to Agriculturists
+
+## Overview
+
+| Particulars | Details |
+|---|---|
+| Facility | Agricultural Term Loan (ATL) |
+| Purpose | Construction of farmhouse on agricultural land to facilitate farmers to have dwelling unit at farm which may also take care of other requirement such as storage of agriculture produce & farm implements, cattle shed, drying yard etc. for effective supervision and farm management. |
+| Eligibility | Person/s engaged (singly or jointly) in agriculture and allied activities. Farmers having minimum irrigated land holding of 2.5 acres; Farmers having sufficient disposable income from his own farm as well as from other sources. Existing borrowers having good track record for the past 3 years with the Bank and new borrowers who have not availed any agriculture loan facilities from any bank / financial institutions. Multiple banking not allowed. Age Limit: Minimum: The applicant/s must be 18 years old (completed) as on the date of application; Maximum: 65 years subject to having sufficient disposable income; Age at Loan Maturity should not exceed 75 Years. |
+| Loan Amount | Rs. 2.00 lakh upto Rs. 10.00 lakh: - Farmer/s having perennially irrigated land holding of minimum 2.5 acres with sufficient disposable income from his own farm, allied activities as well as from other sources. Rs. 10.00 lakh upto Rs. 50.00 lakh: - Farmer/s having perennially irrigated land holding of minimum 5 acres with sufficient disposable income from his own farm, allied activities as well as from other sources. |
+| Margin | Minimum 25% of construction cost of proposed farmhouse. |
+| Rate of Interest | Up to Rs. 10.00 lakh: 1 Year MCLR + BSS@0.50% + 2.00%; Above Rs. 10.00 lakh: 1 Year MCLR +BSS@0.50%+ 3.00% |
+| Security | Registered Mortgage of Agril. Land/s * & Farm House constructed thereon. Hypothecation of standing crop, other movable assets etc. Two acceptable guarantors having adequate Net Worth; * In case landed property cannot be mortgaged for some reasons, NSC, FDR (of our Bank), Government security or such acceptable security with Margin @ 25% may be taken as security. Security in the form of Shares shall not be accepted. |
+| Repayment | Moratorium period may be allowed upto 18 months or completion of the construction which is earlier; Repayment: The entire loan along with interest shall be repaid in yearly / half yearly / quarterly / monthly instalments along with interest within a period of 15 years including moratorium period. The repayment shall be linked to harvesting season of the main / cash crop / income generation cycle of the activity. |
+| Insurance | Asset created have to be insured for full value. |
+| Legal aspects | Permission for farmhouse construction should be obtained along with other requirements as per the norms stipulated by the respective State laws. Title clearance & search report shall be obtained from empaneled advocate for the agricultural land proposed to be mortgaged where farmhouse will be constructed. |
+| Other Terms & Conditions | Conversion of Agriculture land into Non-agriculture (N.A) is not required for construction of farm house subject to compliance of stipulated clause (if any) specified by the respective State Government; The valuation certificate be obtained from respective Registrar / Sub-Registrar of the area to ascertain the value of land. Income of co-applicants may be clubbed for deciding quantum of loan & repayment capacity if property held jointly by them or individually; The farmer should have adequate income, liquidity and capacity to serve the loan installments. The applicant/s should satisfy the KYC guidelines. Income certificate issued by Tahsildar / Mandal Revenue Officer / Revenue Department Officer having State Level Gazetted rank can be accepted where income tax returns are not filed by the farmers |
+| Paper requirement | Loan application ie Form No -138, & Enclosure - B2 - All 7/12, 8 A, 6 D extracts, Chatu Sima of the applicant - In case of Co-Applicant is salaried or businessmen, the latest salary slips / ITR / Form 16 / Balance Sheet & P/L staments - No dues certificates of the applicant from surrounding financial institutions including PACS - Legal search from advocate on Bank's panel where land is to be mortgaged for 30 years - Price quotations/ Plan estimates / Permissions / Lay out etc. - Valuation Certificate from Registar / Sub - Registar of the area; All 7/12, 8 A, 6 D extracts, Chatu Sima of the applicant; In case of Co-Applicant is salaried or businessmen, the latest salary slips / ITR / Form 16 / Balance Sheet & P/L staments; No dues certificates of the applicant from surrounding financial institutions including PACS; Legal search from advocate on Bank's panel where land is to be mortgaged for 30 years; Price quotations/ Plan estimates / Permissions / Lay out etc. Valuation Certificate from Registar / Sub - Registar of the area; Guarantee form F-138 - All 7/12, 8 A & PACS dues certificate of the guarantors - In case of Guarantor is salaried or businessmen, the latest salary slips / ITR / Form 16 / Balance Sheet & P/L; All 7/12, 8 A & PACS dues certificate of the guarantors; In case of Guarantor is salaried or businessmen, the latest salary slips / ITR / Form 16 / Balance Sheet & P/L |

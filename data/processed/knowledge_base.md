@@ -3121,3 +3121,2206 @@ SERVICE CHARGES: APPLICABLE TO ALL CREDIT
 | 14 | NOC Charges in respect of exposures of Rs. 1 crore & above or any other miscellaneous request,; Modification in limits / sanction terms - per occasion (Including Sanction of new line of credit by earmarking existing limit); Revalidation of limits; Sanction/Roll over of FCL; Issue of Comfort Letter for Buyers Credit; Interest concession; Reduction in commission/other service charges. Reduction in Margin/collateral coverage; Waiver of personal/corporate guarantee; Waiver of any other sanction Stipulation. Issuance of NOC; Extension of COD |  | Upto Rs. 10 crores: Rs. 1 Lakh per instance; Above Rs. 10 crores to Rs. 50 crores - Rs. 3,00,000/- per instance; Above Rs. 50 crores - Rs. 5 Lakh per instance | M |
 | 15 | EMI default charges |  | Rs. 200/- per occasion of non-servicing of EMI on due date. Applicable after 15 days of default. | S |
 | 16 | Cheque returns charges in; Loan accounts |  | At the rate of applicable cheque, return charges. | S |
+
+# Banks MSME Schematic Loans
+
+Source: https://bankofmaharashtra.bank.in/msme-schematic-loans | Category: msme | Scraped: 2026-10-27T18:58:26+00:00
+
+## Mahabank GST Credit Scheme
+
+Fund & Non fund based Working Capital
+
+## Mahabank Scheme for units engaged in Hospitality
+
+Term Loan, Working Capital
+
+## Mahabank Scheme for Contractors
+
+Term Loan, Cash Credit, FLC/ILC, Bank Guarantee, Deferred Payment Guarantee
+
+## Maha MSME Project Loan Scheme
+
+Term loan facility for establishment of various kinds of projects
+
+## TReDS
+
+Trade Receivables electronic Discounting System
+
+## Standby Line Credit for MSME
+
+Standby Line of Credit for MSME (SLC-MSME)
+
+## MAHA LAP - Mortgage Loan
+
+MAHA LAP - Mortgage Loan
+
+# Compliance of Structured Mechanism to monitor credit growth in MSME sector
+
+Source: https://bankofmaharashtra.bank.in/msme-section | Category: msme | Scraped: 2026-10-27T18:59:46+00:00
+
+## Overview
+
+- Annexure B for Quarter Ending Sep 2019
+
+## List of MSME Specialized Branches
+
+| Sr no | Zone Name | Branch Code | Branch Name | Address |
+|---|---|---|---|---|
+| 1 | JALGOAN | 4 | JALGAON CITY | KABRA SANKUL, IN LANE OPPOSITE OLD BUS STAND, NAVI PETH, JALGAON, 425001 |
+| 2 | MUMBAI | 16 | MUMBAI-RANADE ROAD,DADAR | MAHABANK BLDG, OPP SHIV SENA BHAVAN,DADAR(w), MUMBAI, 400028 |
+| 3 | KOLHAPUR | 18 | LAXMIPURI-KOLHAPUR | KHATIK SAMAJ BLDG 1408-C, LAXMIPURI KOLHAPUR, KOLHAPUR, 416002 |
+| 4 | AMRAVATI | 21 | AMRAVATI MAIN | Parvati Bhavan,, Rajkamal Square,, AMRAVATI, 444601 |
+| 5 | THANE | 25 | BHIWANDI | 193 Sadguru Sadan Prabhu Ali Bhiwandi, Bhiwandi, BHIWANDI, 421302 |
+| 6 | AURANGABAD | 32 | AURANGABAD-CITY | SURESH BHAWAN 33332, CHAURAHA RD AURANGABAD, AURANGABAD, 431001 |
+| 7 | CHANDRAPUR | 55 | CHANDRAPUR | GANDHI CHOWK M .G .RD CHANDRAPUR, GANDHI CHOWK M .G .RD CHANDRAPUR, CHANDRAPUR, 442402 |
+| 8 | RAIPUR | 57 | DURG-GANDHI CHOWK | GURUDWAR-STATION ROAD, DURG, DURG, 491001 |
+| 9 | PUNE EAST | 73 | BARAMATI | NAGAR PARISHAD BLDG, BHIGWAN CHOWK, BARAMATI, DIST. PUNE, 413102 |
+| 10 | MUMBAI | 82 | MUMBAI-GOREGAON(W) | AB KOREGAONKAR SCHOOL COMPLEX, AAREY ROAD, GOREGAON WEST, MUMBAI, 400062 |
+| 11 | GOA | 83 | MARGAO | GOMANT VIDYA NIKETAN, ABADE FARINA RD P.B NO 29 MADGAO GOA, MADGAO GOA, 403601 |
+| 12 | GOA | 84 | PANAJI(PANJIM) | SUKERKAR MANSION, M.G. RD PANAJI GOA, PANAJI GOA, 403001 |
+| 13 | KOLHAPUR | 85 | ICHALKARANJI | SULTANPURE BLDG 364, MAIN RD ICHALKARANJI, ICHALKARANJI, 416115 |
+| 14 | THANE | 88 | SSI BRANCH-THANE | MAHABANK BLDG PLOT NO37, WAGLE INDUSTRIAL ESTATE NEAR OLD PASS PORT OFFICE,, THANE - WEST, 400604 |
+| 15 | INDORE | 106 | INDORE, M G ROAD BRANCH | PHADNIS COMPLEX 88, M G RD INDORE, INDORE, 452007 |
+| 16 | MUMBAI | 117 | MUMBAI-MALAD(WEST) | CHANDRA SHALI LIBERTY GARDEN RD, CROSS RD NO.1MALAD (WEST), MUMBAI, 400064 |
+| 17 | NAGPUR | 153 | NAGPUR-SHANKAR NAGAR | 16 SHIRISH, SOUTH AMBAZARI RD LAXMI NAGAR NAGPUR, NAGPUR, 440022 |
+| 18 | NASIK | 166 | NASIK-SSI BRANCH (SATPUR) | C/O BSNL Training Centre, STREET -D TRIMBAK RD MIDC SATPUR NASIK, NASIK, 422007 |
+| 19 | MUMBAI | 228 | MUMBAI-GHATKOPAR(EAST) | NEELKANTHA KRUPA 353/36, R .B MEHTA RD GHATKOPAR MUMBAI, MUMBAI, 400077 |
+| 20 | BANGALORE | 304 | BANGALORE-CITY MARKET | NO 13 PAXAL TOWERS, K R Road BANGALORE, BANGALORE, 560002 |
+| 21 | NAGPUR | 312 | NAGPUR-HINGNA INDL.EST. | COMMON SERVICE CENTRE, HINGNA WADI RD M.I.D.C.IND ESTATE NAGPUR, NAGPUR, 440028 |
+| 22 | Navi Mumbai Zone | 353 | TURBHE-VASHI | SECTOR-1 CIDCO OLD ADMN BLDG, VASHI NEW MUMBAI, NEW MUMBAI, 400703 |
+| 23 | CHENNAI | 354 | COIMBATORE-RAJA STREET | 194/1, SUBRAMANI BLDG, R.G. STREET, COIMBATORE, 641001 |
+| 24 | DELHI | 365 | FARIDABAD | D2 NH2/192 CHOWK, NIT FARIDABAD, FARIDABAD, 121001 |
+| 25 | Pune West Zone | 386 | PUNE-BHOSARIGAON | D.P LANDGE BLDG, LANDEWADI CHOWK TELCO RD BHOSARIGAON, PUNE, 411026 |
+| 26 | CHANDIGARH | 442 | AMRITSAR | MODELLA WOLLEN MILLS BLDG, M.M. MALYIYA RD AMRITSAR, AMRITSAR, 143001 |
+| 27 | JABALPUR | 449 | CHINDWARA | MALVIYA COMPLEX, BESIDE SURYA HOTEL, PARASIA ROAD, CHHINDWARA, 480001 |
+| 28 | SOLAPUR | 464 | SAKHAR PETH-SOLAPUR | KONDLE BLDG 105, SAKHAR PETH SOLAPUR, SOLAPUR, 413005 |
+| 29 | CHENNAI | 479 | Tirupur | 488 P.N.RD TIRUPUR, P.N.RD TIRUPUR, TIRUPUR, 641602 |
+| 30 | AHMEDNAGAR | 543 | NAGAPUR | P 58,MIDC INDUSTRIAL ESTATE NAGAPUR, MIDC NAGAPUR, DIST. AHMEDNAGAR, 414111 |
+| 31 | THANE | 586 | NARPOLI | 1ST FLR DHAMANKAR PLAZA, DHAMANKAR NAKATAL BHIVANDIDIST THANE, NARPOLI, 421305 |
+| 32 | CHANDRAPUR | 618 | DEWAI GOVINDPUR | CHAVARE BHAVAN, TADOBA RD CHANDRAPUR, DEWAI GOVINDPUR, 442401 |
+| 33 | SATARA | 619 | SATARA-SSI BR.(KRISHNANAGAR)-KHED | Uttekar Arcade, Bombay Restaurant chowk, KRISHNANAGAR, NH-4, MIDC Road, Survey no. 23A/6/5, Satara, 415003 |
+| 34 | AHMEDABAD | 628 | PIRAMAN-SSI BRANCH | C1,C2, Kewal Shopping Centre,, Near Mega Automobile, PIRAMAN, 393002 |
+| 35 | KOLKATA | 715 | CALCUTTA-S.P.MUKHERJEE ROAD | 31-A SHANTI APPARTMENT, S.P. MUKHERJEE RD KOLKATA, KOLKATA, 700025 |
+| 36 | NASIK | 834 | AMBAD INDUESTATE BRANCH | Plot no.15 & 16, Opp Nikita Mangal Karyalaya, Near Ambad Police Stn, Ashwin Nagar, NASIK, 422009 |
+| 37 | SOLAPUR | 930 | SOLAPUR-ASHOK CHOWK | NEW PACHHAPETH 1881, DATTANAGAR RD ASHOK CHOWK SOLAPUR, SOLAPUR, 413005 |
+| 38 | MUMBAI | 964 | MUMBAI-DAHISAR (E) | ANKIT, SURVEY NO 37 S.V. RD DAHISAR (E), MUMBAI, 400068 |
+| 39 | RAIPUR | 981 | BYRON BAZAR, RAIPUR | CHANDANI BHAVAN, NETAJI CHOWK, KATORIA TALAB, B.B.RAIPUR, 492001 |
+| 40 | HYDERABAD | 1138 | CHAMPAPETH HYDERABAD | REDDY COL NAGARJUNA SAGAR RD, NR CHAMPAPETH BUS ST, HYDERABAD, 500059 |
+| 41 | PUNE CITY | 1140 | PUNE-SSI BRANCH | POONAM PLAZA, MKT YARD OPP. KAMAL NURSING HOME PUNE, PUNE, 411037 |
+| 42 | BANGALORE | 1147 | SSI BANGALORE | NO 1197 OLD, NEW 61, 18 A MAIN, 5TH BLOCK, RAJAJINAGAR BANGALORE, BANGALORE, 560010 |
+| 43 | Pune West Zone | 1151 | Chakan | PARDESHI BLDG,, MKT YARD CHAKAN TAL KHED, CHAKAN, 410501 |
+| 44 | THANE | 1216 | Thane Municipal Corp. Branch | THANE MUNICIPAL CORP BLDG, GROUND FLR, PANCHPAKHADI THANE (W), THANE - WEST, 400602 |
+| 45 | LUCKNOW | 1262 | GORAKHPUR BRANCH | 1ST FLR, KESHAV MKT GOLGHAR GORAKHPUR U.P, GORAKHPUR, 273001 |
+| 46 | LUCKNOW | 1317 | FEROZABAD | 31 M0NAPURAM, OPP.C.L.JAIN DEGREE COLLEGE.GANESHNAGAR, FIROZABAD, 283203 |
+| 47 | JABALPUR | 1379 | Hospital Br, Jabalpur | JABALPUR HOPSITAL CAMPUS, RUSSEL CHOWK, JABALPUR, JABALPUR, 482002 |
+| 48 | Jaipur | 1512 | Kishangarh | Old Mill Chouraha, Madanganj,, Kishangarh,, Ajmer, Rajasthan, 305801 |
+| 49 | KOLHAPUR | 1575 | KOLHAPUR, MID CORPORATE(Gokul Shirgaon) | P/40 GOSHIMA BUILDING,, MIDC AREA, GOKUL SHIRGAON KOLHAPUR, 416234 |
+| 50 | AHMEDABAD | 1796 | Morvi | Meet Plaza, Savasar Plot,, Street No 3/16, Off Salana Road, Morbi, 363641 |
+
+# Documents need to be submitted for MSME Loan
+
+Source: https://bankofmaharashtra.bank.in/documents-for-msme-loan | Category: msme | Scraped: 2026-10-27T18:58:46+00:00
+
+## Overview
+
+List of Documents to be submitted along with the loan application form for MSME proposals are mentioned as under:
+
+| S.No. | Checklist for MSME Proposals |
+|---|---|
+| 1 | Request of the borrower / Duly filled and signed application form |
+| 2 | KYC of the borrowing company / promoters / directors / guarantors: Identity Proof: PAN / Aadhaar Card / Voter's ID Card / Passport / Driving License / Passport. Address Proof: Aadhaar Card / Recent telephone bills, electricity bill, property tax receipt /Passport / voter's ID Card of Proprietor, partner of Director (if a company) |
+| 3 | Business Documents: UDYAM Registration Certificate (Mandatory for MSMEs) / CIN / GST registration / LEI / Import Export Code etc. Memorandum and Articles of Association of the Company / Partnership Deed of partnership firms, etc. Certificate of incorporation from RoC in case of company (CIN No. and DIN no. of directors). Net worth certificates of promoters and guarantors along with latest income tax returns. |
+| 4 | Board resolution for certifying borrowing powers in case of Company |
+| 5 | Latest CA certified Net worth with valid UDIN number for all the borrowers/guarantors |
+| 6 | Duly verified GST returns from GST website for last completed year and up to latest completed month (if applicable) |
+| 7 | Audited financials of last two years |
+| 8 | CMA/Projections (signed and stamped by the borrower) Minimum next two years in case of working capital; Projections up to the period of term loan in case of term loan |
+| 9 | Banking Arrangement with latest outstanding and unavailed position. |
+| 10 | Sanction letters of existing facilities from other banks if applicable. |
+| 11 | TEV report for proposal above Rs. 15.00 cr. (as per applicable guidelines) |
+| 12 | Copies of lease deeds/ title deeds of all the properties being offered as primary and collateral securities |
+| 13 | External Credit Risk Rating Report for proposals above Rs. 25.00 crore |
+| 14 | Other documents / licensees etc. required based on the nature of the business entity such as manufacturing, trading, export-import, service sector etc. on case-to-case basis. |
+
+# FAQs on MSME Loans
+
+Source: https://bankofmaharashtra.bank.in/msme-faqs | Category: msme | Scraped: 2026-10-27T18:59:42+00:00
+
+## Overview
+
+1. Credit for MSMEs
+  1. What is full form of MSME? Micro, Small & Medium Enterprises.
+  2. What are the criteria of classification as MSMEs?: An enterprise shall be classified as a micro, small or medium enterprise based on the following criteria viz.,
+    - A micro enterprise, where the investment in plant and machinery or equipment does not exceed Rs. 2.5 crore and turnover does not exceed Rs. 10 crore;
+    - A small enterprise, where the investment in plant and machinery or equipment does not exceed Rs. 25 crore and turnover does not exceed Rs. 100 crore; and
+    - A medium enterprise, where the investment in plant and machinery or equipment does not exceed Rs. 125 crore and turnover does not exceed Rs. 500 crore.
+  3. Which credit facilities are classified under MSME Credits?: Credit facilities to units having valid Udyam Registration Certificate / Udyam Assist Certificate are classified under MSME Credits.
+  4. Is there any specific scheme for GST registered MSMEs? Yes, Bank has special scheme for GST registered MSMEs. The assessment of limit under this scheme is based on the turnover of business as per annual GSTR.
+  5. Is there any concession available based on collateral coverage? For MSME Loans, Bank provides concession in RoI maximum upto 0.75% based on collateral coverage.
+2. Do the Bank provide any checklist of documents required? Bank is providing checklist of the documents to be submitted (compliant with legal and regulatory requirements) along with the loan application form which is to be completed in all respects. If required, we will assist you in filling up your loan application form.
+3. Do the Bank provide any acknowledgement for loan application? Bank is providing acknowledgement of loan application, whether submitted online or manually.
+4. What are special credit schemes for MSME Loan?: Bank has list of schemes under various segments. Some of them are mentioned as under: (Guidelines of the schemes are available on Bank's website under respective Icons)
+  1. Mahabank GST Credit Scheme
+  2. Business Loan against Property (Maha Lap-Business loan)
+  3. MAHA MSME Project Loan Scheme
+  4. Maha Doc Scheme for Doctors
+  5. Mahabank Professional loan scheme
+  6. Mahabank Scheme for Contractors
+  7. Mahabank Scheme for Units Engaged in Hospitality
+  8. Channel Financing Scheme for Dealers and Vendors
+  9. Mahabank financial assistance to service sector
+  10. MSME Cluster Scheme for 'Glass & Bangles Cluster'
+  11. Mahabank Textile Cluster Scheme
+  12. Mahabank MSME Gold Loan Scheme
+  13. Mahabank Finance to Solar Vendors (MFSV)
+  14. Mahabank finance against e-NWR of Agriculture Produce to Traders (e-NWR: Traders)
+  15. Mahabank Equipment Finance Scheme for Priority and Non-Priority Customers
+  16. Maha Mahila Unnati Scheme
+  17. Maha Surya Urja Finance Scheme
+  18. Maha MSME Machinery, Equipment Loan scheme
+  19. Mahabank Transport Operator Loan Scheme-MTLS
+  20. TReDS
+  21. Export Credit
+  22. Project Finance
+  23. Mahabank Finance to MSME Start Ups.
+5. What are the Government schemes in which Bank of Maharashtra is participating for financing to MSME Loans? Bank of Maharashtra participate in various Government schemes for financing to MSMEs. Some of them is mentioned below,
+  1. Pradhan Mantri Mudra Yojana (PMMY)
+  2. Credit Linked Capital subsidy Scheme (CLCSS)
+  3. Stand up India (SUI)
+  4. Prime Minister's Employment Generation Program (PMEGP)
+  5. Chief Minister Employment Generation Programme (CMEGP)
+  6. PM-SVANidhi
+  7. PM-Vishwakarma
+  8. Credit Facilities to SCs & STs
+  9. Credit Facilities to Minority Communities
+  10. Weaver Mudra Scheme
+  11. Technology Upgradation Fund Scheme (TUFS)
+  12. Export Credit
+  13. Mukhyamantri-YUVA
+  14. CM-SVANidhi- Rajasthan
+6. Which credit schemes are available for Start Ups?
+  - Bank has developed special scheme which are exclusive for Start Ups in the name of "Mahabank Finance to MSME Start Ups".
+  - Bank finances to Startups on merit basis (viable business plan, financial statement, legal documents etc.) under various other schemes like MUDRA, CMEGP, PMEGP etc.
+7. Business models surround merging technologies.
+  - Bank is financing to MSMEs through our co-lending partners. The system of assessment and validations for loan is being done through set business rule engine for analysing digital footprints of the customer.
+  - Presently Bank is doing auto renewal of existing Cash Credit accounts (Upto Rs. 10.00 Lakhs) based on set rule engines.
+8. What are the measures taken by Bank to promote Gender Diversity? Bank provides MSME advances to all customers irrespective of gender. However, to encourage women entrepreneurs, Bank has developed special customized scheme namely "Maha Mahila Unnati Scheme" for providing collateral free loan upto Rs. 5.00 crore to Women owned and managed MSMEs. Through this scheme, Bank is providing loans at attractive Rate of Interest and at 50% lower processing fee to assists women in achieving economic empowerment.
+9. What are the measures being taken by the bank towards Sustainability?
+  - Bank has taken initiative towards green financing. This covers various segments like financing to project under renewable energy, Solar energy, recycling of waste, Rain harvesting etc.
+  - In addition to this, Bank is promoting digital onboarding of customers on various digital platforms like mobile banking, internet banking, loan application through Bank's website etc. for paperless banking.
+  - Bank provides incentives in terms of concession in RoI, processing fee and commission on BG & LC to ZED certified MSMEs based on category of certification i.e. Gold, Silver, or Bronze.
+10. Is it mandatory to provide Collateral security to avail a loan from Bank?
+  - No, it is not mandatory to provide Collateral security to avail a loan from Bank under mentioned schemes.
+  - Bank is one of the Member Lending Institution registered with NCGTC & CGTMSE and provides collateral free loans of maximum: upto Rs. 20 lakh by covering account under CGFMU/CGTMSE guarantee cover. Further loan amount upto Rs. 10 crores can be covered under CGTMSE guarantee scheme.
+11. Is there any recourse in case Bank resorts to undue delay or arbitrary rejection of loan proposal?
+  - Bank has a customer grievance redressal mechanism and in case of undue delay or arbitrary rejection of the loan, the complaint can be filed with bank's Grievance Officer.
+  - If case of non-redressal, complaint can be escalated to Internal Ombudsman.
+  - Complaint can also be lodged with RBI Ombudsman.
+
+# General MSME Credit Facilities
+
+Source: https://bankofmaharashtra.bank.in/general-msme-credit-facilities | Category: msme | Scraped: 2026-10-27T18:58:55+00:00
+
+## Credit Facilities to Entrepreneurs
+
+For the endeavouring entrepreneur who dreams of setting up an enterprise,Bank has a number of financial schemes
+
+## Collateral Free Term Loan Facility
+
+Term loan facility for business purpose
+
+## Collateral Free Cash Credit Facility
+
+Cash credit facility for working capital purpose
+
+## Regular Cash Credit Facility
+
+Cash credit facility for working capital purpose
+
+# Government Schemes for MSME
+
+Source: https://bankofmaharashtra.bank.in/government-schemes-for-msme | Category: msme | Scraped: 2026-10-27T18:58:56+00:00
+
+## PMMY
+
+Pradhan Mantri Mudra Yojana
+
+## SUI
+
+Stand Up India Scheme
+
+## PM SVANidhi Scheme
+
+Prime Minister Street Vendors AtmaNirbharNidhi Scheme
+
+## PMEGP
+
+Pradhan Mantri Employment Generation Program
+
+## NULM, NRLM and MRSETIs
+
+NULM, NRLM and MRSETIs
+
+## MCGSMSME
+
+Mutual Credit Guarantee Scheme for MSMEs
+
+## PMV
+
+PM Vishwakarma
+
+## CMEGP
+
+Chief Minister Employment Generation Programme
+
+## MFSV
+
+Mahabank Finance to Solar Vendor
+
+## CGSE
+
+Credit Guarantee Scheme for Exporters
+
+# Maha MSME Machinery/Equipment Scheme
+
+Source: https://bankofmaharashtra.bank.in/msme-machinery-equipment-scheme | Category: msme | Scraped: 2026-10-27T18:59:45+00:00
+
+## Overview
+
+- Term loan facility for purchase of machinery & equipments; Maximum Rs. 50.00 Crore
+- Primary security of assets purchased/created
+- CGTMSE cover available for loan upto Rs. 5 crore.
+- Minimum 25% margin
+- Repayment period up to 7 years including moratorium period
+- Incentive by way of reduction in rate of interest if collateral security is provided
+
+# Maha MSME Project Loan Scheme
+
+Source: https://bankofmaharashtra.bank.in/maha-msme-project-loan-scheme | Category: msme | Scraped: 2026-10-27T18:59:11+00:00
+
+## Overview
+
+Bank of Maharashtra's MSME Project Loan Scheme is tailored to support Micro, Small, and Medium Enterprises (MSMEs) in establishing diverse projects across industries. This scheme offers a term loan facility with attractive features to cater to the unique financial needs of MSMEs.
+
+## Key Features
+
+- Term Loan Facility: Provides financial assistance for setting up various projects, ensuring MSMEs have the necessary capital to commence operations.
+- Primary Security: The assets purchased or created through the loan serve as the primary security, simplifying business collateral requirements.
+- Collateral-Free Loans: For loan amounts up to Rs. 5 crore, the scheme offers coverage under the Credit Guarantee Fund Trust for Micro and Small Enterprises (CGTMSE), eliminating the need for additional collateral.
+- Competitive Interest Rates: Borrowers can benefit from a reduction in the MSME business loan interest rate when collateral security is provided, making the financing more affordable.
+- Flexible Repayment Terms: The scheme offers a repayment period of up to 10 years, including a maximum moratorium period of 2 years, allowing businesses ample time to stabilize and repay the loan comfortably.
+
+## MSME Loan Subsidy Scheme
+
+In addition to the loan facilities, eligible MSMEs can avail of benefits under various MSME loan subsidy schemes. These schemes aim to reduce the financial burden on enterprises by providing subsidies on interest rates and capital investments. For instance, the Credit Linked Capital Subsidy Scheme (CLCSS) offers a 15% upfront capital subsidy to MSMEs for technology upgradation, facilitating modernization and improved competitiveness.
+
+## MSME Loans Rate of Interest
+
+The MSME loan rate of interest under this scheme is structured to be competitive, ensuring that enterprises can access funds without facing prohibitive costs.
+
+Interest rates may vary based on factors such as the loan amount, tenure, and whether collateral security is provided. Notably, offering collateral can lead to a reduction in the applicable interest rate, further easing the financial load on the business.
+
+## Eligibility Criteria for MSME Loan
+
+To qualify for the MSME Project Loan Scheme, applicants must meet the following criteria:
+
+- Business Type: The applicant must operate within the MSME sector, engaging in manufacturing, trading, or services.
+- Project Viability: A well-defined project plan demonstrating feasibility and potential for success is essential.
+- Compliance: The business should adhere to statutory requirements and possess necessary registrations as mandated for MSMEs.
+
+## MSME Loan Application Process
+
+Interested enterprises can apply for the MSME Project Loan Scheme by visiting the nearest Bank of Maharashtra branch.
+
+The application process involves submitting the project report, financial statements, KYC documents, and other relevant paperwork as specified by the bank. Bank officials are available to guide applicants through the process, ensuring clarity and assistance at each step.
+
+By leveraging the MSME Project Loan Scheme, businesses can secure the necessary funding to establish or expand their operations, contributing to economic growth and development.
+
+The combination of competitive MSME business loan interest rates, flexible terms, and supportive subsidy schemes makes this a truly valuable offering for MSMEs aiming for success.
+
+# Mahabank Finance to MSME Start Ups
+
+Source: https://bankofmaharashtra.bank.in/mahabank-finance-to-msme-start-ups | Category: msme | Scraped: 2026-10-27T18:59:21+00:00
+
+## Overview
+
+| Parameter | Scheme Features |
+|---|---|
+| Objective | To provide financial assistance and support to Startups recognized by DPIIT, in order: to foster innovation and entrepreneurship for a vibrant Startup ecosystem in the country and; to create employment opportunities, and to achieve an inclusive socio-economic growth and wealth creation. |
+| Eligibility Criteria | For Startup Entity working towards innovation, development or improvement of products or processes or services, or if it is a scalable business model with a high potential of employment generation or wealth creation. Constitution: Private Limited Company, Registered Partnership, Limited Liability Partnership, or as acceptable for classification as "Start-up" under Start-up India Scheme of GoI, or any other notifications issued in this regard from time to time. Registration: Should be registered with/ recognized by DPIIT, Government of India, or any other Government Department; Banking arrangement: The Unit to avail loan under sole banking arrangement only. Startup not in default to any lending/investing institution and not classified as Non-Performing Asset as per RBI guidelines. An entity formed by splitting up or reconstruction of an existing business shall not be considered as a "Startup". No Corporate loan is to be considered for Startups. |
+| Purpose | To provide financial assistance to Start-ups for their various business requirements as follows: Purchase of Raw materials, machineries, equipment. Licenses and Certifications. Team hiring, recruitment of staff/training. Legal & consulting services; Marketing and sales; Purchase/leasing of office spaces and/administrative expenses. Any other specific need of Startup (not covered above), as deemed fit by bank. |
+| Nature of Facility | Working capital [ Fund Based (FB) and Non-Fund Based (NFB)]; Term Loan |
+| Loan amount | Minimum: Above Rs. 25 lakh; Maximum: Upto Rs. 20 Crore |
+| Loan tenure | Up to 10 years |
+| Margin | 25% (Working Capital & Term Loan) |
+| Rate of Interest | As per the bank's extant guidelines |
+| Security | Primary Security: Hypothecation of stocks and book debts/ Hypothecation of assets purchased out/created out of Bank loan. Equitable Mortgage of property purchased out loan, if available. Collateral Security: For accounts covered under CGTMSE/CGSS Scheme- NIL; For non CGTMSE/CGSS covered cases: Collateral norms will be applicable as per bank's extant Loan Policy. |
+
+# Mahabank GST Credit Scheme
+
+Source: https://bankofmaharashtra.bank.in/mahabank-gst-credit-scheme | Category: msme | Scraped: 2026-10-27T18:59:23+00:00
+
+## Overview
+
+| Parameter | Details |
+|---|---|
+| Eligibility | MSME Units engaged in trading/services/manufacturing activity irrespective of constitution with standing in business of at least one year. The MSME unit/borrower should have requisite registration under GST Act i.e., Provisional Registration (GST REG-25) or Final Registration (GST REG-06); The MSME unit/borrower should have valid GST returns i.e., GSTR-1(Regular) for minimum latest 3 months / GSTR-4(Composition) for latest quarter. The facility under the scheme is available only under Sole Banking. |
+| Purpose | To fund need based working capital requirement for trading/services/manufacturing activity |
+| Nature of Facility | Working Capital (Fund & Non fund based) |
+| Quantum of Finance | Minimum above Rs. 10.00 lakh; Maximum upto Rs. 25.00 crore |
+| Margin | 25% of paid stock & receivables |
+| Rate of Interest | RLLR linked Incentive by way of ROI reduction if collateral is provided; CGTMSE cover available for loan amount of upto Rs. 5 Crore |
+| Security | Primary: Hypothecation of Inventory & Receivables; Guarantee: No third party guarantee or collateral security, if the advance is covered under CGTMSE. |
+| Processing Fees | As per extant guidelines |
+| CMR for New / fresh Borrower | CMR 1 to CMR 4 |
+| Concession in Processing Charges for takeover loans / new MSME borrowers (New to Bank) | CMR - Processing Fee; 1 & 2 - NIL; 3 & 4 - 50% Concession |
+
+# Mahabank MSME Gold Loan Scheme
+
+Source: https://bankofmaharashtra.bank.in/msme-gold-loan | Category: msme | Scraped: 2026-10-27T18:59:43+00:00
+
+## Overview
+
+#### Salient features
+
+| Parameter | Scheme Description |
+|---|---|
+| Purpose | For meeting business requirements. Repayment of outside debt / liability availed for business purpose. |
+| Eligibility Entities | All Individuals / Proprietary concern engaged in Manufacturing/trading/ services sectors owning gold ornaments/ Jewellery/ Coins, either singly or jointly with spouse. UDYAM Registration number (URN) is mandatory. |
+| Quantum of Loan | Minimum: Rs. 20,000/- (Twenty thousand Only); Maximum: Rs. 100.00 Lakh (Hundred Lakh Only) |
+| Margin | Repayment Type - Margin; Term Loan (EMI) - 25%; Bullet Repayments (Maximum 12 months) - 32% |
+| Loan Tenure | Term Loan (EMI): Maximum 12 Months; Bullet Repayment: Maximum 12 Months |
+| Repayment Mode | Term Loan: EMI (Equated Monthly Instalment) for period of maximum 12 months. Bullet Repayment: Repayable at the end of the term (up to 12 months) along with interest accrued. Repayment of Interest & Principal at the end of term. Interest will be charged to the account at monthly rests but will become due for payment along with principal only at maturity. |
+| Interest Rate | Applicable ROI: RLLR + 0.40% i.e. 8.70% p.a. at present. Present RLLR is 8.30% p.a. RLLR shall be as stipulated by bank from time to time. |
+| Security | Pledge of gold jewellery / ornaments. |
+| Pre-payment charges | NIL |
+
+# Mahabank Scheme for Contractors
+
+Source: https://bankofmaharashtra.bank.in/mahabank-scheme-for-contractors | Category: msme | Scraped: 2026-10-27T18:59:29+00:00
+
+## Overview
+
+| Parameter | Details |
+|---|---|
+| Eligibility | Civil Contractors, Mining Contractors, Engineering Contractors, Transport Contractors, Electrical Contractors, Road Contractors, Irrigation Contractors, Pipeline Contractors etc established as Proprietorship / Partnership firms / Limited Companies; Individuals, Proprietorship, Partnership Firm and limited companies eligible to be classified as MSME under the MSMED Act, 2006 with Credit Rating (Internal/External as applicable) of BBB and above; MSME Units engaged in the business line at least for the last 3 years; Having Audited Financial Statements for last 3 years; Profit making for last 3 years; CIBIL Score as under - For Individuals viz., partners and proprietor 700 and above - For Commercial Report CIBIL MSME Rank (CMR) CMR 1 to CMR 5; For Individuals viz., partners and proprietor 700 and above; For Commercial Report CIBIL MSME Rank (CMR) CMR 1 to CMR 5 |
+| Purpose | Cash Credit, FLC/ILC & BG facility for meeting working capital requirement; Term Loan for purchase of equipment/machinery/vehicle. |
+| Nature of Facility | Fund Based: Term Loan & Cash Credit; Non Fund based:: FLC/ILC, Bank Guarantee, Deferred Payment Guarantee |
+| Quantum of Finance | Minimum Rs. 10 Lakhs Maximum Rs. 10.00 Crore |
+| Margin | Micro & Small Enterprises: Minimum 20% upfront; Medium Enterprise: Minimum 25% upfront |
+| Rate of Interest | RLLR based: Incentive by way of ROI reduction if collateral is provided. CGTMSE cover available for loan upto Rs. 5 crore. |
+| Fees & Charges | As per extant service charges guidelines |
+
+## Frequently Asked Questions
+
+### 1. What is the Mahabank Scheme for Contractors?
+
+The Mahabank Scheme for Contractors is a loan scheme offered by the Bank of Maharashtra to provide financial assistance to contractors for their business needs. The scheme offers working capital facilities such as Cash Credit, Bank Guarantees, and Letter of Credit, as well as Term Loans for purchasing machinery, vehicles, or equipment required for contract work.
+
+2. Who is eligible to apply for the Mahabank Scheme for Contractors?
+
+The scheme is available to contractors such as civil, mining, engineering, electrical, transport, irrigation, pipeline, and road contractors. Eligible applicants include proprietorship firms, partnership firms, and limited companies classified as MSMEs under the MSMED Act with at least three years of business operations and satisfactory credit ratings.
+
+3. What is the minimum and maximum loan amount available under this scheme?
+
+Under the Mahabank Scheme for Contractors, borrowers can avail finance starting from Rs. 10 lakh up to Rs. 10 crore, depending on the nature of the project, financial capacity, and bank's credit assessment.
+
+4. What is the purpose of the loan under the Mahabank Scheme for Contractors?
+
+The loan can be used for multiple business purposes, including meeting working capital requirements, obtaining bank guarantees or letters of credit for contract execution, and purchasing equipment, machinery, or vehicles required for contract projects.
+
+5. What types of loan facilities are offered under this scheme?
+
+The scheme offers both fund-based and non-fund-based facilities. Fund-based facilities include Term Loans and Cash Credit, while non-fund-based facilities include Bank Guarantees and Letters of Credit to support contractors in executing projects.
+
+6. What is the margin requirement for the Mahabank Scheme for Contractors?
+
+The margin requirement depends on the size of the enterprise. Micro and Small Enterprises generally require a minimum margin of 20%, while Medium Enterprises may need a minimum margin of 25% of the project cost.
+
+7. Is collateral required for the Mahabank Scheme for Contractors?
+
+Collateral requirements depend on the loan amount and credit profile. In some cases, loans may be covered under the Credit Guarantee Fund Trust for Micro and Small Enterprises (CGTMSE) for amounts up to Rs. 5 crore, which can help eligible borrowers access credit without additional collateral.
+
+8. What is the interest rate for the Mahabank Scheme for Contractors?
+
+The interest rate under the scheme is linked to the Repo Linked Lending Rate (RLLR) of the Bank of Maharashtra. Borrowers may also receive interest rate concessions depending on collateral availability and credit profile.
+
+# Mahabank Textile Cluster Scheme
+
+Source: https://bankofmaharashtra.bank.in/mahabank-textile-cluster-scheme | Category: msme | Scraped: 2026-10-27T18:59:30+00:00
+
+## Loan for Textile unit for New and existing customer.
+
+Cluster based approach to lending is intended to provide a full-service approach to cater the diverse needs of MSME sector, which can be achieved through extending banking services to recognized MSME clusters.
+
+In this regard, Bank of Maharashtra launched Mahabank Textile Cluster Scheme for specified branches. Following cluster are eligible under Mahabank Textile Cluster Scheme,
+
+- Kolhapur Powerloom Cluster
+- Surat Fabric Cluster
+- Malegaon Paithani Saree Cluster
+- Coimbatore Spinning Mills Cluster
+- Tiruppur Knitwear Cluster
+- Jaipur Handloom Cluster
+- Ludhiana Textile Cluster
+
+## Key Features
+
+- Concessional RoI starts from 7.50%.
+- Loan upto Rs. 100.00 Crores.
+- Concession in processing fee upto 60%.
+- Low margin requirement.
+- Repayment period of upto 10 years including moratorium of 18 months.
+
+## Salient features of Mahabank Textile Cluster Scheme,
+
+| Parameter | Scheme Description |
+|---|---|
+| Eligibility | Individuals, Proprietorship, Partnership Firm, LLPs, Private Limited and Limited companies eligible to be classified as MSME for Setting up of Powerloom unit, Saree Manufacturing Unit, Spinning Mills Unit, Knitwear unit, Textile Printing Unit. Manufacturing and trading of Yarn (Cotton, Synthetic silk, processing of yarn i.e. Warping, Twisting, Texturizing, etc. and manufacturing of Thread, Net, Tapes etc.); Manufacturing and trading of Fabrics (All Clothes, Shawls, Blanket, Suiting and Shirting's, Curtains, Knitted Fabric, Synthetics Silk etc.); Manufacturing and trading of Jari used in Fabric (Metalizing, Cutting etc.); Processing of fabric (Dyeing, Printing, Finishing, Embroidery, other value additions on fabrics etc.); Manufacturing and processing of sarees, dress materials, garments, apparels, etc. |
+| Purpose | Domestic as well as Export Credit purpose: For meeting working capital requirement. For Capital Expenditure / purchase of equipment / machinery. |
+| Nature of Facility | Fund Based as well as Non fund based. |
+| Quantum of Finance | Minimum above Rs. 0.25 crore. Maximum upto Rs. 100.00 crores. |
+| Margin | For Domestic facility: Minimum 20% is applicable. For Export Credit facility: i) Pre shipment/PC is 10%. ii) Post shipment/ FOBN is Nil. |
+| Rate of Interest | RLLR linked, Concessional RoI starts from 7.50%. Incentive by way of RoI reduction if collateral provided. |
+| CGTMSE | CGTMSE cover available for loan amount of upto Rs. 5 Crores. |
+| Security | Primary: Hypothecation/Mortgage of asset created out of bank finance, receivables etc. Guarantee: No third-party guarantee, if the advance covered under CGTMSE. |
+| Processing Fee | Working Capital- 0.25% of the sanctioned limit. Term Loan- 0.40% of the sanctioned limit. |
+| CMR for New/ Fresh borrower | CMR 1 to CMR 5 |
+| Concession in commission on LC & BG | CMR - Concession in Commission in LC / BG Issuance; 1 & 2 - 50%; 3 & 4 - 25% |
+
+# MSME SUITE
+
+Source: https://bankofmaharashtra.bank.in/msme-suite | Category: msme | Scraped: 2026-10-27T18:59:47+00:00
+
+## Overview
+
+#### The MSME Suite offers a seamless, paperless, and convenient experience for MSME customers with four key services as listed below:
+
+| SN | Feature | Stock Statement | Solvency Certificate | GST/URC Number | Customer Feedback |
+|---|---|---|---|---|---|
+| 1 | Purpose | To enable Cash Credit borrowers to submit their monthly stock statements digitally. Helps the bank compute Drawing Power (DP) accurately based on the declared stock position. | To provide an official certificate from the bank certifying the financial strength and stability of a customer. | To help MSME customers update their Udyam Registration Number (URN) and GST Number with the bank as part of their KYC and business identity records. | To provide MSME customers a simple, digital platform to collect feedback from their customers regarding their products or services. |
+| 2 | Key Features | Easy monthly online submission. Faster DP assessment and reduced follow-ups. Ensures timely compliance for CC accounts. | Digital request for solvency certificate. Transparent and faster processing. | Simple online updation facility. Supports customers in maintaining updated KYC. | MSME corporate and retail customers who wish to gather customer feedback digitally. |
+| 3 | Eligibility | Customers having Cash Credit facility with the bank. | Personal KYC & business KYC; Audited Balance Sheet not older than 12 Months; Statement of Assets and Liabilities - with backup of the declared numbers. | Customers having Cash Credit facility with the bank. | No eligibility |
+
+# Mutual Credit Guarantee Scheme for MSMEs
+
+Source: https://bankofmaharashtra.bank.in/mutual-credit-guarantee-scheme | Category: msme | Scraped: 2026-10-27T18:59:48+00:00
+
+## Overview
+
+In line with the guidelines of NCGTC, a new credit guarantee scheme "Mutual Credit Guarantee Scheme for MSMEs" is introduced. Detailed Scheme guidelines are mentioned as below:
+
+| S.N. | Parameters | Features |
+|---|---|---|
+| 1 | Name of Scheme | Mutual Credit Guarantee Scheme for MSMEs (MCGSMSME). |
+| 2 | Purpose | To provide guarantee coverage for term loan assistance upto Rs. 100 crore to eligible Micro, Small and Medium Enterprises (MSMEs) for their projects involving purchase of equipment/machinery. |
+| 3 | Eligible Borrower | Entity should be engaged in manufacturing activity. It should be an MSME with valid Udyam Registration Number at the time of sanction. The borrower account, otherwise eligible under the scheme, should not be an NPA with any lender as on the date of sanction/disbursement of loan under the scheme. Note: - Borrower should be MSME entity at the time of sanction. If after availing loan, borrower become large entity, even then borrower would be eligible for guarantee coverage. |
+| 4 | Eligibility Criteria | The eligibility criteria under the scheme are as under: Existing as well as new projects/units for purchase of equipment/machinery. Minimum cost of equipment/ Machinery is 75% of project cost. Scheme is admissible for all business activities. There is no negative list for coverage. |
+| 5 | Scheme Duration | The scheme would be available for a period of 4 years from the date of issue of guidelines i.e. 27.01.2025 or till loans cumulating to Rs. 7.00 lakhs crore are issued, whichever is earlier, by NCGTC. |
+| 6 | Nature of Facility | Term Loan. |
+| 7 | Quantum of loan | Maximum loan amount for guarantee support under the scheme is Rs. 100.00 crores. Note: - Loan amount can be greater than Rs. 100.00 crore. For all such cases, two separate repayment schedules to be generated, one for Rs. 100.00 crore and another for remaining loan sanction amount. Both should have same moratorium period and total repayment period. Any recovery/repayment received against the overall loan should be adjusted proportionately against the two. |
+| 8 | Margin | Term Loan - 25% of project cost. |
+| 9 | Rate of Interest | As per extant guidelines for MSME advances (Both Schematic and Non-Schematic) for all eligible borrowers under this credit guarantee scheme. |
+| 10 | Repayment Period for Loan under this scheme | For Term Loan upto Rs. 50.00 crores: Repayment period of maximum upto 8 years with upto 2 years moratorium period on principal instalments. (Upto 10 years including moratorium period); For Term Loan above Rs. 50.00 crores: Repayment period of maximum upto 12 years with upto 3 years moratorium period on principal instalments. (Upto 15 years including moratorium period); NOTE: Interest to be repaid as and when applied. |
+| 11 | Primary Security | Hypothecation / mortgage of the assets created out of Bank finance under the Scheme (under both Greenfield and Brownfield projects). Documentation and charge creation should be done immediately as per extant guidelines. Necessary documentation in this regard to be done prior to the account turning NPA, failing which claim shall not be considered. Charge creation in any case should be done before the account turning NPA for being eligible under this scheme. Bank shall create charge in favour of itself and on behalf of NCGTC. |
+| 12 | Collateral Security | No collateral security should be insisted. In case, collateral security is obtained then, the guarantee will be available only on the loan amount net off value of collateral security. The sanctioning authority should ensure the creation of charge on the stipulated security immediately as per extant guidelines. |
+| 13 | Guarantee coverage | Term loan upto Rs. 100.00 crores provided under MCGSMSME scheme shall be provided credit guarantee coverage by NCGTC. Guarantee cover: 60% of amount of default. |
+| 14 | Initial Contribution | At the time of application for guarantee cover, 5% of loan amount not exceeding Rs. 5.00 crore to be deposited with the trust as upfront (initial) contribution. |
+| 15 | Takeover of Account | Allowed subject to terms and conditions |
+
+Nodal officer for MCGS scheme:
+Name: Bhaswati Koch
+Email Id:- sme@bankofmaharashtra.bank.in bhaswati.koch@bankofmaharashtra.bank.in cmmsmegov@bankofmaharashtra.bank.in
+Contact No.: - 020-25614419
+
+# Pradhan Mantri Mudra Yojana
+
+Source: https://bankofmaharashtra.bank.in/pradhan-mantri-mudra-yojana | Category: msme | Scraped: 2026-10-27T18:59:54+00:00
+
+## For availing Digital Mudra Loan (WC)
+
+Mudra loan is extended for a variety of purposes which provide income generation and employment creation. These are loans upto Rs. 20.00 lakh to the micro enterprises engaged in activities like manufacturing, trading, services, food processing, agriculture allied units & services thereof being the income generating activity.
+
+Following is an illustrative list of the activities that can be covered under MUDRA loans:
+
+1. Transport Vehicle: Purchase of transport vehicles for goods and personal transport such as auto rickshaw, small goods transport vehicle, 3 wheelers, e-rickshaw, passenger cars, taxis, etc.
+2. Community, Social & Personal Service Activities: Saloons, beauty parlours, gymnasium, boutiques, tailoring shops, dry cleaning, cycle and motorcycle repair shop, DTP and Photocopying Facilities, Medicine Shops, Courier Agents, etc.
+3. Food Products Sector: Activities such as papad making, achaar making, jam / jelly making, agricultural produce preservation at rural level, sweet shops, small service food stalls and day to day catering / canteen services, cold chain vehicles, cold storages, ice making units, ice cream making units, biscuit, bread and bun making, etc.
+4. Textile Products Sector / Activity: Handloom, Powerloom, khadi activity, chikan work, Zari and zardozi work, traditional embroidery and hand work, traditional dyeing and printing, apparel design, knitting, cotton ginning, computerized embroidery, stitching and other textile non garment products such as bags, vehicle accessories, furnishing accessories, etc.
+5. Business loans for Traders and Shopkeepers: Financial support for on lending to individuals for running their shops / trading & business activities / service enterprises and non-farm income generating activities.
+6. Equipment Finance Scheme for Micro Units: Setting up micro enterprises by purchasing necessary machinery / equipments.
+7. Activities allied to agriculture: Allied Activities included are pisciculture, beekeeping, poultry, livestock rearing, grading, sorting, aggregation agro industries, diary, fishing, Agri clinics and agribusiness Centres, food & agro - processing, etc. and services supporting these which promotes livelihood or are income generating shall be eligible for coverage under PMMY.
+
+The agricultural activities not eligible for coverage under PMMY are crop loans, land improvement such as canals, irrigation, wells etc.
+
+### The Salient features of MUDRA loans scheme are
+
+| S.N. | Parameter | Guidelines |
+|---|---|---|
+| 1 | Name | MUDRA Loan |
+| 2 | Purpose | Need based term loan/OD limit/composite loan to eligible borrowers for acquiring capital assets and/or working capital/marketing related requirements. Financial assistance to income generating micro enterprises engaged in manufacturing, Processing, trading, and services sectors. The Project cost is decided based on business plan and the investment proposed. MUDRA loan is not for consumption/personal needs. |
+| 3 | Nature of Facility | Term Loan Facility. Cash Credit / Overdraft Facility |
+| 4 | Eligibility Borrowers | New or existing micro unit / enterprise, including micro unit/enterprise set up under Joint Liability Group (JLG) framework, individually or jointly (irrespective of the availability of guarantee under JLG), falling under any sector covered under PMMY or as defined in the MSMED Act, 2006 (as amended from time to time), who meets eligibility criteria prescribed by CGFMU and whose credit requirement does not exceed the specified limit under PMMY. Specified maximum limit of the loan shall be Rs. 20 lakh or such other amount as may be decided by the CGFMU from time to time. Overdraft loan amount of Rs. 10,000/- sanctioned under PMJDY accounts shall also be eligible to be covered under Credit guarantee Fund. Self Help Groups who meet eligibility criteria. Individuals, Proprietary concern, Partnership Firm, Private Ltd. Company, Public Company, and any other legal entity. The applicant should not be defaulter to any bank or financial institution and should have a satisfactory credit track record. The individual borrowers may be required to possess the necessary skills/experience/ knowledge to undertake the proposed activity. The need for educational qualification, if any, need to be assessed based on the nature of the proposed activity, and its requirement. |
+| 5 | Quantum of Finance and Categories under MUDRA Loan | The schematic interventions of MUDRA Ltd. have been named 'Shishu', 'Kishor', 'Tarun' and 'Tarun Plus' to signify the stage of growth / development and funding needs of the beneficiary micro unit / entrepreneur and also provide a reference point for the next phase of graduation / growth. They are presently defined as under: Shishu: covering loans upto Rs. 50,000/-; Kishor: covering loans above Rs. 50,000/- and upto Rs. 5 lakh. Tarun: covering loans above Rs. 5 lakh and upto Rs. 10 lakh. Tarun Plus: covering loans above Rs. 10.00 lakh and upto Rs. 20.00 lakh for those entrepreneurs who have availed and successfully repaid previous loans under the 'Tarun' category. |
+| 6 | Repayment Tenure | Term Loan: To be repaid in suitable installments with suitable moratorium period as per cash flow of the business. OD & CC Limit: Repayable on demand. Annual Renewal/ Review. |
+| 7 | Margin | 25% |
+| 8 | Rate of Interest | For Loan Upto Rs. 10 Lakh: RLLR + 2.25 + BSS; For Loan Above Rs. 10 Lakh and upto Rs. 20 Lakh: RLLR + 2.00 + BSS; (At present RLLR is 9.05% p.a., BSS is 0.50% p.a.) |
+| 9 | Primary Security | First and exclusive charge on all assets created out of the loan extended to the borrower and the assets which are directly associated with the business/project for which credit has been extended. |
+| 10 | Collateral | NIL |
+| 11 | Guarantee Coverage | MUDRA Guarantee cover under Scheme of CGFMU from NCGTC. Guarantee fee to be borne by borrower. |
+| 12 | Insurance | Comprehensive insurance of all the securities charged to the Bank should be taken with Bank clause. |
+| 13 | Processing Fee | As per extant service charges guidelines. At present: Working Capital Facility: - Up to Rs. 5.00 Lakh: NIL - Above Rs. 5 Lakh @ 0.35% p.a. Up to Rs. 5.00 Lakh: NIL; Above Rs. 5 Lakh @ 0.35% p.a. Term Loan: - up to Rs. 5 Lakh: NIL - Above Rs. 5 Lakh upto to Rs. 20.00 Lakh: 1.00% of Sanctioned limit. up to Rs. 5 Lakh: NIL; Above Rs. 5 Lakh upto to Rs. 20.00 Lakh: 1.00% of Sanctioned limit. |
+| 14 | Commitment Charges | Nil |
+| 15 | Prepayment Charges | Nil |
+| 16 | Account Handling Charges (Includes Documentation, Inspection/ supervision, NeSL and CIBIL charges) | As per extant service charges guidelines of Bank. At Present: Up to Rs. 25000/-: NIL; Above Rs. 25000/- to Rs. 2.00 Lakh: Rs. 2000/-; Above Rs. 2.00 lakh to Rs. 20 Lakh: 0.55% p.a. Min: Rs. 2500/- |
+
+Click here for FAQs related to Pradhan Mantri MUDRA Yojana (PMMY)
+
+### Download Form
+
+1. English :"Shishu" application form with revised checklist & Udyog Aadhaar Registration Number
+2. English :"Kishore" & "Tarun" application form with revised checklist & Udyog Aadhaar Registration Number
+3. Marathi :Loan Application Form
+4. Kannada ::Loan Application Form
+5. Manipuri ::Loan Application Form
+6. Assame ::Loan Application Form
+7. Urdu ::Loan Application Form
+8. Tamil ::Loan Application Form
+9. Bengali ::Loan Application Form
+10. Gujrathi ::Loan Application Form
+11. Malayalam ::Loan Application Form
+12. Punjabi ::Loan Application Form
+13. Telugu ::Loan Application Form
+14. Odia ::Loan Application Form
+
+# Restructuring of MSME Advances
+
+Source: https://bankofmaharashtra.bank.in/restructuring-of-msme-advances | Category: msme | Scraped: 2026-10-27T18:59:55+00:00
+
+## 1. Definition of MSME
+
+| MSME Firm | *Qualifying Criteria |
+|---|---|
+| Micro Enterprise | Investment in Plant and Machinery or Equipment does not exceed Rs. 1 crore and Turnover does not exceed Rs. 5 crore |
+| Small Enterprise | Investment in Plant and Machinery or Equipment does not exceed Rs. 10 crore and Turnover does not exceed Rs. 50 crore |
+| Medium Enterprise | Investment in Plant and Machinery or Equipment does not exceed Rs. 50 crore and Turnover does not exceed Rs. 250 crore |
+
+*Composite criterion of investment and turnover shall apply for classification of an enterprise as micro, small or medium.
+
+Credit facilities provided to MSME borrowers are categorised under Priority Sector Lending. It is observed that the Credit facilities sanctioned by banks may turn out of order or irregular due to various reasons, which may be minor or major, temporary or of a more lasting nature. Depending upon the type of irregularity, necessary measures need to be taken. In recognition of the problems being faced by the MSMEs, particularly some temporary irregularities, largely driven by mismatch in cash flow, which were caused due to delayed receivables / liquidity mismatch in case of existing units or time over run and/or cost overrun in case of new units. In order to arrest the delinquencies, bank shall initiate and undertake some proactive steps like early detection of incipient sickness and rehabilitation of potentially viable sick units so as to ensure that there is no business disruption of financially viable MSME units.
+
+## 2. Stress Account
+
+Any account with one or more signs of stress (as mentioned herein below) shall be considered as stressed account.
+
+Illustrative list of signs of stress for categorizing an account as SMA-0:
+
+1. Delay of 90 days or more in (a) submission of stock statement / other stipulated operating control statements or (b) credit monitoring or financial statements or (c) non-renewal of facilities based on audited financials.
+2. Actual sales / operating profits falling short of projections accepted for loan sanction by 40% or more; or a single event of non-cooperation / prevention from conduct of stock audits by banks; or reduction of Drawing Power (DP) by 20% or more after a stock audit; or evidence of diversion of funds for unapproved purpose; or drop in internal risk rating by 2 or more notches in a single review.
+3. Return of 3 or more cheques (or electronic debit instructions) issued by borrowers in 30 days on grounds of non-availability of balance/DP in the account or return of 3 or more bills / cheques discounted or sent under collection by the borrower.
+4. Devolvement of Deferred Payment Guarantee (DPG) instalments or Letters of Credit (LCs) or invocation of Bank Guarantees (BGs) and its non-payment within 30 days.
+5. Third request for extension of time either for creation or perfection of securities as against time specified in original sanction terms or for compliance with any other terms and conditions of sanction.
+6. Increase in frequency of overdrafts in current accounts.
+7. The borrower reporting stress in the business and financials.
+8. Promoter(s) pledging/selling their shares in the borrower company due to financial stress
+
+## 3. Warning Signals
+
+Warning signals generally emanate from unit's financial problems, operational problems, market related issues and consequences arising out of regulatory changes or any other reason beyond the control of the promoter. An illustrative list of warning signals is mentioned herein below:
+
+| FINANCIAL | OPERATIONAL | MARKET RELATED | OTHERS |
+|---|---|---|---|
+| Adverse key financials i.e., Declining current ratio, higher TOL/TNW, Lower Sales and operating margins etc. | Irregularities in the account i.e. Over dues in the account, devolvement of LC/BG | Adverse market reports like inability to source supplies on usual credit terms | Frequent labour problems; Borrower avoiding contacts with the bank |
+| Erosion of TNW, High Accumulated losses | Low turnover in the account. | Complaints regarding quality of goods/service supplied | Adverse CIBIL Report |
+| Down gradation of External / Internal Rating by more than 2 notch | Operating the account with other bank, diversion of funds | Loss of key customers / Market share | Disorderly diversification; /frequent changes in plans |
+| Adverse Holding levels of inventory / receivables / creditors | Adverse observation during visit i.e. lower operations in plants etc. | Increase in competition / change in Market preference | Sickness / Death of the key person. |
+| Non/delayed submission of financial statements | Frequent Overdrawing, insufficient drawing power. | Legal action against the unit by third party. |  |
+| Non/delayed submission of stock statement | Overdue receivables Return of outward bills unpaid / dishonoured cheques. | Adverse changes in Government policies |  |
+| Auditor's adverse observations. Non- payment of statutory dues/ wages/ power bills etc. |  | Dissension among directors/partners/ promoters |  |
+
+In order to provide a simpler and faster mechanism to address the stress in the accounts of MSMEs and to facilitate the promotion and development of MSMEs, the Ministry of Micro, Small and Medium Enterprises, Government of India, vide their Gazette Notification dated May 29, 2015 had notified a 'Framework for Revival and Rehabilitation of Micro, Small and Medium Enterprises'. However, certain changes in the captioned framework has been carried out in consultation with the Government of India, Ministry of MSME in order to make it compatible with the existing regulatory guidelines on 'Income Recognition, Asset Classification and provisioning pertaining to Advances' issued to banks by RBI.
+
+## 4. Definition of Restructuring
+
+Restructuring is an act in which a lender, for economic or legal reasons relating to the borrower's financial difficulty, grants concessions to the borrower. Restructuring may involve modification of terms of the advances / securities, which would generally include, among others,
+
+1. alteration of payment period / payable amount / the amount of instalments / rate of interest;
+2. roll over of credit facilities;
+3. sanction of additional credit facility/ release of additional funds for an account in default to aid curing of default / enhancement of existing credit limits;
+4. compromise settlements where time for payment of settlement amount exceeds three months.
+
+## 5. Reschedulement not amounting to restructuring
+
+Correction in inadvertent mistakes in sanction terms.
+
+1. Concessions allowed on competitive grounds.
+2. Reduction in Margin.
+3. Increasing the acceptable holding level of stock/inventory and receivables and reducing the level of trade creditors (substitution of creditor by working capital finance)
+
+## 6. Brief of General Asset Classification norms for restructuring
+
+Restructuring of advances could take place in the following stages:
+
+1. Before commencement of commercial production / operation;
+2. After commencement of commercial production / operation but before the asset has been classified as 'sub-standard';
+3. After commencement of commercial production / operation and the asset has been classified as 'sub-standard'.
+
+1. As a general rule, barring the one-time Restructuring as per RBI guidelines of Jan 2019 exception (including extension by RBI in same), any standard MSME account which is restructured shall be immediately downgraded as non-performing asset (NPA) i.e., 'sub-standard' to begin with. Such an account may be considered for upgradation to 'standard' only if it demonstrates *satisfactory performance during the **specified period. '*Satisfactory Performance' means no payment (interest and/or principal) shall remain overdue for a period of more than 30 days. In case of cash credit / overdraft account, satisfactory performance means that the outstanding in the account shall not be more than the sanctioned limit or drawing power, whichever is lower, for a period of more than 30 days. '**Specified Period' means a period of one year from the commencement of the first payment of interest or principal, whichever is later, on the credit facility with longest period of moratorium under the terms of restructuring package.
+2. In case of restructuring, the accounts classified as 'standard' shall be immediately downgraded as non-performing assets (NPAs), i.e., 'sub-standard' to begin with. The NPAs, upon restructuring, would continue to have the same asset classification as prior to restructuring.
+
+## 7. Eligibility
+
+The provisions made in this Policy shall be applicable to MSMEs having loan limits up to Rs. 25 crore, including accounts under consortium or multiple banking arrangement (MBA). However, restructuring of loan accounts with exposure of above Rs. 25 crore will be in terms of guidelines given by RBI from time to time.
+
+## 8. Identification of incipient stress under Framework for Revival and Rehabilitation of MSMEs
+
+Identification by banks or creditors: Before a loan account of a Micro, Small and Medium Enterprise turns into a Non-Performing Asset (NPA), bank identifies incipient stress in loan accounts by classifying such assets as Special Mention Accounts (SMA) as per following categories:
+
+| SMA Sub-categories | Basis for classification - Principal or interest payment or any other amount wholly or partly overdue between |
+|---|---|
+| SMA-0 | 1-30 days |
+| SMA-1 | 31-60 days |
+| SMA-2 | 61-90 days |
+
+In case of revolving credit facilities like cash credit, the SMA sub-categories will be as follows:
+
+| SMA Sub-categories | Basis for classification - Outstanding balance remains continuously in excess of the sanctioned limit or drawing power, whichever is lower, for a period of: |
+|---|---|
+| SMA-1 | 31-60 days |
+| SMA-2 | 61-90 days |
+
+On the basis of the above early warning signals, the branch maintaining the account should consider forwarding the stressed accounts with aggregate loan limits above Rs. 10 lakh to the Committee as referred in Para 9.4 within five working days for a suitable corrective action plan (CAP). Forwarding the account to the Committee for CAP will be mandatory in cases of accounts reported as SMA-2
+
+As regards accounts with aggregate loan limits up to Rs. 10 lakh identified as SMA-2, the account should be mandatorily examined for CAP by the branch itself under the authority of the branch manager. Other terms and conditions, such as time limits, procedures to be followed, etc., as applicable to the cases referred to the Committee as referred in Para 9.4 should be followed by the branch manager. However, the cases, where the branch manager has decided the option of recovery under CAP instead of rectification or restructuring as mentioned in Para 11.3.1 or 11.3.2, should be referred to the Committee for their concurrence.
+
+Identification by the Borrower Enterprise: Any MSME borrower may voluntarily initiate proceedings under this Framework, if the enterprise reasonably apprehends failure of its business or its inability or likely inability to pay debts or there is erosion in the net worth due to accumulated losses to the extent of 50% of its net worth during the previous accounting year, by making an application to the branch or directly to the Committee as referred in Para 9.4, wherever applicable. When such a request is received by lender, the account with aggregate loan limits above Rs. 10.00 lakh should be referred to the Committee. The Committee should convene its meeting at the earliest but not later than five working days from the receipt of the application, to examine the account for a suitable CAP. The accounts with aggregate loan limit up to Rs. 10 lakh may be dealt with by the branch manager for a suitable CAP.
+
+## 9. Committees for Stressed Micro, Small & Medium Enterprises
+
+In order to enable faster resolution of stress in an MSME account, the committees are formed as per the following arrangements:
+
+1. Each Zone will form a committee for Stressed Micro, Small and Medium Enterprises
+2. These Committees will be Standing Committees and will resolve the reported stress of MSME accounts of the branches falling under their jurisdiction.
+3. For MSME borrowers having credit facilities under a consortium of banks or Multiple Banking Arrangement (MBA), the consortium leader, or the bank having the largest exposure to the borrower under MBA, as the case may be, shall refer the case to its Committee, if the account is reported as stressed either by the borrower or any of the lenders under this Framework. This Committee will also coordinate between the different lenders.
+4. The Composition of the Committee at Zonal Office shall be as under:
+  1. The Zonal Head shall be the Chairperson of the Committee;
+  2. In-Charge CPC Commercial at the zonal office, shall be the member and convener of the Committee;
+  3. One independent external expert with expertise in Micro, Small and Medium Enterprises related matters to be nominated by Zonal Manager.
+  4. One representative from the concerned State Government. The representative of State Government should be General Manager, District Industries Centre of the District where committee is located or his representative. The Zones, which have committee only at the State level, it should be taken as Director Industries or his representative. In case State Government does not nominate any member, then the Zonal Manager should proceed to include an independent expert in the Committee, namely a retired executive of another bank of the rank of AGM and above.
+  5. The quorum of the committee should be three.
+  6. When handling accounts under consortium or MBA, senior representatives of all banks / lenders having exposure to the borrower.
+5. While decision of the committee will be by simple majority, the chairperson shall have the casting vote, in case of a tie. In case of accounts under consortium / MBA, lenders should sign an inter-creditor agreement (ICA) on the lines of Joint Lenders Forum (JLF) Agreement.
+6. All eligible stressed MSMEs shall have access to the Committee for resolving the stress in these accounts in accordance with regulations prescribed in this Framework.
+7. Provided that where the Committee decides that recovery is to be made as part of the CAP, the manner and method of recovery shall be in accordance with the existing policies of the bank, subject to any regulations prescribed by the Reserve Bank of India and extant statutory requirements.
+8. The terms of the engagement of independent external expert and retired executive of another bank shall be as under.
+  1. Eligibility: Person having expertise in MSME related matters e.g. MSME consultant, Chartered Accountant, Retired Executive of another bank of the rank of AGM and above.
+  2. Person engaged must have experience of at least five years in financial aspects in MSME sector and should preferably be locally available.
+  3. The retired AGM and above must have adequate exposure in MSME and senior in designation be preferred. The independent external expert and Retired executive shall not be more than 65 years of age while on the committee.
+  4. Tenure: One year from date of acceptance of offer. Every time fresh appointment letter has to be given. The engagement/contract is terminable with one-month notice on either side. Such appointment with provision for re-appointment once again i.e., maximum period of 1 more year.
+  5. Review: The performance shall be reviewed by ZLCC of Zonal Head for re-appointment of person for next term.
+  6. Remuneration: Rs. 3000/- per meeting all inclusive.
+  7. Other conditions:
+    1. Non-disclosure clause: The appointment letter must have Non-disclosure clause. It is ensured that the person refrains from action that could damage the integrity and reputation of the bank and he/she observes strict confidentiality.
+
+Others: The committee members engaged should not represent the Bank directly in exercising any administrative & financial powers.
+
+## 10. Application to the Committee for a Corrective Action Plan (CAP)
+
+1. Any lender on identifying an MSME account as SMA-2 or suitable for consideration under the Framework or on receipt of an application from the stressed enterprise, shall forward the cases having aggregate loan limits above Rs. 10 lakh to the Committee for immediate convening of meeting and deciding on a CAP. Stressed enterprises having aggregate loan limits above Rs. 10 lakh can also directly file an application for CAP to the Committee or to the largest lender for onward submission under advice to all its lenders. The application forms for loans upto Rs. 10.00 lakh and above Rs. 10.00 are annexed. The application, for aggregate loan limits above Rs. 10.00 Lakh, should include the following:
+  1. Latest Audited Balance Sheet of the Enterprise including its Net Worth
+  2. Details of all liabilities of the enterprise, including the liabilities owed to the State or Central Government and unsecured creditors, if any
+  3. Nature of stress faced by the Enterprise, and
+  4. Suggested Remedial Actions
+2. Where an application is filed by a bank / lender and admitted by the Committee, the Committee shall notify the concerned enterprise about such application within five working days and require the enterprise to: Provided that if the enterprise does not respond within the above period, the Committee may proceed ex-parte.
+  1. Respond to the application or make a representation before the Committee; and
+  2. Disclose the details of all its liabilities (of the enterprise and promoter), including the liabilities owed to the State or Central Government and unsecured creditors, if any, within fifteen working days of receipt of such notice;
+3. On receipt of information relating to the liabilities of the enterprise, the Committee may send notice to such statutory creditors as disclosed by the enterprise as it may deem fit, informing them about the application under the Framework and permit them to make a representation regarding their claims before the Committee within fifteen working days of receipt of such notice. It is mentioned here, that these informations are required for determining the total liability of the Enterprise in order to arrive at a suitable CAP and not for payments of the same by the lenders.
+4. Within 30 days of convening its first meeting for a specific enterprise, the Committee shall take a decision on the option to be adopted under the corrective action plan as given in subsequent paragraphs and notify the enterprise about such a decision, within five working days from the date of such decision.
+5. If the corrective action plan decided by the Committee envisages restructuring of the debt of the enterprise, the Committee shall conduct the detailed Techno-Economic Viability (TEV) study (also refer para 11.1) and finalize the terms of such restructuring in accordance with the extant prudential norms for restructuring, within 20 working days (for accounts having aggregate exposure up to Rs. 10.00 crore) and within 30 working days (for accounts having aggregate exposure above Rs. 10.00 crore and up to Rs. 25 crore) and notify the enterprise about such terms, within five working days.
+6. Upon finalization of the terms of the corrective action plan, the implementation of that plan shall be completed by the concerned Branch / Zonal Office within 30 days (if the CAP is Rectification) and within 90 days (if the CAP is restructuring). In case recovery is considered as CAP, the recovery measures should be initiated at the earliest.
+7. Where an application has been admitted by the Committee in respect of an MSME, the enterprise shall continue to perform contracts essential to its survival but the Committee may impose such restrictions, as it may deem fit, for future revival of the enterprise.
+8. The Committee shall make suitable provisions for payment of tax or any other statutory dues in the corrective action plan and the enterprise shall take necessary steps to submit such plan to the concerned taxation or statutory authority and obtain approval of such payment plan.
+
+## 11. Corrective Action Plan by the Committee
+
+1. The Committee may explore various options to resolve the stress in the account. The Committee shall not endeavor to encourage a particular resolution option and may decide the CAP as per the specific requirements and position of each case. While Techno-Economic viability of each account is to be decided by the concerned lender/s before considering restructuring as CAPs, for accounts with aggregate exposure of Rs. 10 Crore and above, the Committee should conduct a detailed Techno-Economic Viability study before finalizing the CAP.
+2. During the period of operation of CAP, the enterprise shall be allowed to avail both secured and unsecured credit for its business operations as envisaged under the terms of CAP.
+3. The options under CAP by the Committee may include:
+  1. Rectification: Obtaining a commitment, specifying actions and timelines, from the borrower to regularize the account so that the account comes out of Special Mention Account status or does not slip into the Non-Performing Asset category and the commitment should be supported with identifiable cash flows within the required time period and without involving any loss or sacrifice on the part of the existing lenders. The rectification process should primarily be borrower driven. However, the Committee may also consider providing need based additional finance to the borrower, if considered necessary, as part of the rectification process. It should however be ensured that this need based additional finance is intended only for meeting, in exceptional cases, unavoidable increased working capital requirement. In all cases of additional finance for working capital, any diversion of funds will render the account as NPA. Further, such additional finance should ordinarily be an ad-hoc facility to be repaid or regularized within a maximum period of six months. Additional finance for any other purpose, as also any roll-over of existing facilities, or funding not in compliance with the above conditions, will tantamount to restructuring. Further, repeated rectification with funding, within the space of one year, will be treated as a restructuring. No additional finance should be sanctioned under CAP, in cases where the account has been reported as fraud by any lender.
+  2. Restructuring: Consider the possibility of restructuring the account, if it is prima facie viable and the borrower is not a willful defaulter, i.e., there is no diversion of funds, fraud or malfeasance, etc. Commitment from promoters for extending their personal guarantee along with their net worth statement supported by copies of legal titles to assets may be obtained along with a declaration that they would not undertake any transaction that would alienate assets without the permission of the Committee. Any deviation from the commitment by the borrowers affecting the security or recoverability of the loan may be treated as a valid factor for initiating recovery process. The lenders in the Committee may sign an Inter-Creditor Agreement and also require the borrower to sign the Debtor-Creditor Agreement which would provide the legal basis for any restructuring process. The IBA prepared formats and approved by our legal department for this purpose on the lines of formats used by the Corporate Debt Restructuring mechanism for Inter-Creditor Agreement and Debtor-Creditor Agreement are circulated vide H.O. circular AX1/PSRC/MSME/Cir. No.92/2016-17 dated 17.11.2016 and AX1/PSRC/MSME/Cir. No.138/2016-17 dated 16.02.2017. Further, a stand-still clause (as defined in extant guidelines on Restructuring of Advances) may be stipulated in the Debtor-Creditor Agreement to enable a smooth process of restructuring. The stand-still clause does not mean that the borrower is precluded from making payments to the lenders. The Inter-Creditor Agreement may also stipulate that both secured and unsecured creditors need to agree to the final resolution.
+  3. Recovery: Once the first two options at (11.3.1) and (11.3.2) above are seen as not feasible, due recovery process may be resorted to. The Committee may decide the best recovery process to be followed, among the various legal and other recovery options available, with a view to optimizing the efforts and results.
+
+The decisions agreed upon by a majority of the creditors (75% by value and 50% by number) in the Committee would be considered as the basis for proceeding with the restructuring of the account, and will be binding on all lenders under the terms of the Inter-Creditor Agreement. If the Committee decides to proceed with recovery, the minimum criteria for binding decision, if any, under any relevant laws or Acts shall be applicable.
+
+## 12. Time Lines
+
+Detailed time-lines are given for carrying out various activities under the Framework. If the Committee is not able to decide on CAP and restructuring package due to non-availability of information on statutory dues of the borrower, the Committee may take additional time not exceeding 30 days for deciding CAP and preparing the restructuring package. However, they should not wait beyond this period and proceed with CAP.
+
+## 13. Additional Finance
+
+1. If the Committee decides that the enterprise requires financial resources to restructure or revive, it may draw up a plan for provision of such finance. Any additional finance should be matched by contribution by the promoters in appropriate proportion, and this should not be less than the proportion at the time of original sanction of loans. Additional funding provided under restructuring / rectification as part of the CAP will have priority in repayment over repayment of existing debts. Therefore, installments of the additional funding which fall due for repayment will have priority over the repayment obligations of the existing debt.
+2. If the existing promoters are not in a position to bring in additional funds the Committee may allow the enterprise to raise secured or unsecured loans.
+3. Provided further, that the Committee may, with the consent of all creditors recognized, provide such loans higher priority than any existing debt.
+4. Any additional finance approved under the Resolution Plan {including any Resolution Plan (RP) approved by the Adjudicating Authority under IBC} may be treated as 'standard asset' during the monitoring period under the approved RP, provided the account demonstrates satisfactory performance {as defined in point 6.(i)} during the monitoring period. If the restructured asset fails to perform satisfactorily during the monitoring period or does not qualify for upgradation at the end of the monitoring period, the additional finance shall be placed in the same asset classification category as the restructured debt.
+5. Interest income in respect of restructured accounts classified as 'standard assets' may be recognized on accrual basis and that in respect of the restructured accounts classified as 'non-performing assets' shall be recognised on cash basis.
+6. In the case of additional finance in accounts where the pre-restructuring facilities were classified as NPA, the interest income shall be recognised only on cash basis except when the restructuring is accompanied by a change in ownership.
+7. If the Committee decides on options of either 'Rectification' or 'Restructuring', but the account fails to perform as per the agreed terms under these options, the Committee shall initiate recovery under option 11.3.3.
+
+## 14. Restructuring by the Committee
+
+1. Eligibility
+  1. Restructuring cases shall be taken up by the Committee only in respect of assets reported as Standard, Special Mention Account or Sub-Standard by one or more lenders of the Committee.
+  2. However, the Committee may consider restructuring of the debt, where the account is doubtful with one or two lender/s but it is Standard or Sub-Standard in the books of other lenders (by value).
+  3. Identification of eligible units for Restructuring:
+
+| Particulars | Eligible Cases | Ineligible Cases |
+|---|---|---|
+| Asset Classification | Standard Assets; Sub-standard Assets; Doubtful Assets | Loss Assets |
+| Reason for stress / warning signals | Stress reasons beyond the control of promoters | Stress caused due to Willful Default; Diversion of funds; Fraud & Malfeasance |
+| Financial Viability | Financially viable / potentially viable units meeting the viability criteria / parameters enumerated under Point 14.2 | Not meeting the viability criteria / parameters |
+
+  4. Willful defaulters shall not be eligible for restructuring. However, the Committee may review the reasons for classification of the borrower as a willful defaulter and satisfy itself that the borrower is in a position to rectify the willful default. The decision to restructure such cases shall have the approval of the Board of concerned bank within the Committee who has classified the borrower as willful defaulter
+  5. Cases of Frauds and Malfeasance remain ineligible for restructuring. However, in cases of fraud / malfeasance where the existing promoters are replaced by new promoters and the borrower company is totally delinked from such erstwhile promoters / management, banks and the Committee may take a view on restructuring of such accounts based on their viability, without prejudice to the continuance of criminal action against the erstwhile promoters / management. Further, such accounts may also be eligible for asset classification benefits available on refinancing after change in ownership, if such change in ownership is carried out as per guidelines of RBI Cir. Ref. No. RBI/2015-16/187DBR.BP.BC.No.41/21.04.048/2015-16 dated 24.09.2015 on "Prudential Norms on Change in Ownership of Borrowing Entities" and further amendments.
+2. Viability: Above lists are indicative and financial viability parameters will depend upon the nature of industry and will vary on case to case basis
+  1. The viability of the account shall be determined by the Committee based on acceptable viability benchmarks determined by them.
+  2. The parameters may, inter-alia, include the Debt Equity Ratio, Debt Service Coverage Ratio, Liquidity or Current Ratio, etc.
+  3. In cases with exposure below Rs. 10 crore, the viability can be ascertained by bank officials themselves. However, in case of Sunrise Industries/Greenfield projects, where a professional opinion is desirable, the sanctioning authority may engage services of empaneled/reputed agencies for ascertaining financial viability
+  4. For exposure above Rs. 10 crore, the services of empaneled/reputed agencies shall be availed for conducting viability study. (Cost of the report be borne by the customer).
+  5. Viability Parameters and its benchmarks
+
+| Parameters | For Micro & Small Enterprises | For Medium Enterprises |
+|---|---|---|
+| Minimum average DSCR | 1.25 | 1.50 |
+| Minimum Current Ratio to be maintained | 1.17 | 1.25 |
+| Maximum period within which the unit should become viable | 7 years from the date of restructuring | 7 years from the date of restructuring |
+| Maximum Repayment period of restructured debt | 10 years from the date of implementation of restructuring | 10 years from the date of implementation of restructuring |
+| Maximum TOL/TNW | 4.5:1 | 4:1 |
+| Minimum promoters' contribution | 20% of Banks sacrifice or 2% of restructured debt whichever is higher | 20% of Banks sacrifice or 2% of restructured debt whichever is higher |
+
+3. Note: Flexible treatment in respect of existing account who are banking with our bank for 7 years or more: In respect of long standing borrowers who are banking with our bank for 7 years or more, no restructuring proposal shall be rejected (Other than in respect of ineligible cases as mentioned under point no.14.1.4) and a lenient view be taken on the restructuring issues.
+4. Conditions relating to Restructuring under the Framework
+  1. Under this Framework, the restructuring package shall stipulate the timeline during which certain viability milestones such as improvement in certain financial ratios after a period of 6 months may be achieved.
+  2. The Committee shall periodically review the account for achievement / non-achievement of milestones and shall consider initiating suitable measures including recovery measures as deemed appropriate.
+  3. Any restructuring under the Framework shall be completed within the specified time periods.
+  4. The Committee shall optimally utilize the specified time periods so that the aggregate time limit is not breached under any mode of restructuring.
+  5. If the Committee takes a shorter time for an activity as against the prescribed limit, then it can have the discretion to utilize the saved time for other activities provided the aggregate time limit is not breached.
+  6. The general principle of restructuring shall be that the stakeholders bear the first loss of the enterprise rather than the lenders. In the case of a company, the Committee may consider the following options, when a loan is restructured:
+    1. Possibility of transferring equity of the company by promoters to the lenders to compensate for their sacrifices;
+    2. Promoters infusing more equity into their companies;
+    3. Transfer of the promoters' holdings to a security trustee or an escrow arrangement till turnaround of enterprise to enable a change in management control, if lenders favor it.
+  7. In case a borrower has undertaken diversification or expansion of the activities which has resulted in the stress on the core-business of the group, a clause for sale of non-core assets or other assets may be stipulated as a condition for restructuring the account, if under the Techno-Economic Viability study, the account is likely to become viable on hiving off of non-core activities and other assets.
+  8. For restructuring of dues in respect of listed companies, lenders may be, ab-initio, compensated for their loss or sacrifice (diminution in fair value of account in net present value terms) by way of issuance of equities of the company upfront, subject to the extant regulations and statutory requirements.
+  9. If the lenders' sacrifice is not fully compensated by way of issuance of equities, the right of recompense clause may be incorporated to the extent of shortfall.
+  10. In order to distinguish the differential security interest available to secured lenders, partially secured lenders and unsecured lenders, the Committee may consider various options, such as:
+    1. Prior agreement in the Inter-Creditor Agreement among the above classes of lenders regarding repayments;
+    2. A structured agreement stipulating priority of secured creditors;
+    3. Appropriation of repayment proceeds among secured, partially secured and unsecured lenders in certain pre-agreed proportion
+  11. The Committee shall, on request by the enterprise or any creditor recognized under paragraph 10.3, provide information relating to the proceeding as requested by the enterprise or such creditor.
+
+## 15. Review
+
+1. In case the Committee decides that recovery action is to be initiated against
+2. an enterprise, such enterprise may request for a review of the decision by the Committee within a period of ten working days from the date of receipt of the decision of the Committee.
+3. The request for review shall be on the following grounds:
+  1. A mistake or error apparent on the face of the record; or
+  2. Discovery of new and relevant fact or information which could not be produced before the Committee earlier despite the exercise of due diligence by the enterprise.
+  3. A review application shall be decided by the Committee within a period of thirty days from the date of filing and if as a consequence of such review, the Committee decides to pursue a fresh corrective action plan, it may do so.
+
+## 16. Operational guidelines for restructuring
+
+1. Restructuring of Working Capital limit (both for Standard and NPA): Outstanding Balance in Working Capital Limit (at the time of implementation of restructuring) shall be bifurcated as under
+  1. Regular Limit (backed by drawing power): Same may be continued as secured portion of Working Capital limit. Relaxation/reduction in existing margin stipulation can be allowed up to 15%, while arriving at Drawing Power for regular working capital limit. Relaxation/Increase in holding levels of Inventory & receivables may be considered wherever necessary while arriving Drawing Power. Wherever necessary the level of acceptable inventory and receivable may be increased.
+  2. Unsecured Portion of the outstanding balance (not backed by drawing power): Same may be carved out as WCTL (Working Capital Term loan)
+  3. Repayment terms for WCTL would depend upon the projected / accepted cash flows and maximum period of repayment (including moratorium) shall be restricted to 10 years from the date of implementation of restructuring.
+  4. Un-recovered interest / un-applied interest (in case of NPA): Same may be converted into FITL. Maximum 12 months' future interest on restructured amount from the date of restructuring shall be considered under FITL limit. Promoter's contribution as applicable may be appropriated to FITL account in reduction of the same.
+  5. The repayment period for FITL shall be allowed maximum up to 3 years including maximum moratorium of 1 year. In respect of FITL, 80% of the repayment may be adjusted towards FITL interest and 20% towards Principal, so that the amount received in FITL may be recognized in Profit & Loss account.
+  6. Rate of interest concession if any shall be subject to right of recompense.
+  7. Pending decision on restructuring in stress account / NPA account, operations may be allowed in the account, subject to suitable cut back, in proportion to the profitability of the unit. This will not only ensure cash flow for regular business transactions in the account but also minimize business disruptions.
+  8. Wherever force loans are outstanding due to devolvement of LC/BG and treated as secured, fresh LC / BGs may be allowed to be opened within the overall sanction limits to the extent of actual recovery of forced loans, resulting in partial reduction of irregular portion of such limits.
+  9. Additional Finance: Need based additional finance by way of Working Capital can be considered on case to case basis on merits of the proposal
+2. Restructuring of Term loan (both for Standard and NPA): Outstanding Balance in Term loan (at the time of implementation of restructuring) shall be bifurcated as under Note: It has to be noted that 100% provision is required to be made on outstanding balance in FITL.
+  1. Balance outstanding representing outstanding principal including principal over dues: Same may form part of restructured term loan.
+  2. Maximum period of repayment (including moratorium) of Restructured term loan shall be restricted to 10 years from the date of implementation of restructuring
+  3. Un-recovered interest / un-applied interest (in case of NPA) - Same may be converted into FITL. Maximum 12 months' future interest on restructured amount from the date of restructuring shall be considered under FITL limit. Promoter's contribution as applicable may be appropriated to FITL account in reduction of the same.
+  4. The repayment period for FITL shall be allowed maximum upto 3 years, including maximum moratorium of 1 year. In respect of FITL, 80% of the repayment may be adjusted towards FITL interest and 20% towards Principal, so that the amount received in FITL may be recognized in profit & loss account.
+  5. Rate of interest concession if any shall be subject to right of recompense.
+  6. Pending decision on restructuring in stress account / NPA account, operations may be allowed in the current account (in the absence of CC a/c), subject to suitable cut back, in proportion to the profitability of the unit. This will not only ensure cash flow for regular business transactions in the account but also minimize business disruptions.
+  7. Wherever force loans are outstanding due to devolvement of LC/BG and treated as secured, fresh LC / BGs may be allowed to be opened within the overall sanction limits to the extent of actual recovery of forced loans, resulting in partial reduction of irregular portion of such limits.
+  8. Additional Finance: Need based additional finance by way of Term loan can be considered on case to case basis on merits of the proposal
+3. Projects under Implementation (as per RBI Cir. Ref. No. RBI/2021-2022/104 DOR.No.STR.REC.55/21.04.048/2021-22 dated 01.10.2021)
+  1. 'Date of Commencement of Commercial Operations' (DCCO): For all projects financed by Bank, the DCCO of the project should be clearly spelt out at the time of financial closure of the project and the same should be formally documented. These should also be documented in the appraisal note by the bank during sanction of the loan.
+  2. Deferment of DCCO
+    1. There are occasions when the completion of projects is delayed for legal and other extraneous reasons like delays in Government approvals etc. All these factors, which are beyond the control of the promoters, may lead to delay in project implementation and involve restructuring / reschedulement of loans by bank. Accordingly, the following asset classification norms would apply to the project loans before commencement of commercial operations.
+    2. For this purpose, all project loans have been divided into the following two categories: 'Project Loan' would mean any term loan which has been extended for the purpose of setting up of an economic venture. Further, Infrastructure Sector is a sector included in the Harmonised Master List of Infrastructure sub-sectors issued by the Department of Economic Affairs, Ministry of Finance, Government of India, from time to time.
+      1. Project Loans for infrastructure sector
+      2. Project Loans for non-infrastructure sector
+    3. Deferment of DCCO and consequential shift in repayment schedule for equal or shorter duration (including the start date and end date of revised repayment schedule) will not be treated as restructuring provided that: As such project loans will be treated as standard assets in all respects, they will attract standard asset provision.
+      1. The revised DCCO falls within the period of two years and one year from the original DCCO stipulated at the time of financial closure for infrastructure projects and non-infrastructure projects respectively; and
+      2. All other terms and conditions of the loan remain unchanged
+    4. Bank may restructure project loans, by way of revision of DCCO beyond the time limits quoted at Paragraph 16.3.2(iii)(a) above and retain the 'standard' asset classification, if the fresh DCCO is fixed within the following limits, and the account continues to be serviced as per the restructured terms:
+      1. Infrastructure Projects involving court cases: Up to another two years (beyond the two-year period quoted at Paragraph 16.3.2(iii)(a) above, i.e., total extension of four years), in case the reason for extension of DCCO is arbitration proceedings or a court case.
+      2. Infrastructure Projects delayed for other reasons beyond the control of promoters Up to another one year (beyond the two-year period quoted at Paragraph 16.3.2(iii)(a) above, i.e., total extension of three years), in case the reason for extension of DCCO is beyond the control of promoters (other than court cases).
+      3. Project Loans for Non-Infrastructure Sector (Other than Commercial Real Estate Exposures) Up to another one year (beyond the one-year period quoted at Paragraph 16.3.2(iii)(a) above, i.e., total extension of two years).
+    5. It is re-iterated that a loan for a project may be classified as NPA during any time before commencement of commercial operations as per record of recovery (90 days overdue). It is further re-iterated that the dispensation at Paragraph 16.3.2(iv) is subject to the condition that the application for restructuring should be received before the expiry of period mentioned at Paragraph 16.3.2(iii)(a) above and when the account is still standard as per record of recovery. The other conditions applicable would be:
+      1. In cases where there is moratorium for payment of interest, bank shall not book income on accrual basis beyond two years and one year from the original DCCO for infrastructure and non-infrastructure projects respectively, considering the high risk involved in such restructured accounts.
+      2. Bank shall maintain provisions on such accounts as per standard asset as long as these are classified as standard assets.
+    6. In case of infrastructure projects, where Appointed Date (as defined in the concession agreement) is shifted due to the inability of the Concession Authority to comply with the requisite conditions, change in date of commencement of commercial operations (DCCO) need not be treated as 'restructuring', subject to following conditions:
+      1. The project is an infrastructure project under public private partnership model awarded by a public authority;
+      2. The loan disbursement is yet to begin;
+      3. The revised date of commencement of commercial operations is documented by way of a supplementary agreement between the borrower and lender and;
+      4. Project viability has been reassessed and sanction from appropriate authority has been obtained at the time of supplementary agreement.
+    7. Other Issues applicable to Infrastructure project as well as non-infrastructure project Above provisions are gist of provision on project loan under implementation and detailed guidelines are available in RBI Master Circular on 'Prudential norms on Income Recognition, Asset Classification and Provisioning pertaining to Advances dated 1st October 2021 and further amendments.
+
+| A | Multiple revisions of the DCCO and consequential shift in repayment schedule for equal or shorter duration (including the start date and end date of revised repayment schedule) will be treated as a single event of restructuring provided that the revised DCCO is fixed within the respective time limits stipulated under point no. 16.3.2(iv) above, and all other terms and conditions of the loan remained unchanged. |
+|---|---|
+| B | Any change in the repayment schedule of a project loan caused due to an increase in the project outlay on account of increase in scope and size of the project, would not be treated as restructuring if: The increase in scope and size of the project takes place before commencement of commercial operations of the existing project. The rise in cost excluding any cost-overrun in respect of the original project is 25% or more of the original outlay. Sanctioning authority shall re-assesses the viability of the project before approving the enhancement of scope and fixing a fresh DCCO. On re-rating, (if already rated) the new rating is not below the previous rating by more than one notch |
+
+## 17. Post-restructuring Compliance
+
+Branch Manager shall ensure that all terms and conditions of restructuring are complied with. Branch Manager/Approving authority shall take review of restructured accounts on quarterly basis and shall confirm that accounts are regular.
+
+## 18. CGTMSE
+
+It shall be confirmed that necessary intimation is given to CGTMSE in respect of any amendment in terms of sanction & restructuring. In case of any additional finance CGTMSE cover shall be obtained as per norms.
+
+## 19. Guidelines for GECL / Adhoc Line of Credit - COVID 19 by way of SLC
+
+The borrowal accounts (primary credit facility), which are also having facility like GECL / Adhoc Line of Credit - COVID 19 by way of SLC, are eligible for restructuring. However, such account / sanction details should be intimated to NCGTC. The GECL facility / Adhoc Line of Credit - COVID 19 by way of SLC facility itself should not be restructured under this policy.
+
+## 20. Bank Sacrifice / Diminution in fair value
+
+Diminution on fair value needs to be computed at the time of restructuring of advance. Provision is required to be made for an amount equivalent to diminution in fair value. Norms for calculation of diminution in fair value are as under.
+
+1. For Borrower having exposure below 1 Crore: There is no need for calculation of actual diminution in fair value. Provision will be provided @ 5% of the total exposure at Head Office.
+2. For Borrowers having exposure above 1 Crore: NPV computation needs to be under taken for borrower having exposure above 1 Crore. Reduction in the rate of interest and / or reschedulement of the repayment of principal amount, as part of the restructuring, will result in diminution in the fair value of the advance.
+3. Promoter's Contribution: Promoter will have to infuse promoter's contribution which should be higher of a) 20% of Bank sacrifice (diminution provision) or b) 2% of restructured debts.
+
+## 21. Delegation of Powers
+
+1. Restructuring of the Standard facilities including relief and concessions can be considered by the respective sanctioning authority. However, the delegated powers for restructuring of NPA accounts falls within the lending powers of next higher sanctioning authority.
+2. Bonafide restructuring decision by sanctioning authority / recommending authority / Branch Head will not be questioned even in case where restructured account is subject to early mortality or becomes NPA.
+3. Power to initiate legal action: As per banks extant guidelines.
+4. Rejection of proposal for restructuring: In case the sanctioning authority on thorough scrutiny of the proposal is convinced about the financial non-viability of the restructuring proposal, Sanctioning authority shall recommend for rejection of restructuring proposal to next higher authority. The next higher authority shall independently appraise the proposal & if deemed fit may obtain report on financial viability of the proposal from an approved /reputed agency. In case the proposal is found viable, the next higher authority will direct the sanctioning authority, with justification to consider the proposal for restructuring. Before rejecting the proposal for restructuring opportunity of being heard shall be given to the borrower. Minutes of the discussion shall be kept on record which shall cover 1. Financial projections 2. Cash flows 3. Financial viability etc., Reasons for rejection of restructuring shall be communicated to the borrower and same shall be held on record.
+5. Review: In case, the committee decides that recovery action is to be initiated against an enterprise, such enterprise may request for a review of the decision by the committee within a period of 10 working days from the date of the receipt of the decision of the committee. A review application shall be decided by the committee within a period of 30 days from the date of filing and if as a consequence of such review, the committee decides to pursue a fresh corrective action plan, it may do so.
+6. Appeal by the borrower in case of rejection by the higher authority: In cases where the higher authority also rejects restructuring proposal and if the borrower makes a request/appeal for reconsideration of the decision, such request/appeal shall be forwarded to MSME Department, Head Office, which shall take final decision on restructuring of the account.
+
+## 22. Rate of Interest, Relief and Concession
+
+1. Interest on Working Capital Limit: As per Risk Based Pricing
+2. Interest on Term Loan: As per Risk Based Pricing
+3. Interest on FITL: Interest shall be charged on Funded Interest Term Loan at the rate of 1 Year MCLR and such Funded Interest along with interest, should be recovered within 36 months' period.
+4. Interest on WCTL: Interest on Working Capital Term Loan shall be charged at the rate of 1 Year MCLR + 1.00%. These rates are applicable to Standard and NPA accounts from the date of implementation of restructuring. The above mentioned relief (RoI on WCTL & FITL) shall be treated as regular rates to be charged on restructured amount and same can be granted by same authority who sanctions restructuring. Right of Recompense: The Right of Recompense shall be exercised in all such cases and a condition to that effect shall be stipulated in all Restructure Sanctions. For regular portion of existing CC / existing term loan, applicable interest rate as per bank's policy shall be charged. Other concessions, if any, are to be referred to respective sanctioning authority.
+5. Processing Fee for restructured accounts:
+  - Applicable processing charges shall be recovered for the additional facilities (if considered), along with
+  - Amendment charges
+    - Up to Rs. 5 Lakh: NIL
+    - Above Rs. 5 Lakh: 0.10% of restructured facilities + GST
+    - If there is an increase in exposure: Applicable processing fees for additional facilities, as per extant guidelines
+
+Note: Processing / Documentation / Inspection charges shall not be applied on WCTL and FITL accounts.
+
+# Time frame for Disposal of MSME Proposals
+
+Source: https://bankofmaharashtra.bank.in/time-frame-msme-proposal | Category: msme | Scraped: 2026-10-27T19:00:01+00:00
+
+## Overview
+
+➢ Time frame for disposal of MSME proposals mentioned as under:
+
+| Credit Limit or Enhancement in the existing credit limit | Timeframe for disposal provided the application complete in all respects and is accompanied by the documents as per checklist provided |
+|---|---|
+| Up to Rs. 25.00 lakh | 2 Weeks (14 Working days) |
+| Above Rs. 25.00 lakh & upto Rs. 25.00 crore | 6 Weeks |
+| Above Rs. 25.00 crore | 8 Weeks |
+
+# MUDRA
+
+Source: https://bankofmaharashtra.bank.in/writereaddata/documentlibrary/636517226216942915_pradhan-mantri-mudra-yojana-how-mudra-faqs.pdf | Category: msme | Scraped: 2026-10-27T19:00:57+00:00
+
+## Document text
+
+Micro Units Development & Refinance Agency Ltd.
+
+(A wholly owned subsidiary of SIDBI)
+
+Frequently Asked Questions
+
+1. What is MUDRA?
+
+MUDRA, which stands for Micro Units Development & Refinance Agency Ltd., is a new institution being set up by Government of India for development and refinancing activities relating to micro units. It was announced by the Hon'ble Finance Minister while presenting the
+Union Budget for FY 2016. The purpose of MUDRA is to provide funding to the non corporate small business sector.
+
+2. Why MUDRA has been set up?
+
+The biggest bottleneck to the growth of entrepreneurship in the Non -Corporate Small Business
+Sector (NCSBS) is lack of financial support to this sector. Majority of this sector does not have access to formal sources of finance. GoI is setting up MUDRA Bank through a statutory enactment for catering to the needs of the NCSBS segment or the informal sector for bringing them in the mainstream. To begin with it is being set up as a subsidiary of SIDBI.
+
+3. What will be roles and responsibilities of MUDRA?
+
+MUDRA would be responsible for refinancing all Last Mile Financiers such as Non Banking
+Finance Companies of various types engaged in financing of small businesses, Societies, Trusts,
+Section 8 Companies [formerly Section 25], Co-operative Societies, Small Banks, Scheduled
+Commercial Banks and Regional Rural Banks which are in the business of lending to micro/small business entities engaged in manufacturing, trading and services activities. The
+Bank would partner with State/regional level financial intermediaries to provide finance to Last
+Mile Financier of small/micro business enterprises.
+
+4. What are the offerings of MUDRA? How will MUDRA function?
+
+Under the aegis of Pradhan Mantri MUDRA Yojana, MUDRA has already created its initial products / schemes. The interventions have been named 'Shishu', 'Kishor' and 'Tarun' to signify the stage of growth / development and funding needs of the beneficiary micro unit / entrepreneur and also provide a reference point for the next phase of graduation / growth to look forward to:
+
+a. Shishu: covering loans upto 50,000/-
+
+b. Kishor: covering loans above 50,000/- and upto 5 lakh
+
+c. Tarun: covering loans above 5 lakh to 10 lakh
+
+MUDRA will be operating as a refinancing institution through state/regional level intermediaries. MUDRA's delivery channel is conceived to be through the route of refinance primarily to NBFCs / MFIs, besides other intermediaries including banks, Primary Lending
+Institutions, etc.
+
+At the same time, there is a need to develop and expand the delivery channel at the ground level.
+In this context, there is already in existence, a large number of 'Last Mile Financiers' in the form of companies, trusts, societies, associations and other networks which are providing informal finance to small businesses.
+
+5. Who are the target clients of MUDRA/ What kind of borrowers are eligible for assistance from MUDRA?
+
+Non -Corporate Small Business Segment (NCSBS) comprising of millions of proprietorship / partnership firms running as small manufacturing units, service sector units, shopkeepers, fruits / vegetable vendors, truck operators, food-service units, repair shops, machine operators, small industries, artisans, food processors and others, in rural and urban areas.
+
+6. Are Regional Rural Banks (RRBs) eligible for assistance from MUDRA?
+
+Yes, MUDRA will be extending refinance support to RRBs for enhancing their liquidity.
+
+7. What is the rate of interest charged by MUDRA?
+
+MUDRA will be a refinancing agency which will extend its funds to Last Mile Financiers to enable them to reach out to the sector. Access to finance in conjunction with rational price is going to be the unique customer value proposition of MUDRA. It will use a variety of innovative financing means to bring down the cost of funding for the ultimate borrower.
+
+8. I have a small business dealing in paper goods. Can MUDRA help me?
+
+Yes. MUDRA will offer smaller loans upto 50,000/ under the 'Shishu' category and beyond
+50,000 and upto 5 lakh under the 'Kishor' category. These products have been designed to cater to customers operating at the lower end of the enterprise spectrum. The loans will be extended through MFIs, NBFCs, Banks etc.
+
+9. I have graduated recently. I want to start my own business. Can MUDRA help me?
+
+MUDRA offers smaller loans upto 50,000/ under the 'Shishu' category and beyond 50,000 and upto 5 lakh under the 'Kishor' category. It also offers loans beyond 5lakh and upto 10 lakh under the Tarun category. Depending on your nature of business project requirement you can access finance from one of the intermediaries of MUDRA as per the norms.
+
+10. I have diploma in food processing technology. I want to start my own unit. Please guide me.
+
+Food Processing is an eligible activity for coverage under one of the MUDRA schemes. You can avail assistance under MUDRA schemes as per your requirements.
+
+11. I am an artisan specialising in Jari work. I want to start my own work instead of doing job work for others. Can MUDRA help me?
+
+You can avail assistance under the 'Shishu' category of Micro Credit Scheme of MUDRA through any of the MFIs operating in your region for setting up your own enterprise.
+
+12. I have done a course on fashion designing. I want to open my own boutique and develop my own brand. What help can MUDRA offer to me?
+
+MUDRA operates a special scheme for women entrepreneurs; viz; Mahila Uddyami Scheme.
+Assistance will be provided under all three groups, viz. 'Shishu', 'Kishor' as well as 'Tarun'.
+
+13. I intend to work on franchisee model and open an ice cream parlour. Can MUDRA help me?
+
+MUDRA operates a special scheme 'Business loans for Traders and Shopkeepers'. You can avail the facilities under the scheme as per your requirements.
+
+14. I want to expand my pottery business by adding more variety and designs. What help can I get from MUDRA?
+
+You can avail assistance under the 'Shishu' category of Micro Credit Scheme of MUDRA through any of the MFIs operating in your region for setting up your own enterprise.
+
+***************
+
+# Agriculture Debt Waiver and Relief
+
+Source: https://bankofmaharashtra.bank.in/agriculture-debt-waiver-relief | Category: agri | Scraped: 2026-10-27T18:58:41+00:00
+
+## Agricultural Debt Waiver & Relief
+
+- Agricultural Debt Waiver & Debt Relief Scheme, 2008 List of Farmers Benefited
+- Agricultural Debt Waiver & Debt Relief Scheme, 2008
+
+# Agriculture Infrastructure Fund(AIF)
+
+Source: https://bankofmaharashtra.bank.in/agriculture-infrastructure-fund | Category: agri | Scraped: 2026-10-27T18:58:42+00:00
+
+## Agriculture Infrastructure Fund(AIF)
+
+| Particulars | Details |
+|---|---|
+| Purpose | To mobilize a medium - long term debt finances facility for investment in viable projects for post-harvest management Infrastructure and community farming assets through incentives and financial support to improve agriculture infrastructure. |
+| Eligible | Marketing Cooperative Societies; Primary Agriculture Credit Societies (PACS); Farmer Producers Organizations (FPOs); Farmers; Self Help Group (SHG); Joint Liability Groups (JLG); Multipurpose Cooperative Societies; Agri-entrepreneurs and Startups; Central/State agency or Local Body sponsored Public-Private Partnership Projects. Start Ups; State Agencies; State Federation of Cooperatives |
+| Nature of Facility | Term loan |
+| Size of Loan | The Scheme doesn't have minimum and Maximum loan Cap. However, an eligible beneficiary can avail benefits of AIF on Loan upto Rs. 2Crore per project. |
+| Security | For loans upto Rs. 2 crores, Credit guarantee coverage will be available for eligible borrowers under Credit Guarantee Fund Trust for Micro and Small Enterprises (CGTMSE) scheme, hence no collateral is required. The fee for this coverage will be paid by the Government for a maximum period of 7 Years. |
+| Repayment | 7 years, (Including moratorium period of 6 months to a maximum of 2 years.) |
+| RoI | Up to Rs. 2 Crs: 6M MCLR+100 bps (max. of 9% p.a.). Above Rs. 2 Crs: As per Bank's extant guidelines. |
+| Interest subvention | The interest subvention by GoI is to the extent of 3% and provided upfront to the bank. |
+| Coverage | Borrower/ Unit registered as MSME unit:- Covered under CGTMSE up to loan limit of Rs. 2.00Cr; For FPOs /FPCs: - loan up to Rs. 2.00 Crs. Credit guarantee from NABSanrakshan |
+| Margin | Minimum a 10% of the project cost shall be mandatory as promoters'contribution |
+| Website | http://www.agriinfra.dac.gov.in |
+
+# Agriculture Schemes
+
+Source: https://bankofmaharashtra.bank.in/agricultures | Category: agri | Scraped: 2026-10-27T18:58:43+00:00
+
+## Animal Husbandry Infrastructure Development Fund
+
+Click here to check ---> Standard Operating Procedure for Agriculture Loans
+
+# Farm Mechanization
+
+Source: https://bankofmaharashtra.bank.in/farm-mechanization | Category: agri | Scraped: 2026-10-27T18:58:48+00:00
+
+## Overview
+
+| Particulars | Details |
+|---|---|
+| Type of Facility | Term Loan (TL) |
+| Purpose | Purchase of New / Second Hand Tractor (with / without trailer); Purchase of Power Tiller; Purchase of Combined Harvester; Purchase Power Thresher, Sprayer & Other farm machineries. |
+| Eligibility | All farmers- Individual / Joint landholders |
+| Land Holding Criteria | New / Second Hand Tractor- 3 acres of perennially irrigated Agriculture land or 8 acres of seasonal irrigated land (Single or Jointly owned); Power Tiller- 1.50 acre of perennially irrigated Agriculture land or 5 acres of seasonal irrigated land (Single or Jointly owned); Combined Harvester -6 acre of perennially irrigated Agriculture land or 15 acres of seasonal irrigated land (Single or Jointly owned) & used efficiently on custom hiring basis looking into the potentiality for hiring. Purchase Power Thresher, Sprayer & Other farm machineries - No minimum Land holding |
+| Amount | Maximum Rs. 25.00 Lakh |
+| Margin | Loan up to Rs. 2.00 Lakh: No margin Loan above Rs. 2.00 Lakh: New Tractor - 15% (i.e. Ex Showroom price + RTO Charges + Insurance Charges); Second Hand Tractor- 40%; Power Tiller- 15%; Combined Harvester -15% (i.e. Ex Showroom price + RTO Charges + Insurance Charges); Purchase Power Thresher, Sprayer & Other farm machineries - 25% |
+| Rate of Interest | New Tractors, Power Tillers, Combine Harvester, etc Loan up to Rs. 10 Lakh - 1Year MCLR +BSS @0.50% +1.00% p.a. Loan above Rs. 10 Lakh - 1Year MCLR +BSS @0.50% +2.00% p.a. Second Hand Tractors 1Year MCLR +BSS @0.50% +3.00% p.a. |
+| Security | Up to Rs. 2,00 lakh: Hypothecation of tractor unit; Above Rs. 2,00 Lakh: Hypothecation of tractor unit and; Third party guarantee (Two)/Mortgage of land; Noting of Bank's hypothecation charge in the RC book Two blank TTO forms signed by the borrower/s. |
+| Repayment | 5 to 9 years, depending upon the purpose of loan |
+| Other Terms & Conditions | Bank will finance only for those models of tractors which have completed the commercial test from organizations viz Central Farm Machinery Training & Testing Institute (CFMTT) Budni (Madhya Pradesh) or Farm Machinery Training and testing Institute ( FMTT), Hissar; Registration of the tractor - The tractor should be registered with concerned Regional Transport Authority with bank clause. Insurance - Comprehensive insurance should be obtained in respect of assets acquired. Bank's hypothecation should be prominently displayed on the machinery; Where ever there is tie up arrangement the terms and condition as per MOU be followed. |
+| Paper requirement | Loan application ie Form No -138, & Enclosure - B2 - All 7/12, 8 A, 6 D extracts, Chatu Sima of the applicant - No dues certificates of the applicant from surrounding financial institutions including PACS - Legal search from advocate on Bank's panel for loans above Rs. 1.60 lakh where land is to be mortgaged - Price quotations/ Plan estimates / Permissions etc. depending up on the purpose of loan; All 7/12, 8 A, 6 D extracts, Chatu Sima of the applicant; No dues certificates of the applicant from surrounding financial institutions including PACS; Legal search from advocate on Bank's panel for loans above Rs. 1.60 lakh where land is to be mortgaged; Price quotations/ Plan estimates / Permissions etc. depending up on the purpose of loan; Guarantee form F-138 - All 7/12, 8 A & PACS dues certificate of the guarantors; All 7/12, 8 A & PACS dues certificate of the guarantors |
+
+# Financing For Setting Up of Agri-Clinics and Agri-Business Centers for Agriculture Graduates
+
+Source: https://bankofmaharashtra.bank.in/financing-for-agriculture-graduates | Category: agri | Scraped: 2026-10-27T18:58:52+00:00
+
+## Overview
+
+| Particulars | Details |
+|---|---|
+| Type of Facility | Term Loan (TL) |
+| Purpose | Setting up of Agri Clinics; Setting up of Agri Business Centers |
+| Eligibility | The scheme is open to following categories of candidates of age group of 18 to 60 years; Graduates in agriculture and allied subjects from State Agriculture Universities (SAUs)/Central Agricultural Universities/Universities recognized by ICAR/UGC. Degree in Agriculture and allied subjects offered by other agencies are also considered subject to approval of Department of Agriculture & Cooperation, GoI, on recommendation of the State Government; Diploma (with at least 50% marks)/Post Graduate Diploma holders in Agriculture and allied subjects from State Agricultural Universities, State Agriculture and Allied Departments and State Department of Technical Education. Diploma in Agriculture and allied subjects offered by other agencies are also considered subject to approval of Department of Agriculture, Cooperation & Farmers' Welfare, GoI on recommendation of the State Government; Biological Science Graduates with Post Graduation in Agriculture & allied subjects; Degree courses recognised by UGC having more than 60% of the course content in Agriculture and allied subjects; Diploma/Post Graduate Diploma courses with more than 60% of course content in Agriculture and allied subjects, after B.Sc. with Biological Sciences, from recognised colleges and universities. Agriculture related courses at Intermediate (i.e. plus two) level, with at least 55% marks. |
+| Amount | Individuals: Maximum Rs. 20 lakh,; Group (5 members): Maximum Rs. 100 lakh |
+| Margin | Limit up to Rs. 5.00 lakh: NIL; Limit above Rs. 5.00 lakh:15% to 25%; (However, concessions will be available to SCs / STs, women and beneficiaries of North Eastern states, Hill areas) |
+| Rate of Interest | Slab-wise ROI for exposures upto Rs. 25.00 lakh-  I) For Activities which does not fulfill MSMED Act Norms (MCLR Based): 1 Year MCLR+BSS @ 0.50% + Spread @ 2.10 II) For activities which fulfills MSMED Act Norms (RLLR) Based: Without Collateral Concession: RLLR+ 2.50 + BSS @ 0.50%  Slab-wise ROI for exposures more than Rs. 25.00 lakh- As per Risk Base Prising |
+| Security | Limit upto Rs. 5.00 Lakh:1. Hypothecation of Assets created out of bank loan; Limit above Rs. 5.00 Lakh:1. Hypothecation of Assets created out of bank loan 2. Mortgage of land / other property. |
+| Repayment | 5 to 10 years depending up on the cash flows |
+| Subsidy | Credit linked composite subsidy @ 36% of the capital cost of the project funded through bank loan is available from NABARD. This subsidy would be 44% in respect of candidates belonging to SC, ST, Women and other disadvantaged sections and those from North-Eastern and Hilly States. |
+| Other Terms & Conditions | Applicant should complete training programme conducted by National Tanning Institute approved by MANAGE |
+| Paper requirement | Loan application ie Form No -138, & Enclosure - B2 - All 7/12, 8 A, 6 D extracts, Chatu Sima of the applicant - No dues certificates of the applicant from surrounding financial institutions including PACS - Legal search from advocate on Bank's panel for loans above Rs. 5.00 lakh where land is to be mortgaged - Price quotations/ Plan estimates / Permissions etc. depending up on the purpose of loan; All 7/12, 8 A, 6 D extracts, Chatu Sima of the applicant; No dues certificates of the applicant from surrounding financial institutions including PACS; Legal search from advocate on Bank's panel for loans above Rs. 5.00 lakh where land is to be mortgaged; Price quotations/ Plan estimates / Permissions etc. depending up on the purpose of loan; Guarantee form F-138All 7/12, 8 A & PACS dues certificate of the guarantors |
+
+#### Frequently Asked Questions
+
+1. What is the "Financing for Agriculture Graduates" scheme by Bank of Maharashtra?
+
+The Financing for Agriculture Graduates scheme is a term loan offered by Bank of Maharashtra to support agriculture graduates in setting up Agri-Clinics or Agri-Business Centres. The scheme aims to encourage agri-entrepreneurship and provide professional agricultural services to farmers.
+
+2. Who is eligible to apply for this loan?
+
+Individuals aged 18 to 60 years with a qualification in agriculture or allied subjects can apply. Eligible applicants include agriculture graduates from universities recognized by ICAR or UGC, diploma holders in agriculture, and biological science graduates with postgraduate qualifications in agriculture or related fields.
+
+3. What is the maximum loan amount available under this scheme?
+
+Under this scheme, an individual can avail a loan up to Rs. 20 lakh, while a group of up to five members can receive financing of up to Rs. 100 lakh for setting up agri-business projects.
+
+## 4. Is any margin required for the loan?
+
+For loans up to Rs. 5 lakh, no margin is required. For loans above Rs. 5 lakh, the margin requirement ranges between 15% and 25%, depending on the project. Certain concessions may be available for SC/ST applicants, women, and beneficiaries from hilly or North-Eastern regions.
+
+## 5. What security is required for the loan?
+
+For loans up to Rs. 5 lakh, the primary security is the hypothecation of assets created from the loan. For loans above Rs. 5 lakh, additional security such as mortgage of land or property may be required along with asset hypothecation.
+
+6. Is there any subsidy available under this scheme?
+
+Yes. Eligible projects can receive a credit-linked subsidy of up to 36% of the project cost through NABARD. For candidates belonging to SC/ST, women, and other disadvantaged categories, the subsidy may go up to 44%.
+
+7. What is the repayment period for this loan?
+
+The loan is generally repayable within 5 to 10 years, depending on the nature of the project and the cash flow generated from the agri-business activity.
+
+8. Is training required before applying for this scheme?
+
+Yes. Applicants are required to complete a training program approved by MANAGE (National Institute of Agricultural Extension Management) before availing the loan for setting up Agri-Clinics or Agri-Business Centres.
+
+9. What documents are required to apply for the loan?
+
+Applicants must submit the loan application form along with supporting documents such as land records (7/12 extract), no-dues certificates from other financial institutions, project estimates, and guarantor details, depending on the loan amount and purpose.
+
+# Financing Solar Energy Based Pumpset Loans
+
+Source: https://bankofmaharashtra.bank.in/solar-based-pumpset-loans | Category: agri | Scraped: 2026-10-27T18:59:58+00:00
+
+## Overview
+
+| Particulars | Details |
+|---|---|
+| Type of Facility | Term Loan (TL) |
+| Purpose | Installation of Solar water Pumping System |
+| Eligibility | Farmer should have adequate source of water; For wells, it should have sufficient recouping capacity to irrigate the area; Farmer should have own economic land holding with minimum of 10 acres. |
+| Components | Solar PV Panel; One of the following motor pump sets compatible with the photovoltaic array: - Surface mounted centrifugal pump set - Submersible pump set - Floating pump set - Any other type of motor pump set after approval from MNRE; Surface mounted centrifugal pump set; Submersible pump set; Floating pump set; Any other type of motor pump set after approval from MNRE |
+| Amount | 75% of the cost of the equipment |
+| Margin | Upto Rs. 2.00 lakh - Nil; Above Rs. 2.00 lakh - Margin shall be minimum of 25%. If subsidy is available, same can be considered as margin |
+| Rate of Interest | Up to Rs. 10.00 lakh: 1 Year MCLR + BSS@0.50% + 2.00%; Above Rs. 10.00 lakh: 1 Year MCLR +BSS@0.50%+ 3.00% |
+| Security | Upto Rs. 2.00 lakh - Hypothecation of Equipment; Above Rs. 2.00 lakh- Hypothecation of Equipment & Third Party Guarantee/ Mortgage of Land |
+| Repayment | Minimum 5-7 years |
+| Paper requirement | 1. Loan application ie Form No -138, & Enclosure - B2 All 7/12, 8 A, 6 D extracts, Boundaries of the applicant; No dues certificates of the applicant from surrounding financial institutions including PACS; Legal search from advocate on Bank's panel for loans above Rs. 1.60 lakh where land is to be mortgaged; Copy of Quotations / Estimates; 2. Guarantee form F-138; All 7/12, 8 A & PACS dues certificate of the guarantors |
+
+# Horticulture / Plantation Activities
+
+Source: https://bankofmaharashtra.bank.in/loan-for-plantation-horticulture | Category: agri | Scraped: 2026-10-27T18:59:06+00:00
+
+## Overview
+
+| Particulars | Details |
+|---|---|
+| Type of Facility | Term Loan (TL) |
+| Purpose | Cultivation of fruit crops-Mango, Pomegranate, Grapes, Guava etc |
+| Eligibility | All persons engaged in raising fruit gardens, plantations and nursery crops as owners of land or permanent tenants or as lease holders (for reasonably long period). |
+| Amount | As per NABARD/NHB Unit costs/ Project costs |
+| Margin | Limit up to Rs. 2.00 Lakh- NIL; Limit above Rs. 2.00 Lakh-15% to 25%; (Depending upon purpose & quantum of finance) |
+| Rate of Interest | Up to Rs. 10.00 lakh: 1 Year MCLR + BSS@0.50% + 2.00%; Above Rs. 10.00 lakh: 1 Year MCLR +BSS@0.50%+ 3.00% |
+| Security | 1) Up to Rs. 2.00 lakh: Hypothecation of Crops/Plant Machinery to be purchased; 2) Above Rs. 2.00 lakh: a) Hypothecation of Crops/Plant Machinery to be purchased; b) Third Party Guarantee (Two) / Mortgage of land. |
+| Repayment | Within 7-15 years including gestation period. Coinciding with harvesting of crops/marketing of produce. |
+| Subsidy | Subsidy for the eligible projects is available from NHB/NHM |
+| Paper requirement | Loan application ie Form No -138,&Enclosure - B2 - All 7/12, 8 A, 6 D extracts, Chatu Sima of the applicant - No dues certificates of the applicant from surrounding financial institutions including PACS - Legal search from advocate on Bank's panel for loans above Rs. 1.60 lakh where land is to be mortgaged - Price quotations/ Plan estimates / Permissions etc. depending up on the purpose of loan; All 7/12, 8 A, 6 D extracts, Chatu Sima of the applicant; No dues certificates of the applicant from surrounding financial institutions including PACS; Legal search from advocate on Bank's panel for loans above Rs. 1.60 lakh where land is to be mortgaged; Price quotations/ Plan estimates / Permissions etc. depending up on the purpose of loan; Guarantee form F-138All 7/12, 8 A & PACS dues certificate of the guarantors |
+
+# Mahabank Gold Loan Scheme - Agriculture
+
+Source: https://bankofmaharashtra.bank.in/agri-gold-loan | Category: agri | Scraped: 2026-10-27T18:58:34+00:00
+
+## Overview
+
+Bank of Maharashtra offers the Mahabank Gold Loan Scheme - Agriculture, a tailored financial solution designed to assist farmers in meeting their agricultural and allied financial requirements. This scheme enables farmers to leverage their gold assets to access timely credit for crop production, allied activities, and investment purposes.
+
+## Purpose
+
+The primary objective of this scheme is to provide farmers with quick and hassle-free credit by pledging gold ornaments. The funds can be utilized for:
+
+- Crop production and related expenses
+- Allied agricultural activities
+- Investment in agricultural infrastructure
+
+| Particulars | Details |
+|---|---|
+| Purpose | To enable farmer to quickly meet their agricultural credit needs i.e both crop production / cash credit for allied agricultural activities & investment credit |
+| Type of Loan | Term loans |
+| Eligibility | Any person engaged in agriculture or allied activities. The applicant should satisfy the KYC guidelines |
+| Amount | Agricultural Term Loan- As per actual credit requirement; Quantum decided on following basis: Maximum permissible limit under the scheme is Rs. 100.00 Lakh* (T&C Applied) per borrower |
+| Margin | Minimum 15% for Agri. Term Loan against Gold |
+| Rate of Interest | Term Loans: @ 1 Month MCLR + 0.05% = 7.90% +0.05 = 7.95% |
+| Security | Pledge of Gold jewelry/ ornaments. Bank shall not grant any advance against bullion/ primary gold. |
+| Processing charges | Up to Rs. 3.00 lakh - NIL; Above Rs. 3.00 lakh to Rs. 5.00 lakh - Rs. 500; Above Rs. 5.00 Lakh to Rs. 10.00 lakh - Rs. 1000; Above Rs. 10.00 lakh to Rs. 20.00 lakh - Rs. 1500; Above Rs. 20.00 lakh- Rs. 2000 |
+| Repayment | TL- Within 24 months depending upon the purpose |
+| Documents & Papers requirement | Loan application, KYC Documents, 7/12 Extract |
+
+## Application Process
+
+To apply for the Kisan Gold loan, visit the nearest Bank of Maharashtra branch or apply online through the official website. The bank ensures a streamlined process for farmers to apply for a gold loan on agricultural land with minimal documentation and quick disbursal.
+
+The agriculture gold loan scheme by Bank of Maharashtra stands as a reliable financial support system for farmers, offering flexibility, competitive interest rates, and a straightforward application process. By providing loan against agriculture land, the bank empowers farmers to meet their financial needs efficiently.
+
+# Mahabank Kisan All Purpose Term Loan
+
+Source: https://bankofmaharashtra.bank.in/kisan-all-purpose-term-loan | Category: agri | Scraped: 2026-10-27T18:58:59+00:00
+
+## Overview
+
+| Particulars | Details |
+|---|---|
+| Facility | Term Loan (TL) |
+| Purpose | To create hassle free single term loan limit to farmer for all term loan requirements excluding development projects with long gestation periods (more than 3-4 years) |
+| Eligibility | Individuals, Joint/ Group of farmers- owner cultivators & JLG's/SHG's engaged in agriculture & allied activities |
+| Amount | To be based on the investment plan given by the farmer to be undertaken in the next 2-3 years; The plan can be a combination of investment/ development activities relating to agriculture & allied activities. It shall be subject to 5 times of Annual Income (Current pre development stage) of the farmer including allied activities or 50% of value of land mortgaged whichever is lower subject to Maximum of Rs. 20.00 Lakh |
+| Margin | Limit up to Rs. 2.00 Lakh- NIL; Limit above Rs. 2.00 Lakh-15% to 25% (Depending upon purpose & quantum of finance) |
+| Rate of Interest | Up to Rs. 10.00 lakh: 1 Year MCLR + BSS@0.50% + 2.00%; Above Rs. 10.00 lakh: 1 Year MCLR +BSS@0.50%+ 3.00% |
+| Security | Up to Rs. 2.00 lakh- Hypothecation of Crops; Above Rs. 2.00 lakh - 1)Hypothecation of Crops, 2) Third Party Gurantee/Mortgage of land |
+| Repayment | Repayable within 9 years maximum in suitable installments coinciding overall income generation of the farmer, without linking to individual projects. |
+| Insurance | Asset created have to be insured for full value. |
+| Other Terms & Conditions | The farmer should undertake to create/ complete the project within 15/30 days of availing the disbursement. |
+| Paper requirement | 1. Loan application ie Form No -138, & Enclosure - B2 All 7/12, 8 A, 6 D extracts, Chatu Sima of the applicant; No dues certificates of the applicant from surrounding financial institutions including PACS; Legal search from advocate on Bank's panel for loans above Rs. 1.60 lakh where land is to be mortgaged; Price quotations/ Plan estimates / Permissions etc. depending up on the purpose of loan 2. Guarantee form F-138. ll 7/12, 8 A & PACS dues certificate of the guarantors |
+
+# Mahabank Kisan Credit Card (MKCC)
+
+Source: https://bankofmaharashtra.bank.in/kisan-credit-card | Category: agri | Scraped: 2026-10-27T18:59:00+00:00
+
+## Overview
+
+| Particulars | Details |
+|---|---|
+| Type of Facility | Cash Credit (MKCC) |
+| Purpose | Working capital for: Cultivation of crops; Post harvest Expenses. Consumption requirements of farmer household; Maintenance of farm equipments; Working capital for allied agricultural activities |
+| Eligibility | Working capital for: All farmers- Individual / Joint landholders; Tenant Farmers, Share Croppers, Oral Lessees; SHG's/JLG's of farmers |
+| Limit | Limit for first year - Scale of finance of crop ( as decided by DLTC * Extent of area cultivated + 10% of limit towards post-harvest / household / consumption requirements + 20% of limit towards repairs and maintenance expenses of farm assets. From 2nd year onwards plus 10% of the limit towards cost escalation / increase in scale of finance for every successive year { 2nd,3rd ,4th and 5th year} |
+| Drawing Power | Drawing limit (D.P.) for each year as worked out as above |
+| Margin | Up to Rs. 2.00 Lakh - NIL; Above Rs. 2.00 Lakh-15% to 20%; (depending upon purpose and Quantum of Loans) |
+| Rate of Interest | Presently as per Govt. of India guidelines: Limit up to Rs3.00 lakhs: @7% p.a. (fixed) under interest subvention scheme up to one year; Limit above Rs. 3.00 lakhs: - Rs. 3.00 Lakh to Rs. 10.00 lakh: 1 Year MCLR + BSS@0.50% + 2.00% - Above Rs. 10.00 lakh: 1 Year MCLR +BSS@0.50%+ 3.00%; Rs. 3.00 Lakh to Rs. 10.00 lakh: 1 Year MCLR + BSS@0.50% + 2.00%; Above Rs. 10.00 lakh: 1 Year MCLR +BSS@0.50%+ 3.00% |
+| Security | Limit Up to Rs. 2.00 lakh :1)Hypothecation of Crops; Limit Above Rs. 2.00 lakh:1) Hypothecation of Crops & 2)Third Party Guarantee/Mortgage of Land |
+| Repayment | Kharif- Next March; Rabi- Next June; Horticultural crops- Next September |
+| Validity / Renewal | The KCC limit is valid for 5 years subject to annual review. |
+| Other Terms Conditions | Insurance for notified crops is available as per Government guidelines from time to time. |
+| Paper requirement | 1.Loan application ie Form No -138, Enclosure - B2 All 7/12, 8 A, 6 D extracts, Chatu Sima of the applicant; No dues certificates of the applicant from surrounding financial institutions including PACS; Legal search from advocate on Bank's panel for loans above Rs. 1.60 lakh where land is to be mortgaged 2. Guarantee form F-138; All 7/12, 8 A & PACS dues certificate of the guarantors |
+
+## Frequently Asked Questions
+
+### 1. What is the Kisan Credit Card (MKCC)?
+
+The Mahabank Kisan Credit Card (MKCC) is a short-term credit facility offered by Bank of Maharashtra to meet agricultural working capital needs-such as crop cultivation, post-harvest expenses, household requirements, farm equipment maintenance, and allied agri-activities.
+
+2. Who can apply for a Kisan Credit Card under this scheme?
+
+Eligible applicants include:
+- Individual or joint farmers and landholders
+- Tenant farmers, sharecroppers, oral lessees
+- Self Help Groups (SHGs) and Joint Liability Groups (JLGs) of farmers
+
+3. What expenses can the KCC be used for?
+
+The loan can be utilized for:
+- Cultivation of crops
+- Post-harvest operations
+- Consumption needs of farmer households
+- Maintenance of farm machinery
+- Working capital for allied agricultural activities like dairying, poultry, and fisheries (where applicable)
+
+### 4. How is the credit limit determined?
+
+For the first year, the limit is based on the scale of finance for crops plus:
+- 10% for post-harvest or household expenses
+- 20% for repair and maintenance of farm assets
+From the second year onward, the limit may increase by 10% yearly to cover cost escalation.
+
+5. What is the interest rate on the Kisan Credit Card?
+
+The interest rate depends on the loan amount:
+- Up to Rs. 3 lakh - fixed at 7% p.a. under the Government's interest subvention scheme (generally for one year)
+- Above Rs. 3 lakh - charged as per agricultural advance rates (MCLR + applicable spreads)
+
+6. What security is required for the MKCC loan?
+
+Security requirements vary by loan size:
+- Up to Rs. 2 lakh - hypothecation of crops
+- Above Rs. 2 lakh - hypothecation of crops plus third-party guarantee or mortgage of land/assets as required by the bank.
+
+### 7. How is repayment structured?
+
+- For Kharif crops - repayment by next March
+- For Rabi crops - repayment by next June
+- For horticultural crops - repayment by next September.
+
+### 8. How long is the KCC valid?
+
+The Kisan Credit Card is typically valid for five years, subject to annual review and renewal by the bank.
+
+9. Are there any additional benefits with the KCC?
+
+Benefits may include Government-mandated interest subvention schemes and prompt repayment incentives where applicable, as per prevailing policy.
+
+### 10. What documents are required to apply?
+
+Applicants generally need to submit:
+- Duly filled loan application form
+- Land ownership/lease documents (e.g., 7/12, 8A, 6D extracts)
+- No-dues certificate from other financial institutions
+- Documents of guarantors (if applicable)
+- Other documents as mandated by the bank.
+
+11. How do I apply for the Kisan Credit Card?
+
+You can apply by visiting your nearest Bank of Maharashtra branch with relevant documents or follow the bank's online procedure (if available).
+
+12. Can allied agricultural activities like animal husbandry and fisheries also use MKCC?
+
+Yes. MKCC can be extended to meet working capital needs of animal husbandry, fisheries, poultry, etc., where the applicant meets eligibility criteria for those allied activities.
+
+# Mahabank Kisan Credit Card (MKCC) to Animal Husbandry Farmers and Fisheries
+
+Source: https://bankofmaharashtra.bank.in/mkcc-to-animal-husbandry-farmers-fisheries | Category: agri | Scraped: 2026-10-27T18:59:33+00:00
+
+## Overview
+
+| Particulars | Details |
+|---|---|
+| Facility | Working capital (Cash Credit) |
+| Purpose | The KCC facility will be extended to meet the short term credit requirements of rearing of animals, birds, fish, shrimps, other aquatic organisms, capture of fish. |
+| Eligibility | The criteria for eligible beneficiaries under KCC for Animal Husbandry and Fisheries will be as under: 1) Fishery; 1.1 Inland Fisheries and Aquaculture; 1.1.1 Fishers, Fish Farmers (individual & groups/ partners/ share croppers/ tenant farmers), Self Help Groups, Joint Liability Groups and women groups. 1.1.2 The beneficiaries must own or lease any of the fisheries related activities such as pond, tank, open water bodies, raceway, hatchery, rearing unit, possess necessary license for fish farming and fishing related activities, and any other State specific fisheries and allied activities. 1.2 Marine Fisheries; 1.2.1 Beneficiaries listed at 1.1.1 above, who own or lease registered fishing vessel/boat, possess necessary fishing license/permission for fishing in estuary and sea, fish farming / mariculture activities in estuaries and open sea and any other State specific fisheries and allied activities. 2) Poultry and small ruminant; 2.1 Farmers, poultry farmers either individual or joint borrower, Joint Liability Groups or Self Help Groups including tenant farmer of sheep/goats/pigs/poultry/birds/rabbit and having owned /rented /leased sheds. 3) Dairy; 3.1 Farmers and Dairy farmers either individual or joint borrower, Joint Liability Groups or Self Help Groups including tenant farmers having owned /rented/leased sheds. |
+| Scale of finance | The scale of finance will be fixed by the District Level Technical Committee (DLTC) based on local cost worked out on the basis of per acre/per unit/per animal/per bird etc. |
+| Margin | Up to Rs. 2.00 Lakh - NIL; Above Rs. 2.00 Lakh-15% to 20%; (depending upon purpose and Quantum of Loans) |
+| Rate of Interest | Upto Rs. 2.00 Lakh: Concessional Rate of Interest @ 7.00% per annum. Above Rs. 2.00 Lakh: Slabwise ROI applicable to Agriculture Advances Rs. 2.00 Lakh to Rs. 10.00 Lakh: 1 year MCLR +BSS @ 0.50%+2.00% Above Rs. 10.00 Lakh: 1 year MCLR +BSS @ 0.50%+3.00%; (Note: Concessional ROI shall be applicable to farmers possessing MKCC for raising crops and involved in activities related to animal husbandry and/or fisheries, the MKCC for animal husbandry/fisheries shall be within the overall limit of Rs. 3 lakh only.) |
+| Security | Up to Rs. 2.00 lakh: Hypothecation of stock / Birds/ Animals; Above Rs. 2.00 lakh: a) Hypothecation of stock/ Birds/Animals; b) Mortgage of land / Third Party Guarantee |
+| Repayment | As per the cash flow / income generation pattern of the activity undertaken by the borrower. Annual reveiew / renewal |
+| Insurance | Asset created have to be insured for full value. |
+| Other Terms & Conditions | KYC norms to be followed scrupulously. CIBIL report/RBI defaulter list should be obtained and verified. All documents should be submitted in original before disbursement of the loan. Disbursement through Rupay Kisan Card/ Cheque Book/ SB accounts, etc. |
+| Paper requirement | Applicant: -; Loan application i.e. Form No -138, & Enclosure - B2 All 7/12, 8 A, 6 D extracts of the applicant; In case of Co-Applicant is salaried or businessmen, the latest salary slips / ITR / Form 16 / Balance Sheet & P/L statements; No dues certificates of the applicant from surrounding financial institutions including PACS; Lease & or Fishing license for fishery. Legal search for 30 years from advocate on Bank's panel where land is to be mortgaged. Guarantor (for loans above Rs. 1.60 lakh): - Guarantee form F-138; All 7/12, 8 A & PACS dues certificate of the guarantors; In case of Guarantor is salaried or businessmen, the latest salary slips / ITR / Form 16 / Balance Sheet & P/L |
+
+# Mahabank Kisan Tatkal Scheme
+
+Source: https://bankofmaharashtra.bank.in/kisan-tatkal-scheme | Category: agri | Scraped: 2026-10-27T18:59:01+00:00
+
+## Overview
+
+| Particulars | Details |
+|---|---|
+| Facility | Agri Term Loan (ATL) |
+| Purpose | For instant credit for farming community to meet emergency requirements |
+| Eligibility | Individual Farmers / Joint borrowers (not exceeding 4 farmers) who are existing KCC holders having satisfactory track record of at least 2 years |
+| Amount | Minimum- Rs. 5000/-; Maximum- Rs. 50000/-; (Subject to ceiling at 50% of KCC limit / 25% of annual income) |
+| Margin | NIL |
+| Rate of Interest | Aggregate Exposure; Up to Rs. 10.00 lakh: 1 Year MCLR + BSS@0.50% + 2.00%; Above Rs. 10.00 lakh: 1 Year MCLR +BSS@0.50%+ 3.00% |
+| Security | Existing Security obtained for KCC to be continued. |
+| Repayment | 3 years in half yearly / yearly installments coinciding with harvest of the crop |
+| Other terms & conditions | The loan is to be cleared in full if a fresh/ enhanced limit is sought in the subsequent year based on revised KCC limit. |
+| Paper requirement | Loan application All 7/12, 8 A, 6 D extracts, Boundaries of the applicant; No dues certificates of the applicant from surrounding financial institutions including PACS |
+
+# Scheme for construction of farmhouse to Agriculturists
+
+Source: https://bankofmaharashtra.bank.in/farmhouse-agriculturists-scheme | Category: agri | Scraped: 2026-10-27T18:58:51+00:00
+
+## Overview
+
+| Particulars | Details |
+|---|---|
+| Facility | Agricultural Term Loan (ATL) |
+| Purpose | Construction of farmhouse on agricultural land to facilitate farmers to have dwelling unit at farm which may also take care of other requirement such as storage of agriculture produce & farm implements, cattle shed, drying yard etc. for effective supervision and farm management. |
+| Eligibility | Person/s engaged (singly or jointly) in agriculture and allied activities. Farmers having minimum irrigated land holding of 2.5 acres; Farmers having sufficient disposable income from his own farm as well as from other sources. Existing borrowers having good track record for the past 3 years with the Bank and new borrowers who have not availed any agriculture loan facilities from any bank / financial institutions. Multiple banking not allowed. Age Limit: Minimum: The applicant/s must be 18 years old (completed) as on the date of application; Maximum: 65 years subject to having sufficient disposable income; Age at Loan Maturity should not exceed 75 Years. |
+| Loan Amount | Rs. 2.00 lakh upto Rs. 10.00 lakh: - Farmer/s having perennially irrigated land holding of minimum 2.5 acres with sufficient disposable income from his own farm, allied activities as well as from other sources. Rs. 10.00 lakh upto Rs. 50.00 lakh: - Farmer/s having perennially irrigated land holding of minimum 5 acres with sufficient disposable income from his own farm, allied activities as well as from other sources. |
+| Margin | Minimum 25% of construction cost of proposed farmhouse. |
+| Rate of Interest | Up to Rs. 10.00 lakh: 1 Year MCLR + BSS@0.50% + 2.00%; Above Rs. 10.00 lakh: 1 Year MCLR +BSS@0.50%+ 3.00% |
+| Security | Registered Mortgage of Agril. Land/s * & Farm House constructed thereon. Hypothecation of standing crop, other movable assets etc. Two acceptable guarantors having adequate Net Worth; * In case landed property cannot be mortgaged for some reasons, NSC, FDR (of our Bank), Government security or such acceptable security with Margin @ 25% may be taken as security. Security in the form of Shares shall not be accepted. |
+| Repayment | Moratorium period may be allowed upto 18 months or completion of the construction which is earlier; Repayment: The entire loan along with interest shall be repaid in yearly / half yearly / quarterly / monthly instalments along with interest within a period of 15 years including moratorium period. The repayment shall be linked to harvesting season of the main / cash crop / income generation cycle of the activity. |
+| Insurance | Asset created have to be insured for full value. |
+| Legal aspects | Permission for farmhouse construction should be obtained along with other requirements as per the norms stipulated by the respective State laws. Title clearance & search report shall be obtained from empaneled advocate for the agricultural land proposed to be mortgaged where farmhouse will be constructed. |
+| Other Terms & Conditions | Conversion of Agriculture land into Non-agriculture (N.A) is not required for construction of farm house subject to compliance of stipulated clause (if any) specified by the respective State Government; The valuation certificate be obtained from respective Registrar / Sub-Registrar of the area to ascertain the value of land. Income of co-applicants may be clubbed for deciding quantum of loan & repayment capacity if property held jointly by them or individually; The farmer should have adequate income, liquidity and capacity to serve the loan installments. The applicant/s should satisfy the KYC guidelines. Income certificate issued by Tahsildar / Mandal Revenue Officer / Revenue Department Officer having State Level Gazetted rank can be accepted where income tax returns are not filed by the farmers |
+| Paper requirement | Loan application ie Form No -138, & Enclosure - B2 - All 7/12, 8 A, 6 D extracts, Chatu Sima of the applicant - In case of Co-Applicant is salaried or businessmen, the latest salary slips / ITR / Form 16 / Balance Sheet & P/L staments - No dues certificates of the applicant from surrounding financial institutions including PACS - Legal search from advocate on Bank's panel where land is to be mortgaged for 30 years - Price quotations/ Plan estimates / Permissions / Lay out etc. - Valuation Certificate from Registar / Sub - Registar of the area; All 7/12, 8 A, 6 D extracts, Chatu Sima of the applicant; In case of Co-Applicant is salaried or businessmen, the latest salary slips / ITR / Form 16 / Balance Sheet & P/L staments; No dues certificates of the applicant from surrounding financial institutions including PACS; Legal search from advocate on Bank's panel where land is to be mortgaged for 30 years; Price quotations/ Plan estimates / Permissions / Lay out etc. Valuation Certificate from Registar / Sub - Registar of the area; Guarantee form F-138 - All 7/12, 8 A & PACS dues certificate of the guarantors - In case of Guarantor is salaried or businessmen, the latest salary slips / ITR / Form 16 / Balance Sheet & P/L; All 7/12, 8 A & PACS dues certificate of the guarantors; In case of Guarantor is salaried or businessmen, the latest salary slips / ITR / Form 16 / Balance Sheet & P/L |
+
+# Scheme for Financing against Warehouse Receipts to farmers
+
+Source: https://bankofmaharashtra.bank.in/loan-against-warehouse-receipts-to-farmers | Category: agri | Scraped: 2026-10-27T18:59:03+00:00
+
+## Overview
+
+| Particulars | Details |
+|---|---|
+| Type of Facility | Short Term Loan (STL) |
+| Purpose | Loan against Negotiable Warehouse Receipts/ eNWR of warehouse/cold storage is available to provide liquidity to the farmers & prevent them from resorting to distress sale of their produce at the time of harvest |
+| Valuation | Market Price or Value shown in warehouse receipt whichever is lower |
+| Margin | 25% of the valuation |
+| Rate of Interest | Aggregate Exposure Up to Rs. 10.00 lakh: 1 Year MCLR + BSS@0.50% + 2.00% Above Rs. 10.00 lakh: 1 Year MCLR +BSS@0.50%+ 3.00% |
+| Security | Loan upto Rs. 25.00 lakh: - Charge on Negotiable Warehouse Receipts/ eNWR being endorsed in favour of bank - Lien should be noted with concern warehouse; Charge on Negotiable Warehouse Receipts/ eNWR being endorsed in favour of bank; Lien should be noted with concern warehouse; Loans above Rs. 25.00 lakh: - Charge on Negotiable Warehouse Receipts/ eNWR being endorsed in favour of bank - Lien should be noted with concern warehouse - Mortgage of land - Third party guarantee having sufficient net worth; Charge on Negotiable Warehouse Receipts/ eNWR being endorsed in favour of bank; Lien should be noted with concern warehouse; Mortgage of land; Third party guarantee having sufficient net worth |
+| Repayment | The loan should be liquidated as & when the produce is sold during the interim period not exceeding 12 months |
+| Other Terms & Conditions | Negotiable Warehouse Receipts/ eNWR should be duly endorsed in favour of bank |
+
+# Scheme for Financing Farmers for Purchase of Land by Small & Marginal Farmers
+
+Source: https://bankofmaharashtra.bank.in/farmers-loan-for-purchase-of-land | Category: agri | Scraped: 2026-10-27T18:58:50+00:00
+
+## Overview
+
+Bank of Maharashtra offers a dedicated loan scheme to assist small and marginal farmers in becoming landowners. By enabling the purchase of agricultural land, this scheme helps strengthen the economic foundation of rural families and promotes long-term farming sustainability.
+
+The scheme aligns with the broader vision of inclusive agricultural development by providing credit support where it's needed the most-on the ground, with the farmers.
+
+#### Purpose
+
+This loan is designed exclusively for the purchase of agricultural land to expand cultivable area and improve farm output. By acquiring additional land, farmers can increase their productivity, diversify crops, and reduce dependency on leased or fragmented land parcels.
+
+| Particulars | Details |
+|---|---|
+| Type of Facility | Term Loan (TL) |
+| Purpose | Purchase of land for agricultural purposes |
+| Eligibility | Small & Marginal Farmers (Who owns maximum of 5 acre of non irrigated land or 2.5 acres of irrigated land including land to be purchased); Share Croppers/tenant farmers cultivating up to 2.5 acres of irrigated land or 5 acres of unirrigated land; Entrepreneurs with agricultural background are also eligible (Provided state laws permits purchase of agri lands by non agriculturists) |
+| Amount | A. Lower of the 1, 2 & 3 - Valuation as assessed by the branch - Circle rate fixed by the state - Registration Value plus; Valuation as assessed by the branch; Circle rate fixed by the state; Registration Value plus; Stamp duty & registration charges for sale deed; Maximum Rs. 20.00 Lakh |
+| Margin | Margin shall be minimum of 20%. |
+| Rate of Interest | Up to Rs. 10.00 lakh: 1 Year MCLR + BSS@0.50% + 2.00%; Above Rs. 10.00 lakh: 1 Year MCLR +BSS@0.50%+ 3.00% |
+| Security | The land presently owned, if any & also the lands to be purchased out of the bank finance be mortgaged in favour of the bank. Hypothecation of Crops grown from time to time on the land |
+| Repayment | 7 to 10 years half yearly / yearly installments including maximum moratorium of 24 months |
+| Other Terms & Conditions | Total land holding including proposed land should not exceed 5 acres for non irrigated land & 2.5 acres for irrigated land. Applicant farmers may be encouraged to purchase the land at one place & not in fragmented holdings to step up productivity & save production expenses. |
+| Documents / Papers to be submitted for loan proposal | Copies of land records regarding land owned & to be purchased, certified by concerned revenue authorities; Documents of title, Copy of sale agreement, if entered |
+| Paper requirement | Loan application ie Form No -138, & Enclosure - B2 - All 7/12, 8 A, 6 D extracts, Chatu Sima of the applicant - No dues certificates of the applicant from surrounding financial institutions including PACS - Legal search from advocate on Bank's panel for loans above Rs. 1.60 lakh where land is to be mortgaged; All 7/12, 8 A, 6 D extracts, Chatu Sima of the applicant; No dues certificates of the applicant from surrounding financial institutions including PACS; Legal search from advocate on Bank's panel for loans above Rs. 1.60 lakh where land is to be mortgaged; Guarantee form F-138 - All 7/12, 8 A & PACS dues certificate of the guarantors; All 7/12, 8 A & PACS dues certificate of the guarantors |
+
+#### Loan Quantum
+
+The maximum loan sanctioned is Rs. 20 lakh. The loan amount is calculated as the lowest among:
+
+- Bank's internal land valuation
+- State government circle rate
+- Registered sale deed value (plus stamp duty and registration charges)
+
+The borrower must contribute at least 20% of the cost as margin.
+
+#### Additional Terms & Support
+
+- The total landholding after purchase must not exceed 5 acres (non-irrigated) or 2.5 acres (irrigated).
+- Preference is given to contiguous land for better operational efficiency.
+- Farmers are encouraged to maintain land utilisation and yield records for performance tracking.
+
+Bank also supports agricultural extension and advisory services to help borrowers maximise the value of their investment.
+
+This scheme is a strong choice for farmers looking to invest in their future through a structured loan against agricultural land-a move toward secure ownership, higher productivity, and economic upliftment.
+
+# Scheme for financing farmers for Purchase of Vehicles (Four Wheelers)
+
+Source: https://bankofmaharashtra.bank.in/four-wheelers-farmer-vehicle-loan | Category: agri | Scraped: 2026-10-27T18:58:54+00:00
+
+## Overview
+
+| Particulars | Details |
+|---|---|
+| Facility | Agricultural Term Loan (ATL) |
+| Purpose | Purchase of brand new vehicle (four-wheeler) including Car, Jeep, Pick-ups, SUVs, Multi Utility Vehicles (MUVs), Rural Transport Vehicles,( including Electric Vehicles) etc., for supervising agricultural operations / effective management of farm / estate and for transportation of agricultural produce / inputs, labours, etc. |
+| Eligibility | The applicant/s should be an agriculturist, cultivating his own land or should be engaged in allied activities such as Dairy, Poultry, sericulture, fisheries etc. The persons engaged in production and distribution of agricultural and allied activity inputs. The applicant/s should possess a valid driving license or engage driver possessing valid driving license. Age Limit: For individuals: 18 years and above. Maximum Age at Maturity of loan should not exceed 70 years. |
+| Income & Land holding criteria | A. Agriculturist having own Agriculture Land: The applicant/s should have minimum net annual income of Rs. 3.00 Lakh from farm / allied activities / other sources and should own minimum 3 acres of perennial irrigated land or minimum 6 acres of seasonally irrigated land (Including the Co-applicant/s); Income Certificate issued by Tahasildar/ Block Level Revenue Authority/Mandal Revenue Officer/ Revenue Department officer having State level Gazetted rank compulsory with minimum annual income of Rs. 3.00 Lakh from farm / allied activities / other sources. B. Agriculturist does not have own Agriculture Land but engaged in allied activities such as Dairy, poultry, sericulture, fisheries etc including Agri Infrastructure and Agri Ancillary activities. The applicant/s should have minimum net annual income of Rs. 3.00 Lakh from farm / allied activities / other sources. Income Tax Return filed by applicant for last 2 financial years as income proof and should have minimum net annual income of Rs. 3.00 Lakh from farm / allied activities / other sources. Note: The Income of Spouse/Father/Mother/Son/Daughter in-Law can be considered as co-applicant for deciding the quantum of loan and repayment. A cap on deduction from the Applicant and Co-applicant should be maintained in ratio of 70:30. |
+| Loan Amount | Maximum Rs. 20.00 Lakh |
+| Margin | Minimum 15% of the cost of Vehicle (i.e. Ex Showroom price + RTO Charges + Insurance Charges) |
+| Rate of Interest | 1 year MCLR +0.25% p.a. |
+| Security | Loan amount upto Rs. 2.00 lakh - Hypothecation of Vehicle. Hypothecation of Vehicle. Loan amount above Rs. 2.00 lakh - Hypothecation of Vehicle - Mortgage of Land / Third Party Guarantee; Hypothecation of Vehicle; Mortgage of Land / Third Party Guarantee |
+| Repayment | The entire loan along with interest shall be repaid within a period of 5-7 years. The repayment would be monthly / quarterly / half- yearly / yearly instalments depending upon generation of income / cash flow. The repayment shall be linked to harvesting season of the main / cash crop / income generation cycle of the activity. |
+| Insurance | Asset created have to be insured for full value. |
+| Other Terms & Conditions | KYC norms to be followed scrupulously. CIBIL report/RBI defaulter list should be obtained and verified. All documents should be submitted in original before disbursement of the loan; Disbursement through RTGS, only in favour of dealers on ascertaining the Account details; Invoice / Receipt, Copy of RC Book with Banks charge and Insurance with bank clause is required. |
+| Paper requirement | Loan application ie Form No -138, & Enclosure - B2 - All 7/12, 8 A, 6 D extracts of the applicant - In case of Co-Applicant is salaried or businessmen, the latest salary slips / ITR / Form 16 / Balance Sheet & P/L staments - No dues certificates of the applicant from surrounding financial institutions including PACS - Legal search from advocate on Bank's panel where land is to be mortgaged for 30 years - Price quotations of Vehicle from Authorized Dealers. All 7/12, 8 A, 6 D extracts of the applicant; In case of Co-Applicant is salaried or businessmen, the latest salary slips / ITR / Form 16 / Balance Sheet & P/L staments; No dues certificates of the applicant from surrounding financial institutions including PACS; Legal search from advocate on Bank's panel where land is to be mortgaged for 30 years; Price quotations of Vehicle from Authorized Dealers. Guarantee form F-138 - All 7/12, 8 A & PACS dues certificate of the guarantors - In case of Guarantor is salaried or businessmen, the latest salary slips / ITR / Form 16 / Balance Sheet & P/L; All 7/12, 8 A & PACS dues certificate of the guarantors; In case of Guarantor is salaried or businessmen, the latest salary slips / ITR / Form 16 / Balance Sheet & P/L |
+
+# Scheme for financing farmers for Purchase of Vehicles (Two / Three Wheelers)
+
+Source: https://bankofmaharashtra.bank.in/farmer-vehicle-loan-for-two-three-wheelers | Category: agri | Scraped: 2026-10-27T18:58:49+00:00
+
+## Overview
+
+| Particulars | Details |
+|---|---|
+| Facility | Agricultural Term Loan (ATL) |
+| Purpose | Purchase of brand new vehicles such as Two Wheelers, Three Wheeler Carriages ( Including Electric vehicles ) for supervising agriculture operations / effective management of farm / estate and for transportation of agricultural produce / inputs, labour, etc. |
+| Eligibility | The applicant/s should be an agriculturist, cultivating his own land or should be engaged in allied activities such as Dairy, Poultry, sericulture, fisheries etc. The persons engaged in production and distribution of agricultural and allied activity inputs. The applicant/s should possess a valid driving license or engage driver possessing valid driving license. Age Limit: For individuals: 18 years and above. Maximum Age at Maturity of loan should not exceed 70 years. |
+| Income & Land holding criteria | The applicant/s should have minimum net annual income of Rs. 1.50 Lakh from farm / allied activities / other sources and should own minimum 2 acres of perennial irrigated land or minimum 4 acres of seasonally irrigated land. (including co-applicant/s); Income Certificate issued by Tahasildar/ Block Level Revenue Authority/Mandal Revenue Officer/ Revenue Department officer having State level Gazetted rank with minimum annual income of Rs. 1.50 Lakh from farm / allied activities / other sources. |
+| Loan Amount | Maximum Rs. 2 Lakh |
+| Margin | Minimum 25% of the cost of Vehicle (i.e. Ex Showroom price + RTO Charges + Insurance Charges) |
+| Rate of Interest | 1 Year MCLR + 3.15% p.a. |
+| Security | Loan amount upto Rs. 2.00 lakh - Hypothecation of Vehicle. Hypothecation of Vehicle. Loan amount above Rs. 2.00 lakh - Hypothecation of Vehicle - Mortgage of Land / Third Party Guarantee; Hypothecation of Vehicle; Mortgage of Land / Third Party Guarantee |
+| Repayment | The entire loan along with interest shall be repaid within a period of 5-7 years. The repayment would be monthly / quarterly / half- yearly / yearly instalments depending upon generation of income / cash flow. The repayment shall be linked to harvesting season of the main / cash crop / income generation cycle of the activity. |
+| Insurance | Asset created have to be insured for full value. |
+| Other Terms & Conditions | KYC norms to be followed scrupulously. CIBIL report/RBI defaulter list should be obtained and verified. All documents should be submitted in original before disbursement of the loan. Disbursement through RTGS, only in favour of dealers on ascertaining the Account details; Invoice / Receipt, Copy of RC Book with Banks charge and Insurance with bank clause is required. |
+| Paper requirement | Loan application ie Form No -138, & Enclosure - B2 - All 7/12, 8 A, 6 D extracts of the applicant - In case of Co-Applicant is salaried or businessmen, the latest salary slips / ITR / Form 16 / Balance Sheet & P/L staments - No dues certificates of the applicant from surrounding financial institutions including PACS - Legal search from advocate on Bank's panel where land is to be mortgaged for 30 years - Price quotations of Vehicle from Authorized Dealers. - Valuation Certificate from Registar / Sub - Registar of the area; All 7/12, 8 A, 6 D extracts of the applicant; In case of Co-Applicant is salaried or businessmen, the latest salary slips / ITR / Form 16 / Balance Sheet & P/L staments; No dues certificates of the applicant from surrounding financial institutions including PACS; Legal search from advocate on Bank's panel where land is to be mortgaged for 30 years; Price quotations of Vehicle from Authorized Dealers. Valuation Certificate from Registar / Sub - Registar of the area; Guarantee form F-138 - All 7/12, 8 A & PACS dues certificate of the guarantors - In case of Guarantor is salaried or businessmen, the latest salary slips / ITR / Form 16 / Balance Sheet & P/L; All 7/12, 8 A & PACS dues certificate of the guarantors; In case of Guarantor is salaried or businessmen, the latest salary slips / ITR / Form 16 / Balance Sheet & P/L |
+
+# The Standard Operating Procedure for the Agriculture Loans:
+
+Source: https://bankofmaharashtra.bank.in/procedure-for-agriculture-loans | Category: agri | Scraped: 2026-10-27T18:58:30+00:00
+
+## Overview
+
+1. Providing the application form along with the check list of the documents to be submitted
+2. Explaining to the customer of the legal documents to be submitted and the formalities regarding obtaining legal opinion, wherever applicable
+3. Accepting the loan application along with necessary documents as per check list.
+4. Scrutinizing the application and documents submitted and informing the deficiencies if any by phone / email / mail.
+5. Carrying out Pre-sanction Field Visit as a part of assessment of technical feasibility at a time convenient to both the customer and bank official.
+6. Processing the loan application and Sanctioning of the loan
+7. Conveying rejection (if any) to the applicant in writing along with the reasons for rejection.
+8. Apprising the customer of the sanction and delivering a copy of the sanction letter against acknowledgement on the copy of sanction letter
+9. Submission of acceptance of terms and conditions of sanction from all concerned like borrower / co-borrower and guarantor/s.
+10. Getting the loan documents executed, as per sanction.
+11. Disburse the loan amount in stages as per requirement.
+12. Monitoring of the loan account and following up with the borrower for ensuring repayment and other terms as per the sanction by email / phone / sms / personal contact / letters.
+
+# Re: Agricultural Debt Waiver & Debt Relief Scheme, 2008
+
+Source: https://bankofmaharashtra.bank.in/writereaddata/documentlibrary/9c088f24-f444-4b3f-b46e-fc9e751d6939.pdf | Category: agri | Scraped: 2026-10-27T19:01:08+00:00
+
+## Document text
+
+You are aware that Union Finance Minister during his budget speech for 2008-09 announced a Debt Waiver & Debt Relief Scheme for the farmers. The scheme will cover direct agricultural loans extended to 'marginal & small farmers' and 'other farmers'.
+
+Guidelines for implementation of the Scheme are given below -
+
+1. Scope
+
+1.1 The Scheme will cover direct agricultural loans extended to 'marginal and small farmers' and 'other farmers'.
+
+1.2 The Scheme shall come into force with immediate effect.
+
+2. Definitions
+
+2.1. 'Direct Agricultural Loans' means Short Term Production Loans and
+Investment Loans provided directly to farmers for agricultural purposes. This would also include such loans provided directly to groups of individual farmers (for example
+Self Help Groups and Joint Liability Groups), provided banks maintain disaggregated data of the loan extended to each farmer belonging to that group.
+
+2.2. 'Short Term Production Loan' means a loan given in connection with the raising of crops, which is to be repaid within 18 months. It will include working capital loan, not exceeding Rs. 1.00 lakh, for traditional and non-traditional plantations and horticulture.
+
+2.3. 'Investment Loan' means
+2.3.1 Investment credit for direct agricultural activities extended for meeting outlays relating to the replacement and maintenance of wasting assets and for capital investment designed to increase the output from the land, e.g. deepening of wells, sinking of new wells, installation of pump sets, purchase of tractor / pair of bullocks, land development and term loan for traditional and non-traditional plantations and horticulture; and
+2.3.2 Investment credit for allied activities extended for acquiring assets in respect of activities allied to agriculture e.g. dairy, poultry farming, goatery, sheep rearing, piggery, fisheries, bee-keeping, green houses and biogas.
+2.3.3 'Cooperative Credit Institution' means a cooperative society that -
+2.3.3.1 provides short-term crop loans to farmers and is eligible for interest subvention from the Central Government; or
+2.3.3.2 carries on banking activities regulated or supervised by RBI or
+NABARD; or
+2.3.3.3 is part of the Short-Term Cooperative Credit Structure or Long-
+Term Cooperative Credit Structure in a State or Union Territory.
+
+2.4. 'Marginal Farmer' means a farmer cultivating (as owner or tenant or share cropper) agricultural land up to 1 hectare (2.5 acres).
+
+2.5. 'Small Farmer' means a farmer cultivating (as owner or tenant or share cropper) agricultural land of more than 1 hectare and up to 2 hectares (5 acres).
+
+1
+
+2.6. 'Other Farmer' means a farmer cultivating (as owner or tenant or share cropper) agricultural land of more than 2 hectares (more than 5 acres).
+
+2.7 Explanation:
+
+2.7.1
+The classification of eligible farmers as per the above landholding criteria under the Scheme would be based on the total extent of land owned by the farmer either singly or as joint holder (in the case of an owner-farmer) or the total extent of land cultivated by the farmer (as tenant or share cropper), at the time of sanction of the loan, irrespective of any subsequent changes in ownership or possession.
+2.7.2
+In the case of borrowing by more than one farmer by pooling their landholdings, the size of the largest landholding in the pool shall be the basis for the purpose of classification of all farmers in that pool as
+'marginal farmer' or 'small farmer' or 'other farmer'.
+2.7.3
+In the case of a farmer who has obtained investment credit for allied activities where the principal loan amount does not exceed Rs. 50,000, he would be classified as "small and marginal farmer" and, where the principal amount exceeds Rs. 50,000, he would be classified as 'other farmer', irrespective in both cases of the size of the land holding, if any.
+2.7.4
+Direct agricultural loan taken under a Kisan Credit Card would also be covered under this Scheme subject to these Guidelines.
+2.7.5
+A short-term production loan and an investment loan taken by a farmer shall be counted as two distinct loans and the Scheme will apply to the two loans separately. Likewise, in the case of a farmer who has taken two investment loans for two separate purposes, the two loans shall be counted as two distinct loans and the Scheme will apply to the two loans separately.
+2.7.6
+A single eligible borrower may have more than one agricultural loan account. The overdue loans in all these accounts will be independently covered under the Scheme. The OTS Relief of 25% (relief upto Rs. 20,000 or 25%, whichever is higher, in 237 stressed districts) is also to be separately applied in the case of crop loans and investment loans.
+2.7.7
+Loans granted by banks to such agricultural credit co-operative societies which are lending institutions (as defined in the Scheme) for advancing direct agricultural loans to farmers are covered under the Scheme.
+2.7.8
+Separate sectoral definitions for 'marginal farmer', 'small farmer' and 'other farmer' may exist in some other context, as for example in the case of plantations crops. However, for the implementation of this Scheme, classification as a 'marginal farmer' or 'small farmer' or 'other farmer' will be done using the criteria of size of landholding as prescribed in the
+Scheme.
+
+However, in the case of investment credit for allied activities, the size of the landholding is not germane. If the principal amount of the loan is
+Rs. 50,000 or less, the farmer will be classified as 'small and marginal farmer' and if the principal amount of the loan is more than Rs. 50,000, the farmer will be classified as 'other farmer'.
+2.7.9
+The amount of loans written off (prudentially or actually) will not be covered under the Scheme. Such written-off loans shall neither be claimed from the Central Government nor will they be recovered from the farmer.
+
+2
+
+However, the farmers whose loans have been written off (prudentially or actually) will be eligible for fresh finance from the branches.
+2.7.10 Short-term loans sanctioned against pledge of gold jewels are covered under the Scheme, provided such loans were given for agricultural purposes. However, the applicable interest will not be in excess of what is normally charged for agricultural loans by the lending institution in the corresponding year and not in excess of 7% per annum in respect of loans disbursed after April 1, 2006.
+2.7.11 Marine fisheries would come within the ambit of pisciculture and loans given to marine fishermen by the branches would be covered under investment loans for allied activities.
+2.7.12 Short-term production credit will include working capital loan up to Rs. 1 lakh for traditional and non-traditional plantations and horticulture. This means that working capital loans for these categories will be reckoned only up to Rs. 1 lakh and of this reckoned sum, only the irregular amounts
+(overdues) as on December 31, 2007 will be eligible for waiver or OTS relief (and not the entire sum of Rs. 1 lakh).
+
+3. Eligible amount
+
+3.1 The amount eligible for debt waiver or debt relief, as the case may be
+(hereinafter referred to as the 'eligible amount'), shall comprise of:
+3.1.1 In the case of a short-term production loan, the amount of such loan
+(together with applicable interest):
+
+3.1.1.1 disbursed up to March 31, 2007 and overdue as on
+December 31, 2007 and remaining unpaid until February 29,
+2008;
+3.1.1.2 restructured and rescheduled by banks in 2004 and in 2006 through the special packages announced by the Central
+Government, whether overdue or not; and
+3.1.1.3 restructured and rescheduled in the normal course up to
+
+March 31, 2007 as per applicable RBI guidelines on account of natural calamities, whether overdue or not.
+
+3.1.2 In the case of an investment loan, the installments of such loan that are over due (together with applicable interest on such installments) if the loan was:
+
+3.1.2.1 disbursed up to March 31, 2007 and overdue as on
+December 31, 2007 and remaining unpaid until February 29,
+2008;
+3.1.2.2 restructured and rescheduled by banks in 2004 and in 2006 through the special packages announced by the Central
+Government; and
+3.1.2.3 restructured and rescheduled in the normal course up to
+March 31, 2007 as per applicable RBI guidelines on account of natural calamities.
+
+Explanation: In the case of an investment loan disbursed up to March
+31, 2007 and classified as non-performing asset or suit filed account, only the installments that were overdue as on December 31, 2007 shall be the eligible amount.
+
+3
+
+3.1.3 Accounts restructured and rescheduled by the branches in 2004
+(FM's Package) includes accounts that are restructured in terms of
+C. O. Cir. No. AX1/CRP/ Cir.1635/2004-05 dated 29.06.04 i. e. relief measures for farmers affected by natural calamities.
+
+3.1.4 Accounts restructured and rescheduled by branches in 2006 (PM's
+Package) for 31 debt stressed district includes accounts that are restructured in terms of C. O. Cir. No. AX1/CRP/ Cir. MH 60/2006-07 dated 19.07.2006 & AX1/PS & RC/ Cir.OT-1/06-07 dated 03.12.06.
+
+3.1.5 In addition to above the accounts that are restructured up to March
+31, 2007 as per RBI standing guidelines for relief measures by banks in areas affected by natural calamities circulated vide C. O. circular
+No.
+AX1/CRP/Agri/Cir.1718/2006-07 dated
+01.07.06 i.
+e.
+reschedulement/ restructuring of loans in areas affected by natural calamities like floods, droughts, cyclones, tidal waves etc. are to be included.
+
+3.1.6. Only those direct agricultural loans which fulfil all the three conditions, i.e., (a) disbursed between March 31, 1997 and March 31, 2007, (b) overdue on
+December 31, 2007, and (c) remaining unpaid until February 29, 2008 will be eligible for debt waiver/debt relief under the Scheme.
+
+Illustrations:
+
+3.1.6.1. An instalment of investment credit for allied activity overdue on
+December 31, 2007 will not be eligible if it has been disbursed after March 31,
+2007.
+
+3.1.6.2 A short-term production loan disbursed up to March 31, 2007 for raising crops with repayment period of 18 months will not be eligible for debt waiver/debt relief if it has not become overdue on December 31, 2007.
+
+3.1.7 Only the instalments of Investment Credit (not the total loan), which were overdue on the date of restructuring and the instalments of the portion of the
+Investment Credit which had not fallen due on the date of restructuring but have subsequently fallen due on December 31, 2007, are eligible for debt waiver/debt relief. Hence, in the case of restructured Investment Credit, the overdue instalments on the date of restructuring plus the instalments which were not due on the date of restructuring but have subsequently fallen due on
+31.12.07 will be eligible for debt waiver/debt relief. Even in cases where the total Investment Credit has been restructured, only the overdue instalments on the date of restructuring and the instalments of the un-restructured portion that have fallen overdue on December 31, 2007 will be eligible for debt waiver/debt relief.
+
+3.1.8 In partially disbursed loan accounts, the 'eligible amount' shall be restricted to the overdues in respect of the portion/ instalments of the loan actually disbursed up to March 31, 2007 and overdue on December 31, 2007 and unpaid until February 29, 2008.
+
+4
+
+3.1.9 The accounting norms provide that in case of NPA accounts, 'suit-filed' accounts and 'recalled' loans, the whole loan will be classified as such.
+However, for the purposes of the Scheme, only instalments of such loans that were disbursed up to March 31, 2007 and overdue on December 31, 2007 and remain unpaid until February 29, 2008 will be eligible for debt waiver/debt relief.
+
+3.2 The following loans shall not be included in the eligible amount:
+
+3.2.1 Advances against pledge or hypothecation of agricultural produce other than standing crop; and
+3.2.2 Agricultural finance to corporates, partnership firms, societies other than cooperative credit institutions (referred to in para 2.3.3), and any similar institution.
+In other words loans for agricultural purposes to companies or other legal persons like registered societies, trusts, partnerships etc. are not covered under the Scheme.
+3.2.3 Loans for construction of storage facilities & for purchase of land, construction of farmhouses, sheds, fencing, etc.
+3.2.3 Loans to farmers for purposes other than agriculture.
+
+3.3 Nothing contained in this Scheme shall apply to any loan disbursed by a lending institution prior to March 31, 1997.
+
+4. Debt Waiver
+
+4.1. In the case of a small or marginal farmer, the entire 'eligible amount' shall be waived.
+
+5. Debt Relief
+
+5.1. In the case of 'other farmers', there will be a one time settlement (OTS) Scheme under which the farmer will be given a rebate of 25% of the 'eligible amount' subject to the condition that the farmer pays the balance of 75% of the 'eligible amount';
+
+Provided that in the case of revenue districts listed in Annexure-I, 'other farmers' will be given OTS rebate of 25% of the 'eligible amount' or Rs. 20,000, whichever is higher, subject to the condition that the farmer pays the balance of the 'eligible amount'. This will enable graded relief to 'Other Farmers' as shown below -
+
+| Amount overdue (Rs.) | Amount of Relief (Rs.) | Relief as % of overdue |
+| 16000 | 16000 | 100.00 |
+| 20000 | 20000 | 100.00 |
+| 40000 | 20000 | 50.00 |
+| 60000 | 20000 | 33.00 |
+| 80000 | 20000 | 25.00 |
+| 100000 | 25000 | 25.00 |
+
+5
+
+of the landholding, the eligible amount and the amount of debt waiver or debt relief proposed to be granted in each case. A proforma for preparation of lists (Annexure
+II) is enclosed for use by the branches. The lists shall be displayed on the notice board of the branch on or before June 30, 2008.
+
+6.2. A farmer classified as 'small farmer' or 'marginal farmer' will be eligible for fresh agricultural loans upon the eligible amount being waived.
+
+6.3. A farmer classified as 'other farmer' eligible for OTS relief shall give an undertaking agreeing to pay his share (i. e. eligible amount minus the amount of
+OTS relief) in not more than three instalments and the first two instalments shall be for an amount not less than one-third of his share. The last dates of payment in the case of three instalments will be September 30, 2008; March 31, 2009 and June 30,
+2009.
+
+6.4. A copy of the undertaking shall be supplied to you in due course.
+
+6.5. The amount of OTS relief (i.e. the Central Government's share) will be credited to the account of the 'other farmer' upon the farmer paying his share in full.
+
+6.6. In the case of a short-term production loan, the 'other farmer' will be eligible for fresh short-term production loan upon paying one-third of his share.
+
+6.7. In the case of an investment loan (for direct agricultural activities or allied activities), the 'other farmer' will be eligible for fresh investment loan upon paying his share in full.
+
+6.8. Reserve Bank of India shall be the nodal agency for the implementation of the
+Scheme.
+
+7. Interest and other charges
+
+7.1. The branches shall not charge any interest on the 'eligible amount' for any period after February 29, 2008. However, in the case of an 'other farmer' who defaults in paying his share of the eligible amount on or before June 30, 2009 and becomes ineligible for OTS relief, the branch may charge interest for the period after
+June 30, 2009.
+
+7.2. Instalments of investment credit which fall overdue after 31.12.2007 shall be recovered by the branches along with the applicable interest. Branches may, however, in appropriate cases, reschedule these instalments in accordance with the normal policy of the Bank.
+
+7.3. Notwithstanding anything contained in this Scheme, the amount of interest that a branch may claim as reimbursement from the Central Government under this
+Scheme shall not, in any case, exceed the principal amount of the loan.
+
+7.4 Branches shall neither claim from the Central Government, nor recover from the farmer, interest in excess of the principal amount, unapplied interest, penal interest, legal charges, inspection charges and miscellaneous charges, etc. All such interest/charges will be borne by the lending institutions.
+
+6
+
+Interest on crop loans disbursed after April 1, 2006 will be calculated at a rate not exceeding 7% per annum. The amount of interest in excess of 7% per annum on crop loans will be borne by the lending institutions.
+
+Normal interest will continue to accrue on the amount of loan not eligible for debt waiver/ debt relief.
+
+8. Certificate of debt waiver or debt relief
+
+8.1. In the case of small and marginal farmers, upon waiver of the eligible amount, the branches shall issue a certificate to the effect that the loan has been waived and specifically mention the eligible amount that has been waived.
+
+8.2. In the case of 'other farmers', upon granting OTS relief, the branches shall issue a certificate to the effect that the loan account has been settled to the satisfaction of the lending institution and specifically mention the eligible amount, the amount paid by the farmer as his share and the amount of OTS relief.
+
+8.3. The formats of certificates shall be supplied to you in due course. On issuing the certificate, the branches shall take an acknowledgement from the farmer.
+
+9. Obligations of the lending institutions
+
+9.1 Every branch shall be responsible for the correctness and integrity of the lists of farmers eligible under this Scheme and the particulars of the debt waiver or debt relief in respect of each farmer. Every document maintained, every list prepared and every certificate issued by a branch for the purposes of this Scheme shall bear the signature and designation of an authorised officer of the branch.
+
+9.2 All Regional Heads shall act as Grievance Redressal Officer for the respective region. They may appoint district wise Grievance Redressal Officers preferably the
+Branch Head of district place branch or a Senior Officer from that district. However, the final order will be passed by Regional Head as Grievance Redressal Officer. The name and address of the Grievance Redressal Officer concerned shall be displayed in each branch. The Grievance Redressal Officer shall have the authority to receive representations from aggrieved farmers and pass appropriate orders thereon. The order of the Grievance Redressal Officer shall be final.
+
+9.3 Any farmer who is aggrieved on the ground that his name has not been included in either of the two lists referred to in paragraph 6.1 or on the ground that his name has been included in the wrong list or on the ground that the relief granted to him has been calculated wrongly, may make a representation through the branch from which he received the loan or directly to the Grievance Redressal Officer of the lending institution concerned and every such representation shall be disposed of within 30 days of receipt thereof.
+
+10. Audit
+
+The books of account of every branch that has granted debt waiver or debt relief under this Scheme (including the books of accounts maintained at the branches) shall be subject to an audit in accordance with the procedure that may be prescribed by RBI/NABARD. The audit may be conducted by concurrent auditors, statutory auditors or special auditors as may be directed by RBI/NABARD. The Central
+
+7
+
+Government, if it is satisfied that it is necessary to do so, may direct a special audit in the case of any branch or one or more branches of such lending institution.
+
+Since the claims of the branches will be processed on the basis of the audited books
+
+of accounts, it is important that due care is taken while preparing the lists of beneficiaries.
+
+11. Publicity
+
+11.1. A copy of this Scheme in English and in the official language or languages of the State/Union Territory shall be displayed in each branch.
+
+12. Interpretation and power to remove difficulties
+
+12.1. If any doubt arises on the interpretation of any paragraph of this Scheme or any instructions issued thereunder, the Central Government shall resolve the doubt and the decision of the Central Government shall be final.
+
+12.2. If any difficulty arises in giving effect to the provisions of the Scheme or any instructions issued thereunder, the Central Government may by order do anything which appears to it to be necessary or expedient for the purposes of removing the difficulty.
+
+13. Monitoring
+
+13.1 Regional Offices are advised to form Steering Committees for Grievance
+Redressal & smooth implementation of the scheme. Branches may refer their difficulties/ grievances to this committee.
+
+13.2 Regional Heads are advised to visit all the branches and ensure smooth implementation of the scheme.
+
+13.3 Senior officers from Central Office/ Circle Offices will also visit the branches and ensure smooth implementation of the Scheme. Every branch will be visited atleast once by a designated officer in the second and third weeks of June 2008. In addition, the senior officers, in the months of June and July, undertake extensive tours to oversee the process of implementation of the Debt Waiver and Debt Relief Scheme.
+The primary object of these tours and visits shall be the preparation of accurate lists of beneficiaries together with the particulars of debt waiver or debt relief in each case, display of the lists on or up to June 30, 2008 and the issue of certificates to the farmers.
+
+13.4 It should be ensured that the lists are displayed without fail on or before June
+30, 2008. The list should be signed after careful verification by the Branch Manager and after supercheck by an officer superior to him, preferably the senior officer assigned as per the instructions in para (13.1) above. Every effort must be made to eliminate errors of inclusion as well as errors of exclusion. The two officers shall be responsible for the correctness and integrity of the lists of beneficiaries.
+
+Regional Heads may conduct sensitization programmes for the Branch Managers/ concerned staff for smooth implementation of the scheme. In case of need a support from Central Office shall be made available for such sensitization programmes.
+
+8
+
+Branches are advised to ensure adequate credit flow to the farmers who are approaching the branches and also those farmers who will become eligible for fresh loans immediately after loan waiver/ relief.
+
+Detail guidelines about accounting entries to be released and other related matters will be communicated to you shortly. In case of any difficulty/ clarification please feel free to contact Regional Office or Central Office.
+
+Yours faithfully,
+
+General Manager
+Priority Sector & Retail Credit
+
+Encl: Annexure I (List of DPAP, DDP & PM's Special Relief Package Districts)
+Annexure II (Proforma for preparation of lists)
+
+9
+
+Annexure 1
+
+Revenue Districts covering DPAP, DDP areas and PM's Special Relief Package Districts
+
+| STATE | SL.NO. | DISTRICTS covered under DPAP, |
+| DDP and PMS's Relief Package |
+| ANDHRA PRADESH | 1 | 1. | Adilabad |
+| 2 | 2. | Chittoor |
+| 3 | 3. | Cuddapah |
+| 4 | 4. | Khammam |
+| 5 | 5. | Kurnool |
+| 6 | 6. | Medak |
+| 7 | 7. | Mehaboobnagar |
+| 8 | 8. | Nalgonda |
+| 9 | 9. | Prakasam |
+| 10 | 10. | Rangareddy |
+| 11 | 11. | Srikakulam |
+| 12 | 12. | Anantpur |
+| 13 | 13. | Warangal |
+| 14 | 14. | Guntur |
+| 15 | 15. | Karimnagar |
+| 16 | 16. | Nellur |
+| 17 | 17. | Nizamabad |
+| BIHAR | 18 | 1. | Bhabhua |
+| 19 | 2. | Jamui |
+| 20 | 3. | Madhubani |
+| 21 | 4. | Nawadah |
+| 22 | 5. | Rohtas |
+| 23 | 6. | Sitamarhi |
+| CHHATISGARH | 24 | 1. | Bastar |
+| 25 | 2. | Bilaspur |
+| 26 | 3. | Dantewara |
+| 27 | 4. | Durg |
+| 28 | 5. | Janjgir-Champa |
+| 29 | 6. | Kabridham |
+| 30 | 7. | Korba |
+| 31 | 8. | Rajnandgaon |
+| GUJARAT | 32 | 1. | Ahmedabad |
+| 33 | 2. | Amreli |
+| 34 | 3. | Bharuch |
+| 35 | 4. | Bhavnagar |
+| 36 | 5. | Dahod |
+| 37 | 6. | Dang |
+| 38 | 7. | Junagadh |
+| 39 | 8. | Narmada |
+
+10
+
+| 40 | 9. | Navasari |
+| 41 | 10. | Panch Mahals |
+| 42 | 11. | Porbandar |
+| 43 | 12. | Sabarkantha |
+| 44 | 13. | Vadodara |
+| 45 | 14. | Valsad |
+| 46 | 15. | Banaskantha |
+| 47 | 16. | Jamnagar |
+| 48 | 17. | Kutchchh |
+| 49 | 18. | Patan |
+| 50 | 19. | Rajkot |
+| 51 | 20. | Surendranagar |
+| HARYANA | 52 | 1. | Bhiwani |
+| 53 | 2. | Fatehabad |
+| 54 | 3. | Hissar |
+| 55 | 4. | Jhahhar |
+| 56 | 5. | Mohindergarh |
+| 57 | 6. | Rewari |
+| 58 | 7. | Sirsa |
+| HIMACHAL | 59 | 1. | Bilaspur |
+| PRADESH |
+| 60 | 2. | Solan |
+| 61 | 3. | Una |
+| 62 | 4. | Kinnaur |
+| 63 | 5. | Lahaul and Spiti |
+| JAMMU & KASHMIR | 64 | 1. | Doda |
+| 65 | 2. | Udhampur |
+| 66 | 3. | Ramban |
+| 67 | 4. | Kishtwar |
+| 68 | 5. | Reasi |
+| 69 | 6. | Kargil |
+| 70 | 7. | Leh |
+| JHARKHAND | 71 | 1. | Bokaro |
+| 72 | 2. | Chatra |
+| 73 | 3. | Deoghar |
+| 74 | 4. | Dhanbad |
+| 75 | 5. | Dumka |
+| 76 | 6. | Garhwa |
+| 77 | 7. | Godda |
+| 78 | 8. | Hazaribagh |
+| 79 | 9. | Jamtara |
+| 80 | 10. | Koderma |
+| 81 | 11. | Latehar |
+| 82 | 12. | Pakur |
+| 83 | 13. | Palamau |
+
+11
+
+| 84 | 14. | Sahebganj |
+| KARNATAKA | 85 | 1. | Bangalore Rural |
+| 86 | 2. | Belgaum |
+| 87 | 3. | Bidar |
+| 88 | 4. | Chamaraja Nagar |
+| 89 | 5. | Chickmaglur |
+| 90 | 6. | Chitradurga |
+| 91 | 7. | Davanagere |
+| 92 | 8. | Dharwad |
+| 93 | 9. | Gadag |
+| 94 | 10. | Gulbarga |
+| 95 | 11. | Hassan |
+| 96 | 12. | Haveri |
+| 97 | 13. | Kolar |
+| 98 | 14. | Mysore |
+| 99 | 15. | Tumkur |
+| 100 | 16. | Kodagu |
+| 101 | 17. | Shimoga |
+| 102 | 18. | Bagalkote |
+| 103 | 19. | Bellary |
+| 104 | 20 | Bijapur |
+| 105 | 21. | Davanagere |
+| 106 | 22. | Koppal |
+| 107 | 23. | Raichur |
+| KERALA | 108 | 1. | Wayanad |
+| 109 | 2. | Palakkad |
+| 110 | 3. | Kasaragod |
+| MADHYA PRADESH | 111 | 1. | Barwani |
+| 112 | 2. | Betul |
+| 113 | 3. | Bhind |
+| 114 | 4. | Chhindwara |
+| 115 | 5. | Damoh |
+| 116 | 6. | Dewas |
+| 117 | 7. | Dhar |
+| 118 | 8. | Guna |
+| 119 | 9. | Jabalpur |
+| 120 | 10. | Jhabua |
+| 121 | 11. | Khandwa |
+| 122 | 12. | Khargaon |
+| 123 | 13. | Panna |
+| 124 | 14. | Raisen |
+| 125 | 15. | Rajgarh |
+| 126 | 16. | Ratlam |
+| 127 | 17. | Rewa |
+
+12
+
+| 128 | 18. | Shahdol |
+| 129 | 19. | Shajapur |
+| 130 | 20. | Shivpuri |
+| 131 | 21. | Sidhi |
+| 132 | 22. | Seoni |
+| 133 | 23. | Umaria |
+| 134 | 24. | Ashok Nagar |
+| 135 | 25. | Anuppur |
+| MAHARASHTRA | 136 | 1. | Ahmednagar |
+| 137 | 2. | Akola |
+| 138 | 3. | Amravati |
+| 139 | 4. | Aurangabad |
+| 140 | 5. | Beed |
+| 141 | 6. | Buldhana |
+| 142 | 7. | Chandrapur |
+| 143 | 8. | Dhule |
+| 144 | 9. | Gadchiroli |
+| 145 | 10. | Hingoli |
+| 146 | 11. | Jalgaon |
+| 147 | 12. | Jalna |
+| 148 | 13. | Latur |
+| 149 | 14. | Nagpur |
+| 150 | 15. | Nanded |
+| 151 | 16. | Nandurbar |
+| 152 | 17. | Nashik |
+| 153 | 18. | Oshmanabad |
+| 154 | 19. | Parbhani |
+| 155 | 20. | Pune |
+| 156 | 21. | Sangli |
+| 157 | 22. | Satara |
+| 158 | 23. | Solapur |
+| 159 | 24. | Washim |
+| 160 | 25. | Yavatmal |
+| 161 | 26. | Wardha |
+| ORISSA | 162 | 1. | Bargarh |
+| 163 | 2. | Bolangir |
+| 164 | 3. | Boudh |
+| 165 | 4. | Dhenkanal |
+| 166 | 5. | Kalahandi |
+| 167 | 6. | Nuapada |
+| 168 | 7. | Sonepur |
+| 169 | 8. | Phulbani |
+| RAJASTHAN | 170 | 1. | Ajmer |
+| 171 | 2. | Banswara |
+
+13
+
+| 172 | 3. | Baran |
+| 173 | 4. | Bharatpur |
+| 174 | 5. | Dungarpur |
+| 175 | 6. | Jhalawar |
+| 176 | 7. | Karauli |
+| 177 | 8. | Kota |
+| 178 | 9. | Sawai Madhopur |
+| 179 | 10. | Tonk |
+| 180 | 11. | Udaipur |
+| 181 | 12. | Barmer |
+| 182 | 13. | Bikaner |
+| 183 | 14 | Churu |
+| 184 | 15. | Hanuman Garh |
+| 185 | 16. | Jaipur |
+| 186 | 17. | Jaiselmer |
+| 187 | 18. | Jallore |
+| 188 | 19. | Jhunjhunu |
+| 189 | 20. | Jodhpur |
+| 190 | 21. | Nagaur |
+| 191 | 22. | Pali |
+| 192 | 23. | Rajsamand |
+| 193 | 24. | Sikar |
+| 194 | 25. | Sirohi |
+| TAMILNADU | 195 | 1. | Coimbatore |
+| 196 | 2. | Dharmapuri |
+| 197 | 3. | Dindigul |
+| 198 | 4. | Karur |
+| 199 | 5. | Krishnagiri |
+| 200 | 6. | Namakkal |
+| 201 | 7. | Perambalur |
+| 202 | 8. | Pudukottai |
+| 203 | 9. | Ramanathapuram |
+| 204 | 10. | Salem |
+| 205 | 11. | Sivaganga |
+| 206 | 12. | Tiruchirapalli |
+| 207 | 13. | Tirunelveli |
+| 208 | 14. | Tiruvannamalai |
+| 209 | 15. | Thothukudi |
+| 210 | 16. | Vellore |
+| 211 | 17. | Virudunagar |
+| UTTAR PRADESH | 212 | 1. | Allahabad |
+| 213 | 2. | Bahraich |
+| 214 | 3. | Balrampur |
+| 215 | 4. | Banda |
+
+14
+
+| 216 | 5. | Chitrakoot |
+| 217 | 6. | Hamirpur |
+| 218 | 7. | Jalaun |
+| 219 | 8. | Jhansi |
+| 220 | 9. | Lakhimpur Kheri |
+| 221 | 10. | Lalitpur |
+| 222 | 11. | Mahoba |
+| 223 | 12. | Mirzapur |
+| 224 | 13. | Shravasti |
+| 225 | 14. | Sitapur |
+| 226 | 15. | Sonbhadra |
+| UTTRAKHAND | 227 | 1. | Almora |
+| 228 | 2. | Bageswar |
+| 229 | 3. | Chamoli |
+| 230 | 4. | Champavat, |
+| 231 | 5. | Pauri Garhwal |
+| 232 | 6. | Pithoragarh, |
+| 233 | 7. | Tehri Garhwal |
+| WEST BENGAL | 234 | 1. | Bankura |
+| 235 | 2. | Birbhum |
+| 236 | 3. | Medinapur West |
+| 237 | 4. | Purulia |
+| Total No. of districts | 237 Districts |
+
+15
+
+Remarks
+
+Remarks
+
+Remarks
+
+Amount
+
+Amount
+
+Amount
+
+waiver
+
+waiver
+
+waiver
+
+of
+
+of
+
+of
+
+| remain | remain | remain |
+| Int | Int | Int |
+| 2008 |
+| which | 29/02/2008 | which | 29/02/2008 | which | 29/02/2008 |
+| REGION: | Principle | Principle | Principle |
+| unpaid | unpaid | unpaid |
+| Of | Of | Of |
+| SCHEME |
+
+| 31/12/2007 | 31/12/2007 | 31/12/2007 |
+| Overdues | Principle | Overdue | Principle | Overdue | Principle |
+| DEBT |
+| II |
+| Int | Int | Int |
+| AND |
+| Annexure | Outstanding 31/12/2007 | Outstanding 31/12/2007 | Outstanding 31/12/2007 |
+
+| DEBT | Disbursed | Disbursed | Disbursed |
+| Amount | Amount | Amount |
+| Activities: |
+| FARMERS |
+| AGRICULTURAL |
+| ________________________________ |
+
+Holding
+Date of
+
+Holding
+Date of
+
+Holding
+Date of
+
+3. Investment Credit for Allied Activities:
+
+1. Short Term Production Loan:
+
+Village Land
+
+Village Land
+
+Village Land
+
+N.
+Name of the
+
+N.
+Name of the
+
+N.
+Name of the
+
+borrower
+
+borrower
+
+borrower
+
+/ Farmer
+
+/ Farmer
+
+/ Farmer
+
+S.
+
+S.
+
+S.
+
+Remarks
+
+Remarks
+
+Remarks
+
+| of | of | of |
+| Amount | Rebate) | Amount | Rebate) | Amount | Rebate) |
+| Relief (OTS | Relief (OTS | Relief (OTS |
+| unpaid | unpaid | unpaid |
+
+| Of | Of | Of |
+| on |
+| Int | on | Int | on | Int |
+| as |
+| as | as |
+| (Instalments) | (Instalments) |
+| 31/12/2007 | 31/12/2007 | 31/12/2007 |
+| Overdues | Principle | Overdue | Principle | Overdue | Principle |
+
+| Int | Int | Int |
+| 17 |
+| Outstanding 31/12/2007 | Outstanding 31/12/2007 | Outstanding 31/12/2007 |
+| Principle | Principle | Principle |
+| Disbursed | Disbursed | Disbursed |
+| Amount | Amount | Amount |
+| Activities: |
+
+Holding
+Date of
+
+Holding
+Date of
+
+Holding
+Date of
+
+3. Investment Credit for Allied Activities:
+
+B. DEBT RELIEF - OTHER FARMERS
+
+1. Short Term Production Loan:
+
+Village Land
+
+Village Land
+
+Village Land
+
+N.
+Name of the
+
+N.
+Name of the
+
+N.
+Name of the
+
+borrower
+
+borrower
+
+borrower
+
+/ Farmer
+
+/ Farmer
+
+/ Farmer
+
+S.
+
+S.
+
+S.

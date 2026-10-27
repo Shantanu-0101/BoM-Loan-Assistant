@@ -4,7 +4,8 @@ Reads ``data/raw`` (urls.csv, manifest.csv, html/, pdf/) and writes, under ``dat
 ``pages/<slug>.md`` (one cleaned page each), ``knowledge_base.md`` (all pages, readable),
 ``loan_products.jsonl`` (one record per page) and ``stats.json`` (what was kept and dropped).
 
-Run: ``python -m loan_assistant.processing.consolidate [--include msme,agri]``
+Run: ``python -m loan_assistant.processing.consolidate [--include msme,agri | --include none]``
+All loan scopes (retail, MSME, agriculture) are included by default, as clarified.
 """
 
 import argparse
@@ -330,7 +331,7 @@ def build_stats(pages, html_report, pdf_report, boiler: Counter) -> dict:
 
 
 def run_process(include: set[str] | None = None) -> dict:
-    include = include or set()
+    include = TIER2 if include is None else include
     raw_dir, out_dir = settings.raw_dir, settings.processed_dir
     html_pages, html_report = load_html_pages(raw_dir, include)
     pdf_pages, pdf_report = load_pdf_pages(raw_dir, html_pages, include)
@@ -345,10 +346,14 @@ def run_process(include: set[str] | None = None) -> dict:
 
 def main() -> None:
     ap = argparse.ArgumentParser(description="Clean scraped pages and build the knowledge base.")
-    ap.add_argument("--include", default="", help="Tier 2 categories to add, e.g. msme,agri")
+    ap.add_argument(
+        "--include",
+        default="msme,agri",
+        help="Tier 2 categories to add (default msme,agri); use 'none' for Tier 1 only",
+    )
     args = ap.parse_args()
     logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
-    include = {c.strip() for c in args.include.split(",") if c.strip()}
+    include = {c.strip() for c in args.include.split(",") if c.strip() and c != "none"}
     unknown = include - TIER2
     if unknown:
         ap.error(f"unknown categories {sorted(unknown)}; choose from {sorted(TIER2)}")
