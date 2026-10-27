@@ -31,7 +31,7 @@ class Settings(BaseSettings):
     candidates_k: int = 20
     top_k: int = 5
     rrf_k: int = 60
-    min_score: float = 0.0  # tuned in Phase 3
+    min_score: float = 0.68  # best cosine below this = refuse (in-scope >= 0.74, off-topic <= 0.66)
 
     # Chunking
     chunk_words: int = 300

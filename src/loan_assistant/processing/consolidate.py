@@ -19,6 +19,7 @@ from collections import Counter
 from dataclasses import dataclass, field
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
+from typing import Any
 
 import yaml
 from bs4 import BeautifulSoup
@@ -88,10 +89,10 @@ def visible_words(raw: bytes) -> int:
     return len((soup.body or soup).get_text(" ", strip=True).split())
 
 
-def load_html_pages(raw_dir: Path, include: set[str]) -> tuple[list[Page], dict]:
+def load_html_pages(raw_dir: Path, include: set[str]) -> tuple[list[Page], dict[str, Any]]:
     manifest = {r["url"]: r for r in _read_csv(raw_dir / "manifest.csv")}
     pages: list[Page] = []
-    report = {"skipped": [], "empty": [], "raw_words": 0, "out_of_scope": 0}
+    report: dict[str, Any] = {"skipped": [], "empty": [], "raw_words": 0, "out_of_scope": 0}
     for rec in _read_csv(raw_dir / "urls.csv"):
         url, category, tier = rec["url"], rec["category"], int(rec["tier"])
         if tier == 2 and category not in include:

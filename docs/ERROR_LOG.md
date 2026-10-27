@@ -62,4 +62,35 @@ Real problems met while building, in time order (IST). The README's "Challenges 
 - **Cause:** the first check counted ASCII letters, and these glyphs are ASCII.
 - **Fix:** a PDF now needs real English prose: at least 50% of its tokens must contain a real word, and at least 5% of its words must be common function words ("the", "of", "and"). 18 non-English or garbled PDFs are left out; 14 scanned ones have no text. Test: `test_pdf_language_check_accepts_english_and_rejects_font_gibberish`.
 
+## 2026-10-28 ~01:35 IST | The type checker found 32 errors in Phases 0 to 2
+- **Symptom:** `mypy` (added this phase; only `ruff` and `pytest` had been run before) reported 32 errors in `clean.py`, `discover.py`, `fetch.py` and `consolidate.py`. All earlier checks were green, so none had been seen.
+- **Cause:** (1) BeautifulSoup returns `PageElement`, which the cleaner passed to functions that need `Tag`; (2) empty containers without a type (`seen = set()`); (3) a `()` default for a `list` parameter; (4) a `dict` report that mixed ints and lists.
+- **Fix:** narrowing with `isinstance(child, Tag)`, a `TypeGuard` on `_is_tag`, `select_one("h1")` in place of `find("h1")`, explicit annotations, `Sequence` for the parameter, `dict[str, Any]` for the report. Behaviour is unchanged: re-running `consolidate` rebuilt the same `data/processed/` files (no diff), and all 50 earlier tests still pass. `mypy` is now configured in `pyproject.toml` and pinned in `requirements.txt`.
+
+## 2026-10-28 ~01:40 IST | Gemini hello-world took 407 seconds
+- **Symptom:** the Phase 3 check script ran for nearly 7 minutes. Groq answered in 0.9 s; Gemini answered "OK" after 407 s.
+- **Cause:** not diagnosed; the default client waits and retries without a short limit. A fallback that can hang for minutes is worse than none.
+- **Fix:** both providers get a 30 s timeout, and Gemini is limited to one attempt (`HttpRetryOptions(attempts=1)`). If it recurs, Gemini is the slow part, not the code. Gemini has not been used for a real answer yet (Groq has always answered).
+
+## 2026-10-28 ~01:45 IST | Answers had no sources: the model wrote citations as 【2】
+- **Symptom:** the first full answer was good, but the "Sources" list was empty.
+- **Cause:** `gpt-oss-120b` writes citations in full-width brackets (`【2】`), not `[2]`, and uses non-breaking hyphens and spaces. The citation parser looked for `[2]`.
+- **Fix:** the prompt now asks for plain brackets, and `clean_model_text` converts the variants to ASCII before the answer is shown or parsed. Test: `test_model_bracket_variants_are_turned_into_plain_citations`.
+
+## 2026-10-28 ~01:48 IST | The model invented a number by subtracting
+- **Symptom:** for the home-loan rate question the answer said "0.05% concession (i.e., 7.20% p.a.)". 7.20% is in no source; it is 7.25% minus 0.05%. The retail rate page says the concession applies only to some CIBIL slabs, so the number may also be wrong.
+- **Cause:** the prompt said "never guess numbers" but did not forbid arithmetic.
+- **Fix:** rule 3 now says: do no arithmetic, use only figures written in the context. The invented figure is gone. A second unsupported remark ("the rate does not vary with loan tenure") still appeared in one run, so the model is not fully faithful. Phase 4 hand grading must check for this.
+
+## 2026-10-28 ~01:50 IST | Home-loan rate question gets a correct but thin answer (known weakness, not fixed)
+- **Symptom:** "What are the interest rates for a Bank of Maharashtra home loan?" is answered with 7.25% p.a. and the women's concession, but not the CIBIL-score rate table on `/retail-interest-rates`, which has the full range.
+- **Cause:** that table chunk ranks 28th by meaning and 122nd by keywords. Rate chunks are mostly numbers, so they embed poorly, and the page says "Housing Loan" where people say "home loan". Large "Personal Loan" tables outrank it for any "loan interest rate" question.
+- **Tried, no gain (reverted or not kept):** the BGE query-instruction prefix; query synonyms home/housing and car/vehicle for BM25 (helped one question, hurt another); starting a new chunk at each numbered scheme; picking the best "rates" chunk by meaning (it picks the wrong loan).
+- **Left as:** a documented limitation. Candidate fixes for the README's improvements list: a cross-encoder reranker, or a structured rate table with direct lookup (both named in the spec). Phase 4 will measure how many rate questions are affected.
+
+## 2026-10-28 ~01:25 IST | Giant table cells are cut mid-row
+- **Symptom:** in the chunks of `/retail-interest-rates`, two personal-loan chunks are exactly 450 words, and the next one starts in the middle of a row (`RLLR - 2.95% - 11.25%; ...`).
+- **Cause:** Phase 2 flattens nested tables into one table cell, and that one row is longer than the 450-word limit. The chunker never splits a row, except when a single row alone exceeds the limit; then it cuts that row (3 cases in 415 chunks) and the header is lost.
+- **Fix:** none; kept the hard limit. Listed as a limitation.
+
 Note: the timestamps above before 00:28 are approximate. The network and sitemap entries were first written with a wrong clock reading, so only the date and the order are reliable for those two.

@@ -160,7 +160,7 @@ def collect_sitemap_urls(fetcher: Fetcher, max_files: int = 20) -> list[str]:
     """Walk sitemap.xml (and nested sitemaps) and return all page URLs."""
     queue = [f"{settings.base_url}/sitemap.xml"]
     pages: list[str] = []
-    seen = set()
+    seen: set[str] = set()
     while queue and len(seen) < max_files:
         url = queue.pop(0)
         if url in seen:

@@ -4,6 +4,7 @@ import csv
 import logging
 import re
 import xml.etree.ElementTree as ET
+from collections.abc import Sequence
 from dataclasses import dataclass
 from urllib.parse import urldefrag, urljoin, urlparse
 
@@ -188,7 +189,8 @@ def parse_sitemap(xml_text: str) -> tuple[list[str], list[str]]:
     """Return (page urls, nested sitemap urls) from a sitemap or sitemap index."""
     # The live sitemap starts with a UTF-8 BOM, which the XML parser rejects.
     root = ET.fromstring(xml_text.removeprefix(BOM))
-    pages, nested = [], []
+    pages: list[str] = []
+    nested: list[str] = []
     for el in root.iter():
         if not el.tag.endswith("}loc") and el.tag != "loc":
             continue
@@ -226,7 +228,7 @@ def extract_pdf_links(html: str, page_url: str) -> list[str]:
 
 
 def build_url_list(
-    sitemap_urls: list[str], extra_urls: list[tuple[str, str]] = ()
+    sitemap_urls: list[str], extra_urls: Sequence[tuple[str, str]] = ()
 ) -> list[UrlRecord]:
     """Merge seed hubs, sitemap matches and extra (url, source) pairs; dedupe; keep allowed."""
     candidates: dict[str, str] = {}

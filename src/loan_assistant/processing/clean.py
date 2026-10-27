@@ -10,6 +10,7 @@ scripts) is dropped, tables become Markdown tables, and text is normalized.
 import copy
 import re
 from dataclasses import dataclass, field
+from typing import TypeGuard
 
 from bs4 import BeautifulSoup, Comment, NavigableString, Tag
 
@@ -145,7 +146,7 @@ END_PUNCT = (".", ";", ":", "!", "?")
 Item = tuple  # ("h", level, text) | ("md", text)
 
 
-def _is_tag(node) -> bool:
+def _is_tag(node: object) -> TypeGuard[Tag]:
     return isinstance(node, Tag)
 
 
@@ -232,12 +233,12 @@ def cell_text(cell: Tag) -> str:
             parts.append((text, "text"))
 
     for child in cell.children:
-        name = getattr(child, "name", None)
         if isinstance(child, Comment):
             continue
-        if name is None or name in INLINE or name == "br":
+        if not isinstance(child, Tag) or child.name in INLINE or child.name == "br":
             buf.append(child)
             continue
+        name = child.name
         flush()
         if name == "table":
             parts.append((flatten_table(child), "list"))
@@ -409,10 +410,10 @@ def walk(node: Tag, items: list[Item]) -> None:
     for child in node.children:
         if isinstance(child, Comment):
             continue
-        name = getattr(child, "name", None)
-        if name is None or name in INLINE or name == "br":
+        if not isinstance(child, Tag) or child.name in INLINE or child.name == "br":
             buf.append(child)
             continue
+        name = child.name
         flush()
         if re.fullmatch(r"h[1-6]", name):
             text = inline_text(child)
@@ -519,11 +520,11 @@ def _title(soup: BeautifulSoup, container: Tag) -> str:
     Some pages leave ``.heading-wrap`` unclosed, so it can wrap the whole article: only the
     heading elements are taken out of it, never the wrapper itself.
     """
-    h1 = container.find("h1") or soup.find("h1")
+    h1 = container.select_one("h1") or soup.select_one("h1")
     title = inline_text(h1) if h1 else ""
     if h1:
         sub = h1.find_next_sibling()
-        if sub is not None and sub.name == "h2" and "h4" in (sub.get("class") or []):
+        if isinstance(sub, Tag) and sub.name == "h2" and "h4" in (sub.get("class") or []):
             if text := inline_text(sub):
                 title = f"{title} {text}"
             sub.decompose()
@@ -582,7 +583,8 @@ def clean_html(html: str, url: str = "") -> CleanPage:
         walk(pane, items)
         text = PARA.join(_render(items, None)[1]).strip()
         if text:
-            pane_sections.append(Section(labels.get(pane.get("id")) or pane.get("id", ""), text))
+            pane_id = str(pane.get("id") or "")
+            pane_sections.append(Section(labels.get(pane_id) or pane_id, text))
         pane.extract()
 
     items = []
