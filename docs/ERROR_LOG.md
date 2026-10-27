@@ -32,4 +32,34 @@ Real problems met while building, in time order (IST). The README's "Challenges 
 - **Cause:** the package was not installed in the venv.
 - **Fix:** `pip install -e .` (now a documented setup step).
 
+## 2026-10-28 ~00:45 IST (approx.) | Phase 1 summary said 91 URLs / 51 Tier 1; the file has 90 / 50
+- **Symptom:** `scrape_run2.log` ends with `urls: 91`, `tier1: 51`, but `urls.csv` has 90 rows (50 Tier 1).
+- **Cause:** the log was written before the fix that stops `.pdf` files counting as pages, so it still counted `education-loan.pdf`. A leftover non-UTF-8 file from that bug (`data/raw/html/writereaddata-loans-form-education-loan-pdf.html`) is still on disk (gitignored, harmless).
+- **Fix:** none needed in code. The correct numbers are 90 URLs and 50 Tier 1. The processing step reads `urls.csv` and `manifest.csv`, never the folder. Phase 2 check: 50 Tier 1 pages in the manifest, 50 pages processed.
+
+## 2026-10-28 ~00:55 IST (approx.) | A whole page came out empty: an unclosed `heading-wrap` wrapped the article
+- **Symptom:** `interest-subsidies-scheme-for-education-loans` (588 words in the raw page) had 0 words after cleaning.
+- **Cause:** the site leaves `<div class="heading-wrap">` open on some pages, so it contains the entire article. The cleaner removed the wrapper to get rid of the title block, and the article went with it.
+- **Fix:** only the `<h1>` (and a `<h2 class="h4">` subtitle) are taken out; the wrapper stays. Regression test: `test_unclosed_heading_wrapper_does_not_swallow_the_article`. Found by listing pages with 0 words after the first full run.
+
+## 2026-10-28 ~01:00 IST (approx.) | FAQ questions silently lost
+- **Symptom:** the cleaned home-loan page had the FAQ answers but no questions.
+- **Cause:** the FAQ questions are `<button>` elements inside `<h3>`, and the cleaner dropped every `<button>` (meant for "SHOW EMI" and the like).
+- **Fix:** buttons are kept as text; stand-alone button words ("Submit", "Apply Now") are filtered by a short UI-text list instead. Only the tab's own header is removed. Test: `test_faq_questions_are_kept_as_headings`, plus a check on the real page that it has at least 8 FAQ headings.
+
+## 2026-10-28 ~01:03 IST (approx.) | Interest-rate tables flattened into unreadable text
+- **Symptom:** on `retail-interest-rates`, the CIBIL-score tables (inside numbered list items) came out as `800 & above - RLLR - -1.05% - 7.25% - RLLR ...` with the columns lost. These are the core rate data.
+- **Cause:** tables nested in list items were flattened to a single line.
+- **Fix:** a table inside a list item is now a real Markdown table placed after its item, at column 0. Tables nested inside table cells are still flattened to one line (`label - value; label - value`), because Markdown cannot nest tables. Test: `test_table_inside_a_list_item_stays_a_real_table`.
+
+## 2026-10-28 ~01:05 IST (approx.) | Legitimate links removed, and "know more" cut out of a sentence
+- **Symptom:** a table cell read `Click here to view the` with the link text missing; a list item lost the words "know more" in the middle of a sentence.
+- **Cause:** (1) a blanket rule dropped every `a.btn`, but the site also uses that class for ordinary links ("Interest Rate"). (2) The "Know More..." clean-up matched anywhere in a line, not only as a trailing link label.
+- **Fix:** only the apply, call-back and calculator buttons are dropped by class name; the clean-up is anchored to the end of the text. Test: `test_know_more_is_removed_only_as_a_trailing_link_label`.
+
+## 2026-10-28 ~01:08 IST (approx.) | A garbled PDF passed the "is it English" check
+- **Symptom:** a PM SVANidhi form (Indic script, fonts that decode to Latin-looking symbols) entered the knowledge base as `opam o#T jz...`.
+- **Cause:** the first check counted ASCII letters, and these glyphs are ASCII.
+- **Fix:** a PDF now needs real English prose: at least 50% of its tokens must contain a real word, and at least 5% of its words must be common function words ("the", "of", "and"). 18 non-English or garbled PDFs are left out; 14 scanned ones have no text. Test: `test_pdf_language_check_accepts_english_and_rejects_font_gibberish`.
+
 Note: the timestamps above before 00:28 are approximate. The network and sitemap entries were first written with a wrong clock reading, so only the date and the order are reliable for those two.

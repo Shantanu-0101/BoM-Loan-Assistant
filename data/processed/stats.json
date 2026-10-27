@@ -1,0 +1,43 @@
+{
+  "pages_html": 50,
+  "pages_pdf": 1,
+  "by_category": {
+    "other": 14,
+    "education": 5,
+    "home": 11,
+    "gold": 1,
+    "property": 3,
+    "personal": 8,
+    "vehicle": 6,
+    "rates": 2,
+    "charges": 1
+  },
+  "sections": 127,
+  "tables": 72,
+  "words_total": 41426,
+  "raw_visible_words_html": 150444,
+  "words_dropped_as_page_chrome": 109076,
+  "boilerplate_lines_removed": 0,
+  "boilerplate_top": [],
+  "thin_pages": [
+    "collateral-free-cash-credit-facility (34 words)",
+    "collateral-free-term-loan-facility (42 words)",
+    "mahabank-green-financing-scheme (80 words)",
+    "mahabank-personalloan-scheme-bpcl-employees (164 words)",
+    "vehicle-loan-for-small-road-transport-operator (71 words)"
+  ],
+  "skipped_urls": [],
+  "empty_pages": [],
+  "tier2_not_included": 40,
+  "pdfs": {
+    "kept": 1,
+    "left_out": {
+      "no text (scanned image)": 14,
+      "not English": 18,
+      "linked only from pages outside this build": 2,
+      "site-wide footer link": 7,
+      "too short or too long": 1,
+      "blank application form": 2
+    }
+  }
+}
