@@ -22,6 +22,11 @@ def test_parse_sitemap_returns_pages_and_nested():
     assert len(pages) == 8 and nested == []
 
 
+def test_parse_sitemap_tolerates_utf8_bom():
+    pages, _ = discover.parse_sitemap("﻿" + SITEMAP)
+    assert len(pages) == 8
+
+
 def test_only_official_host_and_allowed_sections():
     assert discover.is_allowed_url(f"{BASE}/personal-banking/loans/home-loan")
     assert not discover.is_allowed_url(f"{BASE}/blogs/x")
@@ -44,12 +49,42 @@ def test_build_url_list_filters_and_keeps_hubs():
     assert all(discover.urlparse(u).netloc == "bankofmaharashtra.bank.in" for u in urls)
 
 
-def test_all_hubs_are_tier1_and_categorized():
+def test_hubs_are_categorized_and_tiered():
     records = {r.url: r for r in discover.build_url_list([])}
     assert records[f"{BASE}/retail-interest-rates"].category == "rates"
     assert records[f"{BASE}/service-charges"].category == "charges"
     assert records[f"{BASE}/personal-banking/loans/home-loan"].category == "home"
-    assert all(r.tier == 1 for r in records.values())
+    assert records[f"{BASE}/msme"].category == "msme" and records[f"{BASE}/msme"].tier == 2
+    assert records[f"{BASE}/agriculture"].category == "agri"
+    assert records[f"{BASE}/educational-loans"].tier == 1
+
+
+def test_loan_classifier_keeps_products_and_drops_noise():
+    keep = [
+        "kisan-credit-card",
+        "mahabank-finance-to-msme-start-ups",
+        "agri-gold-loan",
+        "pradhan-mantri-mudra-yojana",
+        "maha-saraswati-scheme",
+        "salary-gain-scheme",
+    ]
+    drop = [
+        "ppf-scheme",
+        "monthly-interest-deposit-scheme",
+        "homeloan-emi-calculator",
+        "ms-iifl-finance-ltd",
+        "ms-loan-tap-credit-products",
+        "online-loans",
+        "export-finance",
+        "corporate-banking",
+        "about-us",
+        "bom-smart-sb-scheme",
+        "msme_web/home.aspx",
+    ]
+    for s in keep:
+        assert discover.looks_like_loan_page(f"{BASE}/{s}"), s
+    for s in drop:
+        assert not discover.looks_like_loan_page(f"{BASE}/{s}"), s
 
 
 def test_extract_links_keeps_only_loan_links_on_domain():
@@ -77,3 +112,7 @@ def test_csv_roundtrip(tmp_path):
     path = tmp_path / "urls.csv"
     discover.write_urls_csv(records, path)
     assert discover.read_urls_csv(path) == records
+
+
+def test_pdf_links_are_not_treated_as_pages():
+    assert not discover.looks_like_loan_page(f"{BASE}/writereaddata/loans/form/education-loan.pdf")

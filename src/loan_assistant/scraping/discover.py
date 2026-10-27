@@ -26,17 +26,23 @@ BLOCKED_PREFIXES = (
     "/properties-for-sale-details",
 )
 LOAN_PREFIX = "/personal-banking/loans/"
+BOM = "﻿"  # the live sitemap.xml starts with a UTF-8 byte-order mark
 
 # Hub pages (full paths) that we fetch first; their links reveal the sub-scheme URLs.
 HUB_PATHS = [
     "/personal-banking/loans/home-loan",
     "/personal-banking/loans/personal-loan",
     "/personal-banking/loans/car-loan",
-    "/personal-banking/loans/educational-loans",
-    "/personal-banking/loans/gold-loan",
-    "/personal-banking/loans/loan-against-property",
+    "/retail-loans",
+    "/educational-loans",
+    "/gold-loan",
+    "/loan-against-property",
     "/retail-interest-rates",
     "/service-charges",
+    "/msme",
+    "/msme-schematic-loans",
+    "/agriculture",
+    "/procedure-for-agriculture-loans",
 ]
 
 # Last path segments of Tier 1 pages named in the spec (section 2.1). Sitemap and hub links
@@ -66,20 +72,51 @@ TIER1_SLUGS = {
     "service-charges",
 }
 
-LOAN_KEYWORDS = ("loan", "housing", "awas", "lad", "scheme", "interest-rate", "service-charges")
-TIER2_KEYWORDS = {"msme": ("msme", "mudra", "cgtmse"), "agri": ("agri", "kisan", "farm")}
-# Substrings that mark a non-product page even if the URL looks loan-related.
-EXCLUDE_KEYWORDS = ("emi-calculator", "calculator", "apply-now", "digiloans", "lead")
+# The site's loan pages sit at the root with flat slugs, so classification is by slug words.
+LOAN_WORDS = (
+    "loan",
+    "housing",
+    "awas",
+    "mudra",
+    "kisan",
+    "msme",
+    "agri",
+    "farm",
+    "solar",
+    "svanidhi",
+    "saraswati",
+    "swagatam",
+    "mkcc",
+    "credit-guarantee",
+    "gst-credit",
+    "contractors",
+    "textile-cluster",
+    "professional",
+    "financing",
+    "finance-to",
+    "estate-purchase",
+    "collateral-free",
+    "subordinate-debt",
+)
+# Not loan products: calculators, deposits, accounts, corporate/treasury, partner fintechs.
+EXCLUDE_WORDS = ("calculator", "deposit", "savings", "account", "bond", "ppf", "corporate")
+EXCLUDE_PREFIXES = ("ms-", "online-", "digi")
+EXCLUDE_SLUGS = {"export-finance", "project-finance", "bill-finance", "term-finance"}
+
+TIER2_KEYWORDS = {
+    "msme": ("msme", "mudra", "gst-credit", "contractors", "textile", "credit-guarantee"),
+    "agri": ("agri", "kisan", "farm", "mkcc", "warehouse", "plantation", "pumpset"),
+}
 
 CATEGORY_RULES = [
     ("rates", ("interest-rate",)),
     ("charges", ("service-charges",)),
-    ("home", ("home", "housing", "awas", "topup")),
-    ("personal", ("personal-loan", "salary", "maha-adhaar")),
+    ("home", ("home", "housing", "awas", "topup", "estate-purchase")),
+    ("personal", ("personal-loan", "salary", "maha-adhaar", "svanidhi", "professional", "doctors")),
     ("vehicle", ("car-loan", "vehicle")),
-    ("education", ("education",)),
+    ("education", ("education", "saraswati", "skill")),
     ("gold", ("gold",)),
-    ("property", ("property", "lad")),
+    ("property", ("property", "lap", "lad")),
 ]
 
 
@@ -124,21 +161,33 @@ def categorize(url: str) -> str:
 
 
 def tier_of(url: str) -> int:
+    """1 = retail loans, rates and charges; 2 = MSME and agriculture. Both are in scope."""
     if slug_of(url) in TIER1_SLUGS or urlparse(url).path.startswith(LOAN_PREFIX):
         return 1
     return 2 if categorize(url) in TIER2_KEYWORDS else 1
 
 
 def looks_like_loan_page(url: str) -> bool:
+    """Loan product page on the official site: Tier 1 slug, or a loan word and no exclusion."""
     path = urlparse(url).path.lower()
-    if any(k in path for k in EXCLUDE_KEYWORDS) and slug_of(url) not in TIER1_SLUGS:
+    slug = slug_of(url)
+    if slug in TIER1_SLUGS:
+        return True
+    if (
+        path.endswith((".aspx", ".pdf"))
+        or slug in EXCLUDE_SLUGS
+        or slug.startswith(EXCLUDE_PREFIXES)
+    ):
         return False
-    return slug_of(url) in TIER1_SLUGS or any(k in path for k in LOAN_KEYWORDS)
+    if any(w in slug for w in EXCLUDE_WORDS):
+        return False
+    return any(w in slug for w in LOAN_WORDS)
 
 
 def parse_sitemap(xml_text: str) -> tuple[list[str], list[str]]:
     """Return (page urls, nested sitemap urls) from a sitemap or sitemap index."""
-    root = ET.fromstring(xml_text)
+    # The live sitemap starts with a UTF-8 BOM, which the XML parser rejects.
+    root = ET.fromstring(xml_text.removeprefix(BOM))
     pages, nested = [], []
     for el in root.iter():
         if not el.tag.endswith("}loc") and el.tag != "loc":

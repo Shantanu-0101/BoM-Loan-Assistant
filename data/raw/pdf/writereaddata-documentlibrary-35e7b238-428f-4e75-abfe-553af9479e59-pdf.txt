@@ -1,0 +1,35 @@
+Restricted 
+ 
+ 
+ 
+Interest Rate range of contracted loans for past quarter granted to individual borrowers under Retail 
+loan segment 
+ 
+Product 
+Interest Rate Range 
+Mean Rate 
+January’26 – March’26 
+Min ROI 
+Max ROI 
+Housing 
+7.05 
+9.55 
+7.35 
+Vehicle 
+7.20 
+12.05 
+7.84 
+Personal 
+7.25 
+13.55 
+10.24 
+LAP 
+9.70 
+10.20 
+9.81 
+ 
+• 
+It includes various categories like fixed rate/floating rate as applicable and is based on factors such as 
+loan amount, customer relationships, etc. 
+• 
+Mean Rate = Weighted average of ROI under respective loan categories.

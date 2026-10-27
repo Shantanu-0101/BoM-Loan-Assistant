@@ -8,7 +8,7 @@ import time
 from dataclasses import dataclass
 from datetime import UTC, datetime
 from pathlib import Path
-from urllib.parse import urlparse
+from urllib.parse import urljoin, urlparse
 from urllib.robotparser import RobotFileParser
 
 import requests
@@ -20,6 +20,9 @@ from loan_assistant.scraping import discover
 
 log = logging.getLogger(__name__)
 
+MAX_REDIRECTS = 5
+REDIRECTS = (301, 302, 303, 307, 308)
+OFFSITE_REDIRECT = 301  # recorded when a page redirects off the official host; final, not retried
 MANIFEST_FIELDS = ["url", "type", "http_status", "fetched_at", "bytes", "sha256", "path"]
 
 
@@ -91,20 +94,38 @@ class Fetcher:
 
     # -- http -----------------------------------------------------------------------------
     def _http_get(self, url: str) -> requests.Response:
-        wait = settings.request_delay_s - (time.monotonic() - self._last_request)
-        if wait > 0:
-            log.info("waiting %.1fs before %s", wait, url)
-            time.sleep(wait)
-        self._last_request = time.monotonic()
-        self.requests_made += 1
-        return self.session.get(url, timeout=settings.request_timeout_s)
+        """GET that follows redirects on the official host only (max 5 hops).
+
+        A redirect to any other host (the site still sends some pages to the retired
+        bankofmaharashtra.in) is not followed; the 3xx response is returned as is.
+        """
+        for _ in range(MAX_REDIRECTS + 1):
+            wait = settings.request_delay_s - (time.monotonic() - self._last_request)
+            if wait > 0:
+                log.info("waiting %.1fs before %s", wait, url)
+                time.sleep(wait)
+            self._last_request = time.monotonic()
+            self.requests_made += 1
+            resp = self.session.get(url, timeout=settings.request_timeout_s, allow_redirects=False)
+            location = resp.headers.get("Location") if resp.status_code in REDIRECTS else None
+            if not location:
+                return resp
+            target = urljoin(url, location)
+            if urlparse(target).netloc != discover.HOST:
+                log.warning("not following redirect off the official host: %s -> %s", url, target)
+                return resp
+            url = target
+        return resp
 
     def get(self, url: str, kind: str = "html") -> FetchResult:
-        """Return the cached copy when we have a 200 for it, else fetch (and record it)."""
+        """Return the cached copy when we have a final answer for it, else fetch and record."""
         path = self.cache_path(url, kind)
         row = self.manifest.get(url)
-        if row and row["http_status"] == "200" and path.exists() and not self.refresh:
-            return FetchResult(url, 200, path.read_bytes(), True)
+        if row and not self.refresh:
+            if row["http_status"] == "200" and path.exists():
+                return FetchResult(url, 200, path.read_bytes(), True)
+            if row["http_status"] == str(OFFSITE_REDIRECT):
+                return FetchResult(url, OFFSITE_REDIRECT, b"", True)
         if kind != "xml" and url != f"{settings.base_url}/robots.txt" and not self.allowed(url):
             log.warning("robots.txt disallows %s; skipping", url)
             self._record(url, kind, 403, b"", None)
@@ -166,7 +187,7 @@ def run_scrape(refresh: bool = False) -> dict:
     # Pass 1: hubs + sitemap matches. Pass 2: loan links found on those pages.
     records = discover.build_url_list(sitemap_urls)
     extra: list[tuple[str, str]] = []
-    for rec in records:
+    for rec in (r for r in records if r.source == "seed"):  # links are read from hubs only
         res = fetcher.get(rec.url)
         if res.status == 200:
             extra += [
@@ -180,6 +201,9 @@ def run_scrape(refresh: bool = False) -> dict:
     pdf_summary = pdf.fetch_linked_pdfs(fetcher, [r.url for r in records])
     discover.write_urls_csv(records, raw / "urls.csv")
 
+    def status_of(url: str) -> str:
+        return fetcher.manifest.get(url, {}).get("http_status", "")
+
     statuses = [
         fetcher.manifest[r.url]["http_status"] for r in records if r.url in fetcher.manifest
     ]
@@ -187,8 +211,9 @@ def run_scrape(refresh: bool = False) -> dict:
         "urls": len(records),
         "tier1": sum(r.tier == 1 for r in records),
         "ok_200": statuses.count("200"),
+        "offsite_redirects": [r.url for r in records if status_of(r.url) == str(OFFSITE_REDIRECT)],
         "failed": [
-            r.url for r in records if fetcher.manifest.get(r.url, {}).get("http_status") != "200"
+            r.url for r in records if status_of(r.url) not in ("200", str(OFFSITE_REDIRECT))
         ],
         "pdfs": pdf_summary,
         "tier1_slugs_not_found": discover.missing_tier1(records),

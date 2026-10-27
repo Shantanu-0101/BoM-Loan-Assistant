@@ -1,0 +1,350 @@
+PM Street Vendor’s AtmaNirbhar Nidhi(PM SVANidhi) 
+(Common Loan Application Form) 
+ 
+ 
+ 
+Name of Street Vendor* 
+Father/Spouse Name* 
+ 
+Date Of Birth* 
+Marital Status* 
+ 
+Mobile Number* 
+Gender* 
+ 
+ 
+PwD (Divyangjan)* 
+ 
+Minority* 
+ 
+ 
+KYC Details 
+Aadhaar No* 
+Voter ID Card No.* 
+Driving License No. 
+Ration Card No. 
+Others (Govt. approved document) 
+ 
+ 
+Family Details 
+Name* 
+Relationship With Applicant* 
+Age* 
+ 
+ 
+Proof Of Vending 
+Vendor ID Card 
+(Issued by ULB) 
+Certificate of Vending No. 
+(Issued by ULB) 
+Letter Of Recommendation (LoR) No. 
+(To be issued by ULB electronically through PMSVANidhi Portal) 
+ 
+ 
+ 
+Address as per e-KYC 
+House No. / Locality* 
+State* 
+ 
+Town/Dist* 
+Ward/Village* 
+ 
+Pin Code* 
+ 
+Current Address 
+House No. / Locality* 
+State* 
+ 
+Town/Dist* 
+Ward/Village* 
+ 
+Pin Code* 
+ 
+Vending Activity 
+Name Of Activity* 
+ 
+ 
+ 
+Other 
+ 
+Application No. 
+Name of Bank/Lender 
+Social Category* 
+Nativity 
+PM ©Ã¢ ªÁå¥ÁjUÀ¼À DvÀä¤¨sÀðgÀ ¤¢ü (PM SVANidhi)
+(¸ÁªÀiÁ£Àå ¸Á®zÀ Cfð £ÀªÀÄÆ£É)
+Cfð ¸ÀASÉå
+©Ã¢§¢ ªÀiÁgÁlUÁgÀgÀ ºÉ¸ÀgÀÄ*
+d£Àä ¢£ÁAPÀ
+ªÉÆ¨ÉÊ¯ï ¸ÀASÉå*
+¸ÁªÀiÁfPÀ ªÀUÀð*
+¦qÀÆâ÷èr(¢ªÁåAUÀ)*
+C®à¸ÀASÁåvÀ*
+£ÉÃn«n*
+°AUÀ*
+ªÉÊªÁ»PÀ ¹Üw*
+vÀAzÉ/UÀAqÀ£À ºÉ¸ÀgÀÄ*
+¨ÁåAPï/¸Á®zÁvÀgÀ ºÉ¸ÀgÀÄ
+DzsÁgï ¸ÀASÉå*
+ºÉ¸ÀgÀÄ* 
+ªÀiÁgÁlUÁgÀgÀ UÀÄgÀÄw£À aÃn
+(AiÀÄÄJ¯ï© «vÀj¹zÀÄÝ)
+ªÀiÁgÁl ¥ÀæªÀiÁt ¥ÀvÀæ ¸ÀASÉå
+(AiÀÄÄJ¯ï© «vÀj¹zÀÄÝ)
+²¥sÁgÀ¸ÀÄ ¥ÀvÀæ (LoR) ¸ÀASÉå. (PMSVANidhi ¥ÉÇÃlð¯ï 
+ªÀÄÆ®PÀ ULB J¯ÉPÁÖæ¤Pï gÀÆ¥ÀzÀ°è ¤ÃqÀ¨ÉÃPÀÄ)
+CfðzÁgÀgÀ dvÉ ¸ÀA§AzsÀ*
+ªÀAiÀÄ¸ÀÄì*
+ªÉÇÃlgï Lr ¸ÀASÉå*
+ZÁ®£Á ¥ÀgÀªÁ£ÀV ¸ÀASÉå
+¥ÀrvÀgÀ aÃn ¸ÀASÉå
+EvÀgÉ ¸ÀPÁðgÀ C£ÀÄªÉÆÃ¢vÀ zÁR¯É
+PÉªÉÊ¹ «ªÀgÀUÀ¼ÀÄ
+PËlÄA©PÀ «ªÀgÀUÀ¼ÀÄ
+ªÀiÁgÁlzÀ ¥ÀÄgÁªÉ
+E-PÉªÉÊ¹ ¥ÀæPÁgÀ «¼Á¸À
+¥Àæ¸ÀÄÛvÀ «¼Á¸À
+ªÁå¥ÁgÀ ZÀlÄªÀnPÉ
+ªÀÄ£É ¸ÀASÉå/¸ÀÜ¼À
+ªÀÄ£É ¸ÀASÉå/¸ÀÜ¼À
+*
+gÁdå
+*
+gÁdå
+*
+ªÁqÀð/ºÀ½î
+*
+ªÁqÀð/ºÀ½î
+*
+¥ÀlÖt/f¯Éè
+¥ÀlÖt/f¯Éè
+*
+¦£ïPÉÆÃqï
+¦£ïPÉÆÃqï
+*
+ªÁå¥ÁgÀzÀ ºÉ¸ÀgÀÄ
+*
+EvÀgÉ
+
+Vending Activity 
+Place Of Vending* 
+ 
+Duration Of Vending* 
+ 
+Location/Area of Vending 
+Stationary Vendor 
+Nearest Landmark 
+Mobile Vendor 
+Nearest Landmark 
+ 
+State* 
+Town/Dist* 
+ 
+ULB Name* 
+Ward/Village* 
+ 
+ 
+Avg. Monthly Sales (₹) 
+Avg. Monthly Sales (₹)* 
+ 
+Bank Account Details 
+Name Of Bank* 
+Name Of Branch* 
+IFSC Code* 
+Account No* 
+ 
+Digital Payment 
+Payment Aggregator 
+UPI ID / VPA 
+Durable QRCode 
+ 
+Existing Loan Outstanding 
+Bank/Lending Institution 
+Outstanding Amount (in Rs.) 
+Monthly EMI (in Rs.) 
+ 
+Loan Amount Required 
+Loan Amount Required (₹)* 
+Purpose 
+ 
+Local References 
+Name 
+Mobile Number 
+Address 
+ 
+Benefits availed under other Govt. Schemes 
+Name 
+Select 
+Ayusman Bharat – Pradhan Mantri Jan Arogya Yojana (PM-JAY) 
+ 
+Pradhan Mantri Matru Vandana Yojana (PMMVY) 
+ 
+Deendayal Antyodaya Yojana-National Urban Livelihoods Mission (DAY-NULM) 
+ 
+Pradhan Mantri Awas Yojana (PMAY) – Urban/Rural 
+ 
+Pradhan Mantri Ujjwala Yojana (PMUY) 
+ 
+Integrated Child Development Services (ICDS) 
+ 
+Pradhan Mantri Jan Dhan Yojana 
+ 
+Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY) 
+ 
+Pin Code 
+ªÁå¥ÁgÀ ZÀlÄªÀnPÉ
+¸ÉÖÃ±À£Àj ªÁå¥ÁgÀ
+gÁdå
+*
+¥ÀlÖt/f¯Éè
+*
+ªÁqïð/ºÀ½î
+*
+AiÀÄÄJ¯ï© ºÉ¸ÀgÀÄ
+*
+¸ÀgÁ¸Àj ªÀiÁ¹PÀ ªÀiÁgÁl gÀÆ¥Á¬ÄUÀ¼ÀÄ:
+*
+¨ÁåAPï ºÉ¸ÀgÀÄ
+*
+¥ÁªÀw ¸ÀAUÁæºÀPÀ
+¨ÁåAPï/¸Á® ¤ÃqÀÄªÀ ¸ÀA¸ÉÜ
+¸Á®zÀ ªÉÆvÀÛ (gÀÆ)
+*
+ºÉ¸ÀgÀÄ
+ºÉ¸ÀgÀÄ
+DAiÀÄÄ¸Áä£ï ¨sÁgÀvï - ¥ÀæzsÁ£À ªÀÄAwæ d£À DgÉÆÃUÀå AiÉÆÃd£É (PM-JAY)
+¥ÀæzsÁ£À ªÀÄAwæ ªÀiÁvÀÈ ªÀAzÀ£Á AiÉÆÃd£É (PMMVY)
+¢Ã£ÀzÀAiÀiÁ¼ï CAvÉÆåÃzÀAiÀÄ AiÉÆÃd£É-gÁ¶ÖæÃAiÀÄ £ÀUÀgÀ fÃªÀ£ÉÆÃ¥ÁAiÀÄ «ÄμÀ£ï (DAY-NULM)
+¥ÀæzsÁ£À ªÀÄAwæ DªÁ¸ï AiÉÆÃd£É (PMAY) - £ÀUÀgÀ/UÁæ«ÄÃt
+¥ÀæzsÁ£À ªÀÄAwæ Gdé® AiÉÆÃd£É (PMUY)
+¸ÀªÀÄUÀæ ªÀÄPÀÌ¼À C©üªÀÈ¢Þ ¸ÉÃªÉUÀ¼ÀÄ (ICDS)
+¥ÀæzsÁ£À ªÀÄAwæ d£ï zsÀ£ï AiÉÆÃd£É
+¥ÀæzsÁ£À ªÀÄAwæ fÃªÀ£ï eÉÆåÃw ©ªÀiÁ AiÉÆÃd£É (PMJJBY)
+UÀÄgÀÄw¹
+ªÉÆ¨ÉÊ¯ï ¸ÀASÉå
+«¼Á¸À
+GzÉÝÃ±À
+¨ÁQ ªÉÆvÀÛ gÀÆ.UÀ¼À°è
+ªÀiÁ¹PÀ PÀAvÀÄ (gÀÆ¥Á¬ÄUÀ¼À°è).
+AiÀÄÄ¦L Lr/«¦J
+¨Á½PÉAiÀÄ PÀÆåDgï PÉÆÃqï
+±ÁSÉ
+*
+LJ¥sïJ¸ï¹ PÉÆÃqï
+*
+SÁvÉ ¸ÀASÉå
+*
+¦£ïPÉÆqï
+ºÀwÛgÀzÀ UÀÄgÀÄvÀÄ
+ºÀwÛgÀzÀ UÀÄgÀÄvÀÄ
+ªÉÆ¨ÉÊ¯ï ªÁå¥ÁgÀ
+ªÁå¥ÁgÀ CªÀ¢ü
+*
+ªÁå¥ÁgÀ ¸ÀÜ¼À
+*
+ªÁå¥ÁgÀ ¸ÀÜ¼À/¥ÀæzÉÃ±À
+¸ÀgÁ¸Àj ªÀiÁ¹PÀ ªÀiÁgÁl gÀÆ.
+¨ÁåAPï SÁvÉ «ªÀgÀUÀ¼ÀÄ
+rfl¯ï ¥ÁªÀw
+C¹ÛvÀézÀ°ègÀÄªÀ ¸Á®zÀ ¨ÁQ
+CUÀvÀå«gÀÄªÀ ¸Á®zÀ ªÉÆvÀÛ
+EvÀgÀ ¸ÀPÁðj AiÉÆÃd£ÉUÀ¼À CrAiÀÄ°è ¥ÀqÉzÀ ¥ÀæAiÉÆÃd£ÀUÀ¼ÀÄ
+¸ÀÜ½ÃAiÀÄ G¯ÉèÃR
+
+Benefits availed under other Govt. Schemes 
+Name 
+Select 
+Atal Pension Yojana (APY) 
+ 
+ 
+Pradhan Mantri Kaushal Vikash Yojana (PMKVY) 
+ 
+ 
+Seekho Aur Kamao 
+ 
+ 
+Upgrading the Skills and Training in Traditional Arts/ Crafts for Development (USTTAD) 
+ 
+ 
+Rashtriya Poshan Abhiyaan (RPA) 
+ 
+ 
+Pradhan Mantri Mtrutva Suraksha Abhiyan (PMMSA) 
+ 
+ 
+Swachh Bharat Mission (SBM) 
+ 
+ 
+Pradhan Mantri Sahaj Bijli Har Ghar Yojana (SAUBHAGYA) 
+ 
+ 
+National Food Security Act (Ration Card) 
+ 
+ 
+One Stop Centre 
+ 
+ 
+Pradhan Mantri Mudra Yojana (PMMY) 
+ 
+ 
+Pradhan Mantri Suraksha Bima Yojana (PMSBY) 
+ 
+ 
+Pradhan Mantri Shram Yogi Maan-dhan (PM-SYM) 
+ 
+ 
+Hunar se Rozgar tak initiative 
+ 
+ 
+Nai Roshni 
+ 
+ 
+Green Skill Development Programme 
+ 
+ 
+Other Schemes 
+ 
+ 
+Other Schemes Details : 
+None of the above 
+ 
+ 
+EvÀgÀ ¸ÀPÁðj AiÉÆÃd£ÉUÀ¼À CrAiÀÄ°è ¥ÀqÉzÀ ¥ÀæAiÉÆÃd£ÀUÀ¼ÀÄ
+ºÉ¸ÀgÀÄ
+UÀÄgÀÄw¹
+Cl¯ï ¦AZÀtÂ AiÉÆÃd£É (APY)
+¥ÀæzsÁ£À ªÀÄAwæ PË±À¯ï «PÁ±ï AiÉÆÃd£É (PMKVY)
+¹ÃSÉÆÃ Ogï PÁªÀiÁªÉÇÃ
+C©üªÀÈ¢ÞUÁV ¸ÁA¥ÀæzÁ¬ÄPÀ PÀ¯ÉUÀ¼ÀÄ / PÀgÀPÀÄ±À®vÉUÀ¼À°è PË±À®åUÀ¼ÀÄ ªÀÄvÀÄÛ vÀgÀ¨ÉÃwAiÀÄ£ÀÄß £À«ÃPÀj¸ÀÄªÀÅzÀÄ (USTTAD)
+gÁ¶ÖæÃAiÀÄ ¥ÉÇÃ±À£ï C©üAiÀiÁ£À (RPA)
+¥ÀæzsÁ£À ªÀÄAwæ ªÀÄvÀÈvÀé ¸ÀÄgÀPÁë C©üAiÀiÁ£À (PMMSA)
+¸ÀéZÀÒ ¨sÁgÀvï «ÄμÀ£ï (SBM)
+¥ÀæzsÁ£À ªÀÄAwæ ¸ÀºÀeï ©fè ºÀgï WÀgï AiÉÆÃd£É (¸Ë¨sÁUÀå)
+gÁ¶ÖæÃAiÀÄ DºÁgÀ ¨sÀzÀævÁ PÁ¬ÄzÉ (¥ÀrvÀgÀ aÃn)
+M£ï ¸ÁÖ¥ï ¸ÉAlgï
+¥ÀæzsÁ£À ªÀÄAwæ ªÀÄÄzÁæ AiÉÆÃd£É (PMMY)
+¥ÀæzsÁ£À ªÀÄAwæ ¸ÀÄgÀPÁë ©ªÀiÁ AiÉÆÃd£É (PMSBY)
+¥ÀæzsÁ£À ªÀÄAwæ ±ÀæªÀÄ AiÉÆÃV ªÀiÁ£ï-zsÀ£ï (PM-SYM)
+ºÀÄ£Ágï ¸É gÉÆÃdÎgï vÀPï G¥ÀPÀæªÀÄ
+£ÉÊ gÉÆÃ±À¤
+ºÀ¹gÀÄ PË±À®å C©üªÀÈ¢Þ PÁAiÀÄðPÀæªÀÄ
+EvÀgÉ AiÉÆÃd£ÉUÀ¼ÀÄ
+EvÀgÀ AiÉÆÃd£ÉUÀ¼À «ªÀgÀUÀ¼ÀÄ
+ªÉÄÃ°£À AiÀiÁªÀÅzÀÆ C®è
+WÉÆÃμÀuÉ ªÀÄvÀÄÛ C¢üPÁgÀ:
+C. £Á£ÀÄ/£ÁªÀÅ MzÀV¹zÀ J¯Áè ªÀiÁ»wAiÀÄÄ ¤d, ¸ÀjAiÀiÁVzÉ ªÀÄvÀÄÛ ¸ÀA¥ÀÇtðªÁVzÉ JAzÀÄ £Á£ÀÄ F ªÀÄÆ®PÀ ¥ÀæªÀiÁtÂÃPÀj¸ÀÄvÉÛÃ£É. 
+Cfð £ÀªÀÄÆ£ÉAiÀÄ°è ¸ÀÆa¹zÀAvÉ ºÉÆgÀvÀÄ¥Àr¹ £À£ÀUÉ AiÀiÁªÀÅzÉÃ ¸Á® ªÀåªÀ¸ÉÜUÀ½®è. £Á£ÀÄ PM SWANidhi AiÉÆÃd£ÉAiÀÄrAiÀÄ°è ¨ÉÃgÉ 
+AiÀiÁªÀÅzÉÃ ¸Á® ¤ÃqÀÄªÀ ¸ÀA¸ÉÜUÉ Cfð ¸À°è¹®è. AiÀiÁªÀÅzÉÃ ¨ÁåAPïUÉ £Á£ÀÄ AiÀiÁªÀÅzÉÃ ¨ÁQ ¨ÁQ ºÉÆA¢®è/E®è. ªÀiÁ»wAiÀÄ£ÀÄß ¤ÃªÀÅ 
+¸ÀÆPÀÛªÉAzÀÄ ¥ÀjUÀtÂ¸À§ºÀÄzÁzÀ AiÀiÁªÀÅzÉÃ KeÉ¤ìAiÉÆA¢UÉ «¤ªÀÄAiÀÄ ªÀiÁrPÉÆ¼Àî§ºÀÄzÀÄ. ¤ÃªÀÅ, ¤ªÀÄä ¥Àæw¤¢üUÀ¼ÀÄ CxÀªÁ MoHUA, 
+CxÀªÁ ¤«ÄäAzÀ C¢üPÀÈvÀUÉÆ½¸À¯ÁzÀ AiÀiÁªÀÅzÉÃ EvÀgÀ KeÉ¤ì, AiÀiÁªÀÅzÉÃ ¸ÀªÀÄAiÀÄzÀ°è, £À£Àß/£ÀªÀÄä ¸ÀévÀÄÛUÀ¼À£ÀÄß ¥Àj²Ã°¸À§ºÀÄzÀÄ/ 
+¥Àj²Ã°¸À§ºÀÄzÀÄ. ¸Á® ¤ÃqÀÄªÀ ¸ÀA¸ÉÜUÀ¼À ¨ÁQUÀ¼À£ÀÄß ªÀÄgÀÄ¥ÀqÉAiÀÄ®Ä ¤ÃªÀÅ ¸ÀÆPÀÛ ¸ÀÄgÀPÀëvÉ/PÀæªÀÄUÀ¼À£ÀÄß vÉUÉzÀÄPÉÆ¼Àî§ºÀÄzÀÄ.
+D. £À£Àß DzsÁgï ¸ÀASÉåAiÀÄ£ÀÄß zÀÈrüÃPÀj¸À®Ä, CªÀgÀ AiÀiÁªÀÅzÉÃ AiÉÆÃd£ÉUÀ¼À CrAiÀÄ°è ¥ÀæAiÉÆÃd£ÀUÀ¼À£ÀÄß «¸ÀÛj¸ÀÄªÀ GzÉÝÃ±ÀPÁÌV ¨sÁgÀvÀ 
+¸ÀPÁðgÀzÀ CrAiÀÄ°è EvÀgÀ ¸ÀaªÁ®AiÀÄUÀ¼ÀÄ / E¯ÁSÉUÀ¼ÉÆA¢UÉ ºÀAaPÉÆ¼Àî®Ä, E-PÉªÉÊ¹ ¤ªÀð»¸À®Ä ªÀÄvÀÄÛ PÉærmï §ÆågÉÆÃ, 
+¸Á®zÁvÀgÀÄ ªÀÄvÀÄÛ CªÀgÀ C¢üPÀÈvÀ KeÉAmïUÀ½AzÀ £À£Àß PÉærmï EwºÁ¸À ªÀÄvÀÄÛ PÉærmï ¸ÉÆÌÃgï C£ÀÄß ¥ÀæªÉÃ²¸À®Ä £À£ÀUÉ AiÀiÁªÀÅzÉÃ DPÉëÃ¥ÀuÉ 
+E®è. DzsÁgï ¸ÀAUÀæ»¸ÀÄªÀ M¦àUÉ ªÀÄvÀÄÛ GzÉÝÃ±ÀªÀ£ÀÄß £À£ÀUÉ/£ÀªÀÄUÉ ¸ÀÜ½ÃAiÀÄ ¨sÁμÉAiÀÄ°è «ªÀj¸À¯ÁVzÉ. MoHUA/¸Á® ¤ÃqÀÄªÀ ¸ÀA¸ÉÜAiÀÄÄ 
+E°è ¸À°è¹gÀÄªÀ £À£Àß DzsÁgï C£ÀÄß ªÉÄÃ¯É w½¹zÀ GzÉÝÃ±ÀªÀ£ÀÄß ºÉÆgÀvÀÄ¥Àr¹ CxÀªÁ PÁ£ÀÆ¤£À CªÀ±ÀåPÀvÉUÀ¼À ¥ÀæPÁgÀ ¨ÉÃgÉ AiÀiÁªÀÅzÉÃ 
+GzÉÝÃ±ÀPÁÌV §¼À¸À¯ÁUÀÄªÀÅ¢®è JAzÀÄ £À£ÀUÉ w½¹zÉ. F M¦àUÉ ªÀÄvÀÄÛ £À£Àß DzsÁgï C£ÀÄß MoHUA £À°è £À£Àß SÁvÉ «ªÀgÀUÀ¼ÉÆA¢UÉ 
+¸ÀAUÀæ»¸À¯ÁUÀÄvÀÛzÉ JAzÀÄ £À£ÀUÉ w½¸À¯ÁVzÉ.
+¢£ÁAPÀ:
+¸ÀÜ¼À:
+CfðzÁgÀgÀ ¸À»/-

@@ -8,17 +8,18 @@ PAGE_URL = f"{settings.base_url}/personal-banking/loans/home-loan"
 
 
 class FakeResponse:
-    def __init__(self, status=200, body=b"<html>hello</html>"):
+    def __init__(self, status=200, body=b"<html>hello</html>", headers=None):
         self.status_code = status
         self.content = body
         self.text = body.decode()
+        self.headers = headers or {}
 
 
 class FakeSession:
     def __init__(self):
         self.calls = []
 
-    def get(self, url, timeout):
+    def get(self, url, timeout, allow_redirects=True):
         self.calls.append(url)
         if url.endswith("/robots.txt"):
             return FakeResponse(200, ROBOTS.encode())
@@ -65,7 +66,7 @@ def test_robots_disallowed_url_is_not_requested(tmp_path):
 
 def test_failed_fetch_is_retried_next_run(tmp_path):
     class Down(FakeSession):
-        def get(self, url, timeout):
+        def get(self, url, timeout, allow_redirects=True):
             self.calls.append(url)
             return (
                 FakeResponse(200, ROBOTS.encode())
@@ -77,3 +78,39 @@ def test_failed_fetch_is_retried_next_run(tmp_path):
     session = FakeSession()
     res = fetch.Fetcher(tmp_path, session=session).get(PAGE_URL)
     assert res.status == 200 and PAGE_URL in session.calls
+
+
+def test_redirect_off_official_host_is_not_followed_and_is_cached(tmp_path):
+    msme = f"{settings.base_url}/msme"
+    old = "https://www.bankofmaharashtra.in/msme_large_credit"
+
+    class Redirects(FakeSession):
+        def get(self, url, timeout, allow_redirects=True):
+            self.calls.append(url)
+            if url.endswith("robots.txt"):
+                return FakeResponse(200, ROBOTS.encode())
+            return FakeResponse(301, b"", {"Location": old})
+
+    session = Redirects()
+    res = fetch.Fetcher(tmp_path, session=session).get(msme)
+    assert res.status == 301 and old not in session.calls
+    session2 = Redirects()
+    assert fetch.Fetcher(tmp_path, session=session2).get(msme).from_cache
+    assert session2.calls == []
+
+
+def test_redirect_on_official_host_is_followed(tmp_path):
+    a, b = f"{settings.base_url}/a", f"{settings.base_url}/b"
+
+    class Hop(FakeSession):
+        def get(self, url, timeout, allow_redirects=True):
+            self.calls.append(url)
+            if url.endswith("robots.txt"):
+                return FakeResponse(200, ROBOTS.encode())
+            if url == a:
+                return FakeResponse(301, b"", {"Location": "/b"})
+            return FakeResponse(200, b"final")
+
+    session = Hop()
+    assert fetch.Fetcher(tmp_path, session=session).get(a).content == b"final"
+    assert b in session.calls
