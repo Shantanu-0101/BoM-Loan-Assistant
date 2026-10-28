@@ -115,7 +115,7 @@ Real problems met while building, in time order (IST). The README's "Challenges 
 - **Cause:** the model sometimes adds a line reference after the number, like `[1†L4-L5]`. The citation parser only knows `[1]`.
 - **Fix:** `clean_model_text` rewrites `[n†...]` to `[n]`. Test: `test_line_references_after_a_citation_number_are_dropped`. The cached answers keep the raw text; the fix applies when they are read, so no new API calls were needed.
 
-## 2026-10-28 ~02:45 IST | Evaluation findings (hand-read, provisional grades by Claude, owner to confirm)
+## 2026-10-28 ~02:45 IST | Evaluation findings (hand-read; first grades by Claude, then read and confirmed by Shantanu)
 - **Invented number survives the prompt rule (hybrid q01):** the home-loan rate answer says "Women borrowers: 7.20% p.a. (7.25% - 0.05%)". Rule 3 forbids arithmetic, and the model did it anyway in this run. The vector run did not. Graded 1, not 2. This is a limit of prompt-only control.
 - **Rate range still missing (q01, both modes):** neither mode gives the CIBIL-based range (7.25% to 9.40%). Known weakness from Phase 3, now measured.
 - **Vector wrongly refused q13 (loan against FD):** the `/lad` page was not in the vector top 5, so the model said "not found". Hybrid found it at rank 4. The one clear case where keyword search helps.
@@ -124,3 +124,22 @@ Real problems met while building, in time order (IST). The README's "Challenges 
 - **Refusal worked through two layers:** the other-bank rule caught "SBI" before retrieval; the weather and savings-account questions were stopped by the 0.68 cosine threshold (0.497 and 0.605). The savings-account question is the closest call.
 
 Note: the timestamps above before 00:28 are approximate. The network and sitemap entries were first written with a wrong clock reading, so only the date and the order are reliable for those two.
+
+## 2026-10-28 ~03:30 IST (approx.) | Fresh clone failed on Windows: "Filename too long"
+- **Symptom:** `git clone` into a deep folder (about 140 characters of parent path) ended with `unable to create file ... Filename too long` and `unable to checkout working tree`.
+- **Cause:** three tracked files (the PDF text and Markdown for MUDRA FAQs and the staff-pensioner life certificate) have names up to 119 characters, taken from the bank's PDF URLs. Windows allows 260 characters for the whole path. My first test folder was inside a long temporary path.
+- **Fix / status:** not renamed (the names are the processing step's keys, and renaming means rebuilding). The same clone from `C:\fc_test` worked: `pip install -r requirements.txt`, `pytest` (118 passed, 2 skipped because raw HTML and PDFs are not committed), `ruff check`, `mypy` and a live question all passed. The README setup tells Windows users to clone into a short path or run `git config --global core.longpaths true`.
+- **Lesson:** a fresh-clone test in a realistic location is worth doing; an OneDrive Desktop path is already long.
+
+## 2026-10-28 ~04:00 IST (approx.) | Gemini judge and fallback re-checked after the quota reset
+- **Symptom:** the first test call to `gemini-flash-latest` returned 503 ("high demand"), the next ones 429.
+- **Cause:** `gemini-flash-latest` currently points to `gemini-3.8-flash`, whose free tier allows only 20 requests a day per model. The quota had not been reset for that model (retry hint: about 4 hours). `gemini-2.5-flash` and `gemini-2.0-flash` give 404 ("no longer available to new users"). Quotas are per model.
+- **Fix / status:** `gemini-3.5-flash-lite`, `gemini-3.5-flash` and `gemini-3.1-flash-lite` answer on this key. With `GEMINI_MODEL=gemini-3.5-flash-lite` set only in the shell, the fallback test passed (Groq key rejected, so Gemini answered a real question with sources) and the judge produced 25 verdicts per mode. `config.py` still names `gemini-flash-latest`. A moving alias is a risk for a reproducible evaluation; consider pinning a model.
+- **Result:** judge grade 2: vector 19/25, hybrid 20/25; agrees with the hand grades on 22/25 and 21/25. The disagreements (q02, q05, q08, q14) come from key facts the question did not ask for, or from the bank's own double rate on the gold-loan page.
+
+## 2026-10-28 ~05:00 IST (approx.) | Number check added after the invented 7.20%; three false alarms found and fixed
+- **Problem it fixes:** the hybrid answer to q01 wrote "7.20%" for women (7.25% minus 0.05%) although prompt rule 3 forbids arithmetic.
+- **Fix:** `rag/grounding.py` compares every figure in the answer with the figures in the five retrieved chunks and in the question. A sentence with an unsupported figure is removed (only the bracketed aside if the rest is supported), a note says a figure was left out, and an answer left with no cited claim becomes the standard "not found" text. 13 tests.
+- **First version, three false alarms (seen when I diffed the 50 cached answers):** (1) "0 %" for the bank's word "zero"; (2) the bank's date `31.12.2025` was read as the decimal 31.12, so the model's `31-12-2025` looked invented; (3) one unsupported "(15 years)" conversion took the whole correct line "up to 180 months" with it. Fixed: 0 is not checked; `dd.mm.yyyy` dates are split into numbers; a bracketed aside is removed on its own.
+- **Result:** over 50 answers only two changed: hybrid q01 (7.20% removed) and hybrid q12 ("(15 years)" removed). No score moved (hit@5, key facts, judge, refusals identical).
+- **Known gaps:** the check sees numbers, not words ("does not vary with tenure" still passes); whole numbers below 10 without a unit are not checked; "10 lakh" against "10,00,000" would be flagged. The missing CIBIL range for q01 is retrieval, not generation, and is unchanged.

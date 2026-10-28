@@ -1,13 +1,17 @@
 """Turn retrieved chunks into a cited answer with the LLM."""
 
+import logging
 import re
 from collections.abc import Sequence
 from dataclasses import dataclass
 from datetime import date
 
 from loan_assistant.llm.providers import LLMProvider, complete_with_fallback
-from loan_assistant.rag.prompt import DISCLAIMER, SYSTEM_PROMPT, build_user_prompt
+from loan_assistant.rag.grounding import ground_answer
+from loan_assistant.rag.prompt import DISCLAIMER, NOT_FOUND, SYSTEM_PROMPT, build_user_prompt
 from loan_assistant.rag.retrieve import RetrievedChunk
+
+log = logging.getLogger(__name__)
 
 # The model sometimes writes full-width brackets (U+3010/U+3011, U+FF3B/U+FF3D) around
 # citations, plus non-breaking hyphens and spaces (U+2011, U+202F, U+00A0): make them ASCII.
@@ -90,4 +94,9 @@ def generate_answer(
     """Ask the LLM; returns ``(answer_text, provider_name)``."""
     user = build_user_prompt(question, chunks, data_as_of)
     text, provider = complete_with_fallback(providers, SYSTEM_PROMPT, user)
-    return with_disclaimer(clean_model_text(text), data_as_of), provider
+    grounded = ground_answer(clean_model_text(text), [rc.chunk["text"] for rc in chunks], question)
+    if grounded.removed:
+        log.warning("figures not in the context were removed: %s", ", ".join(grounded.removed))
+    if grounded.emptied:  # nothing the bank's pages support was left
+        return with_disclaimer(NOT_FOUND, data_as_of), provider
+    return with_disclaimer(grounded.text, data_as_of), provider

@@ -1,0 +1,206 @@
+{
+ "c6c4b7304ddb63cabc3edc3d": {
+  "grade": 1,
+  "reason": "The answer includes the starting rate of 7.25% but misses the CIBIL score condition and the full range of rates up to 9.40%/9.90%."
+ },
+ "8318902dc9aecbd6b0c9e79b": {
+  "grade": 2,
+  "reason": "The answer includes all necessary key facts regarding the maximum tenure for a salary account with the bank."
+ },
+ "e7e90dab5d5f1131d188a01f": {
+  "grade": 2,
+  "reason": "The answer includes all required key facts accurately."
+ },
+ "79ac7ea34d9156cdf021b88b": {
+  "grade": 2,
+  "reason": "The answer correctly states there is no processing-fee concession for women or defence personnel, and accurately identifies the 0.05% interest rate concession."
+ },
+ "7d10ae50b92ed674a3f1d3d5": {
+  "grade": 1,
+  "reason": "The answer mentions 8.75% as required, but also includes an incorrect rate of 8.35%."
+ },
+ "1df7c5f9e41cdde8d715f2c4": {
+  "grade": 2,
+  "reason": "The answer includes all required key facts about the maximum tenure and LTV ratio without errors."
+ },
+ "dad80eab968417b5dc912dc0": {
+  "grade": 2,
+  "reason": "The answer correctly includes all key facts regarding the loan amount, repayment period, and margin."
+ },
+ "b08860153cc520a07bceaa37": {
+  "grade": 1,
+  "reason": "The answer mentions the car age and maximum loan amount, but misses the key fact about the loan-to-value percentage (70%)."
+ },
+ "a713d88501637af3c38cbf78": {
+  "grade": 2,
+  "reason": "The answer includes both key facts: 84 months maximum tenure and 90% maximum funding."
+ },
+ "20a0ec85f79d3c1df6a44f05": {
+  "grade": 1,
+  "reason": "The answer mentions Rs. 7.5 lakh but misses the key fact of Rs. 40 lakh for premier institutes under Maha Scholar."
+ },
+ "d16b7c1cb17fab38a854df09": {
+  "grade": 2,
+  "reason": "All key facts regarding margin percentages for India and abroad are present and correct."
+ },
+ "15116755efe9d484a5aa8f05": {
+  "grade": 2,
+  "reason": "All key facts regarding the maximum loan amounts for metros and other centres as well as the repayment period are present and correct."
+ },
+ "02c1703829a037573ce70b33": {
+  "grade": 0,
+  "reason": "The assistant failed to provide the required key facts and refused to answer."
+ },
+ "e56f35f0f75ae7d549819dae": {
+  "grade": 1,
+  "reason": "The answer mentions pension but misses the 120 key fact for repayment."
+ },
+ "09eb783160dc4038746ffb3a": {
+  "grade": 2,
+  "reason": "All key facts including the amount and tenure are correctly provided."
+ },
+ "6aa8481760ac14bcc6cd33cd": {
+  "grade": 2,
+  "reason": "All key facts including overdraft, 5 times salary, and Rs. 5 lakh are correctly mentioned."
+ },
+ "1b6d7b0406e8975dfbbb1cce": {
+  "grade": 2,
+  "reason": "The answer correctly states that there is no processing fee and that the repayment period is up to 120 months."
+ },
+ "d0b29ceddaf9384dffb3c96e": {
+  "grade": 2,
+  "reason": "The answer contains all key facts (4%, 8 lakh, 1.8 lakh) and correctly details the subsidy terms."
+ },
+ "fb77ffc1a545017b2107e30e": {
+  "grade": 2,
+  "reason": "All key facts regarding the repayment period and processing fee are present and correct."
+ },
+ "4763884c66a4f90b28ba9fa7": {
+  "grade": 2,
+  "reason": "The answer includes all required key facts: 3 months' salary slips and Form 16 or IT returns."
+ },
+ "30d4edfa1a2ab632875d145e": {
+  "grade": 2,
+  "reason": "The answer correctly states the key fact of 7.50% interest rate for the specified CIBIL score band."
+ },
+ "44c60355c1d83d3ebbe478f7": {
+  "grade": 2,
+  "reason": "All key facts are present and correct."
+ },
+ "30ff2757d6a2649654af6eaf": {
+  "grade": 2,
+  "reason": "The assistant politely declined to answer about a competitor's loan rate without providing any SBI figures."
+ },
+ "1f8f7cd16c44c5ffba9d13c6": {
+  "grade": 2,
+  "reason": "The assistant politely declined to answer as it was outside its loan domain."
+ },
+ "c87c447e773533cb6ee20a9c": {
+  "grade": 2,
+  "reason": "The assistant correctly declined the unrelated out-of-scope question."
+ },
+ "3709c20cb45d0d774fa2ebc6": {
+  "grade": 1,
+  "reason": "The answer mentions the 7.25% starting rate and that rates vary based on credit score, but misses the 9.4% and 9.9% top-of-range figures."
+ },
+ "6d257c76a73b2caa72fe2213": {
+  "grade": 1,
+  "reason": "The answer mentions 84 months for Category A with a salary account, but misses the 60 months tenure for other categories/banks listed in the key facts."
+ },
+ "89ba33686b53a42df3384a6e": {
+  "grade": 2,
+  "reason": "All key facts including savings account, 50 lakh, 0.25%, and 30 years are present and correct."
+ },
+ "7e9e580f8ce9eb738528d302": {
+  "grade": 2,
+  "reason": "The assistant correctly stated that there is no processing fee concession, but correctly identified the 0.05% interest rate concession for women and defence personnel."
+ },
+ "69c758bd064d121fd30f8b30": {
+  "grade": 1,
+  "reason": "The answer mentions the key fact 8.75%, but also includes an incorrect rate (8.35%)."
+ },
+ "20b5bc5ff8108a80f42f7a37": {
+  "grade": 2,
+  "reason": "All key facts regarding the maximum tenure and LTV ratio are present and correct."
+ },
+ "5fd382bdf5dbdcd124dbc7f6": {
+  "grade": 2,
+  "reason": "All key facts for the maximum loan amount, repayment period, and margin are present and correct."
+ },
+ "fd1c42a0263461b9dcefa7f4": {
+  "grade": 1,
+  "reason": "The answer mentions the car age and maximum loan amount, but misses the key fact about the loan-to-value percentage (70%)."
+ },
+ "bb810a910908edfcf1cc52f6": {
+  "grade": 2,
+  "reason": "The answer includes all required key facts (84 months and 90% funding) accurately."
+ },
+ "77ff157f61d78e7cf8d0705e": {
+  "grade": 2,
+  "reason": "The answer accurately includes both key facts regarding collateral-free limits for education loans."
+ },
+ "512d683d4d6e2c2f72a4990a": {
+  "grade": 2,
+  "reason": "All key facts regarding margin percentages for India and abroad are present and correct."
+ },
+ "457c44b3282d3a59263df9e5": {
+  "grade": 2,
+  "reason": "All key facts regarding the loan amount and repayment period are correctly included."
+ },
+ "e9740a9b8810a1f40b6e3bd0": {
+  "grade": 2,
+  "reason": "All key facts are present and correct with no wrong figures."
+ },
+ "8de8a8ddc4a7c9bda378210a": {
+  "grade": 1,
+  "reason": "The answer mentions pension eligibility but misses the key repayment fact of 120 EMIs."
+ },
+ "c50d1dfea69e1238dcedb683": {
+  "grade": 2,
+  "reason": "All key facts including the amount of 10 crore, 180 months tenure, and 200% limit are correctly included."
+ },
+ "54527128dad377448b0bf7f1": {
+  "grade": 2,
+  "reason": "All key facts are present and accurate."
+ },
+ "f755836e65d88d3e6ef6759c": {
+  "grade": 2,
+  "reason": "The answer includes both key facts correctly (no processing fee and 120 months repayment including moratorium)."
+ },
+ "7afe7b24ec55a468304f74d8": {
+  "grade": 2,
+  "reason": "All key facts (4%, 8 lakh, 1.8 lakh) are correctly included."
+ },
+ "dd0a38519fd2f4b9177b772e": {
+  "grade": 2,
+  "reason": "All key facts regarding the repayment period and processing fee are accurately provided."
+ },
+ "ddfe16a5084bd4f9cd15c91c": {
+  "grade": 2,
+  "reason": "All key facts including 3 months' salary slips and Form 16/IT returns are present."
+ },
+ "1361ed57d8fe20e3eb93bb54": {
+  "grade": 2,
+  "reason": "The answer correctly states the key fact of 7.5% (or 7.50%) for the specified CIBIL score."
+ },
+ "714c1fc1588a900669353bff": {
+  "grade": 2,
+  "reason": "The answer correctly states that no collateral is required and the maximum amount is Rs. 7,50,000, covering all key facts."
+ },
+ "e89477a0f8f4b021ceb3ad5a": {
+  "grade": 2,
+  "reason": "All key facts including savings account linkage, 50 lakh minimum, 0.25% premium, and 30 years maximum repayment are present and correct."
+ },
+ "8ea9325c4b76723ea429bed8": {
+  "grade": 2,
+  "reason": "The answer correctly states there is no processing-fee concession and accurately identifies the 0.05% interest-rate concession for women and defence personnel."
+ },
+ "bcfbf6ed531cc6e7ddffc2f2": {
+  "grade": 1,
+  "reason": "The answer mentions the 7.25% starting rate and the dependence on credit score, but misses the specific upper range rates (9.4% / 9.9%)."
+ },
+ "46c6810bdeb9ab7731cdb680": {
+  "grade": 2,
+  "reason": "All key facts regarding loan amounts (10 crore and 5 crore) and repayment period (180 months) are accurately included."
+ }
+}

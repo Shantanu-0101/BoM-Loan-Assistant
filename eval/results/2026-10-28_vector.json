@@ -7,7 +7,7 @@
   "refused": false,
   "reason": "",
   "provider": "groq/openai/gpt-oss-120b",
-  "latency_ms": 1448,
+  "latency_ms": 1712,
   "top_cosine": 0.844,
   "retrieved_urls": [
    "https://bankofmaharashtra.bank.in/personal-banking/loans/home-loan",
@@ -19,10 +19,10 @@
   "hit_rank": 1,
   "coverage": 0.3333333333333333,
   "keyword_grade": 0,
-  "judge_grade": null,
-  "judge_reason": "",
+  "judge_grade": 1,
+  "judge_reason": "The answer includes the starting rate of 7.25% but misses the CIBIL score condition and the full range of rates up to 9.40%/9.90%.",
   "hand_grade": 1,
-  "hand_grader": "claude-provisional",
+  "hand_grader": "Shantanu",
   "error": ""
  },
  {
@@ -33,7 +33,7 @@
   "refused": false,
   "reason": "",
   "provider": "groq/openai/gpt-oss-120b",
-  "latency_ms": 1165,
+  "latency_ms": 1169,
   "top_cosine": 0.773,
   "retrieved_urls": [
    "https://bankofmaharashtra.bank.in/personal-loan-for-salaried-customers",
@@ -45,10 +45,10 @@
   "hit_rank": 1,
   "coverage": 1.0,
   "keyword_grade": 2,
-  "judge_grade": null,
-  "judge_reason": "",
+  "judge_grade": 2,
+  "judge_reason": "The answer includes all necessary key facts regarding the maximum tenure for a salary account with the bank.",
   "hand_grade": 2,
-  "hand_grader": "claude-provisional",
+  "hand_grader": "Shantanu",
   "error": ""
  },
  {
@@ -59,7 +59,7 @@
   "refused": false,
   "reason": "",
   "provider": "groq/openai/gpt-oss-120b",
-  "latency_ms": 1483,
+  "latency_ms": 1487,
   "top_cosine": 0.852,
   "retrieved_urls": [
    "https://bankofmaharashtra.bank.in/maha-super-flexi-housing-loan-scheme",
@@ -71,10 +71,10 @@
   "hit_rank": 1,
   "coverage": 1.0,
   "keyword_grade": 2,
-  "judge_grade": null,
-  "judge_reason": "",
+  "judge_grade": 2,
+  "judge_reason": "The answer includes all required key facts accurately.",
   "hand_grade": 2,
-  "hand_grader": "claude-provisional",
+  "hand_grader": "Shantanu",
   "error": ""
  },
  {
@@ -85,7 +85,7 @@
   "refused": false,
   "reason": "",
   "provider": "groq/openai/gpt-oss-120b",
-  "latency_ms": 1195,
+  "latency_ms": 1199,
   "top_cosine": 0.721,
   "retrieved_urls": [
    "https://bankofmaharashtra.bank.in/personal-banking/loans/home-loan",
@@ -97,10 +97,10 @@
   "hit_rank": 1,
   "coverage": 1.0,
   "keyword_grade": 2,
-  "judge_grade": null,
-  "judge_reason": "",
+  "judge_grade": 2,
+  "judge_reason": "The answer correctly states there is no processing-fee concession for women or defence personnel, and accurately identifies the 0.05% interest rate concession.",
   "hand_grade": 2,
-  "hand_grader": "claude-provisional",
+  "hand_grader": "Shantanu",
   "error": ""
  },
  {
@@ -111,7 +111,7 @@
   "refused": false,
   "reason": "",
   "provider": "groq/openai/gpt-oss-120b",
-  "latency_ms": 1079,
+  "latency_ms": 1083,
   "top_cosine": 0.908,
   "retrieved_urls": [
    "https://bankofmaharashtra.bank.in/gold-loan",
@@ -123,10 +123,10 @@
   "hit_rank": 1,
   "coverage": 1.0,
   "keyword_grade": 2,
-  "judge_grade": null,
-  "judge_reason": "",
+  "judge_grade": 1,
+  "judge_reason": "The answer mentions 8.75% as required, but also includes an incorrect rate of 8.35%.",
   "hand_grade": 2,
-  "hand_grader": "claude-provisional",
+  "hand_grader": "Shantanu",
   "error": ""
  },
  {
@@ -137,7 +137,7 @@
   "refused": false,
   "reason": "",
   "provider": "groq/openai/gpt-oss-120b",
-  "latency_ms": 12006,
+  "latency_ms": 12010,
   "top_cosine": 0.84,
   "retrieved_urls": [
    "https://bankofmaharashtra.bank.in/gold-loan",
@@ -149,10 +149,10 @@
   "hit_rank": 1,
   "coverage": 1.0,
   "keyword_grade": 2,
-  "judge_grade": null,
-  "judge_reason": "",
+  "judge_grade": 2,
+  "judge_reason": "The answer includes all required key facts about the maximum tenure and LTV ratio without errors.",
   "hand_grade": 2,
-  "hand_grader": "claude-provisional",
+  "hand_grader": "Shantanu",
   "error": ""
  },
  {
@@ -163,7 +163,7 @@
   "refused": false,
   "reason": "",
   "provider": "groq/openai/gpt-oss-120b",
-  "latency_ms": 11146,
+  "latency_ms": 11154,
   "top_cosine": 0.814,
   "retrieved_urls": [
    "https://bankofmaharashtra.bank.in/mahabank-vehicle-loan-scheme-for-two-wheelers-loans",
@@ -175,10 +175,10 @@
   "hit_rank": 1,
   "coverage": 1.0,
   "keyword_grade": 2,
-  "judge_grade": null,
-  "judge_reason": "",
+  "judge_grade": 2,
+  "judge_reason": "The answer correctly includes all key facts regarding the loan amount, repayment period, and margin.",
   "hand_grade": 2,
-  "hand_grader": "claude-provisional",
+  "hand_grader": "Shantanu",
   "error": ""
  },
  {
@@ -189,7 +189,7 @@
   "refused": false,
   "reason": "",
   "provider": "groq/openai/gpt-oss-120b",
-  "latency_ms": 806,
+  "latency_ms": 817,
   "top_cosine": 0.823,
   "retrieved_urls": [
    "https://bankofmaharashtra.bank.in/mahabank-vehicle-loan-scheme-for-second-hand-car",
@@ -201,10 +201,10 @@
   "hit_rank": 1,
   "coverage": 0.6666666666666666,
   "keyword_grade": 1,
-  "judge_grade": null,
-  "judge_reason": "",
+  "judge_grade": 1,
+  "judge_reason": "The answer mentions the car age and maximum loan amount, but misses the key fact about the loan-to-value percentage (70%).",
   "hand_grade": 2,
-  "hand_grader": "claude-provisional",
+  "hand_grader": "Shantanu",
   "error": ""
  },
  {
@@ -215,7 +215,7 @@
   "refused": false,
   "reason": "",
   "provider": "groq/openai/gpt-oss-120b",
-  "latency_ms": 1076,
+  "latency_ms": 1099,
   "top_cosine": 0.762,
   "retrieved_urls": [
    "https://bankofmaharashtra.bank.in/personal-banking/loans/car-loan",
@@ -227,10 +227,10 @@
   "hit_rank": 1,
   "coverage": 1.0,
   "keyword_grade": 2,
-  "judge_grade": null,
-  "judge_reason": "",
+  "judge_grade": 2,
+  "judge_reason": "The answer includes both key facts: 84 months maximum tenure and 90% maximum funding.",
   "hand_grade": 2,
-  "hand_grader": "claude-provisional",
+  "hand_grader": "Shantanu",
   "error": ""
  },
  {
@@ -241,7 +241,7 @@
   "refused": false,
   "reason": "",
   "provider": "groq/openai/gpt-oss-120b",
-  "latency_ms": 590,
+  "latency_ms": 595,
   "top_cosine": 0.754,
   "retrieved_urls": [
    "https://bankofmaharashtra.bank.in/model-education-loan-scheme",
@@ -253,10 +253,10 @@
   "hit_rank": 1,
   "coverage": 0.5,
   "keyword_grade": 1,
-  "judge_grade": null,
-  "judge_reason": "",
+  "judge_grade": 1,
+  "judge_reason": "The answer mentions Rs. 7.5 lakh but misses the key fact of Rs. 40 lakh for premier institutes under Maha Scholar.",
   "hand_grade": 1,
-  "hand_grader": "claude-provisional",
+  "hand_grader": "Shantanu",
   "error": ""
  },
  {
@@ -267,7 +267,7 @@
   "refused": false,
   "reason": "",
   "provider": "groq/openai/gpt-oss-120b",
-  "latency_ms": 9982,
+  "latency_ms": 9989,
   "top_cosine": 0.807,
   "retrieved_urls": [
    "https://bankofmaharashtra.bank.in/financing-for-agriculture-graduates",
@@ -279,10 +279,10 @@
   "hit_rank": 2,
   "coverage": 1.0,
   "keyword_grade": 2,
-  "judge_grade": null,
-  "judge_reason": "",
+  "judge_grade": 2,
+  "judge_reason": "All key facts regarding margin percentages for India and abroad are present and correct.",
   "hand_grade": 2,
-  "hand_grader": "claude-provisional",
+  "hand_grader": "Shantanu",
   "error": ""
  },
  {
@@ -293,7 +293,7 @@
   "refused": false,
   "reason": "",
   "provider": "groq/openai/gpt-oss-120b",
-  "latency_ms": 890,
+  "latency_ms": 897,
   "top_cosine": 0.782,
   "retrieved_urls": [
    "https://bankofmaharashtra.bank.in/topup-home-loan",
@@ -305,10 +305,10 @@
   "hit_rank": 2,
   "coverage": 1.0,
   "keyword_grade": 2,
-  "judge_grade": null,
-  "judge_reason": "",
+  "judge_grade": 2,
+  "judge_reason": "All key facts regarding the maximum loan amounts for metros and other centres as well as the repayment period are present and correct.",
   "hand_grade": 2,
-  "hand_grader": "claude-provisional",
+  "hand_grader": "Shantanu",
   "error": ""
  },
  {
@@ -319,7 +319,7 @@
   "refused": true,
   "reason": "",
   "provider": "groq/openai/gpt-oss-120b",
-  "latency_ms": 628,
+  "latency_ms": 635,
   "top_cosine": 0.716,
   "retrieved_urls": [
    "https://bankofmaharashtra.bank.in/topup-home-loan",
@@ -331,10 +331,10 @@
   "hit_rank": null,
   "coverage": 0.0,
   "keyword_grade": 0,
-  "judge_grade": null,
-  "judge_reason": "",
+  "judge_grade": 0,
+  "judge_reason": "The assistant failed to provide the required key facts and refused to answer.",
   "hand_grade": 0,
-  "hand_grader": "claude-provisional",
+  "hand_grader": "Shantanu",
   "error": ""
  },
  {
@@ -345,7 +345,7 @@
   "refused": false,
   "reason": "",
   "provider": "groq/openai/gpt-oss-120b",
-  "latency_ms": 1525,
+  "latency_ms": 1542,
   "top_cosine": 0.821,
   "retrieved_urls": [
    "https://bankofmaharashtra.bank.in/educational-loans",
@@ -357,10 +357,10 @@
   "hit_rank": 3,
   "coverage": 0.5,
   "keyword_grade": 1,
-  "judge_grade": null,
-  "judge_reason": "",
+  "judge_grade": 1,
+  "judge_reason": "The answer mentions pension but misses the 120 key fact for repayment.",
   "hand_grade": 2,
-  "hand_grader": "claude-provisional",
+  "hand_grader": "Shantanu",
   "error": ""
  },
  {
@@ -371,7 +371,7 @@
   "refused": false,
   "reason": "",
   "provider": "groq/openai/gpt-oss-120b",
-  "latency_ms": 1024,
+  "latency_ms": 1043,
   "top_cosine": 0.824,
   "retrieved_urls": [
    "https://bankofmaharashtra.bank.in/topup-home-loan",
@@ -383,10 +383,10 @@
   "hit_rank": 1,
   "coverage": 0.6666666666666666,
   "keyword_grade": 1,
-  "judge_grade": null,
-  "judge_reason": "",
+  "judge_grade": 2,
+  "judge_reason": "All key facts including the amount and tenure are correctly provided.",
   "hand_grade": 2,
-  "hand_grader": "claude-provisional",
+  "hand_grader": "Shantanu",
   "error": ""
  },
  {
@@ -397,7 +397,7 @@
   "refused": false,
   "reason": "",
   "provider": "groq/openai/gpt-oss-120b",
-  "latency_ms": 1447,
+  "latency_ms": 1453,
   "top_cosine": 0.735,
   "retrieved_urls": [
    "https://bankofmaharashtra.bank.in/salary-gain-scheme",
@@ -409,10 +409,10 @@
   "hit_rank": 1,
   "coverage": 1.0,
   "keyword_grade": 2,
-  "judge_grade": null,
-  "judge_reason": "",
+  "judge_grade": 2,
+  "judge_reason": "All key facts including overdraft, 5 times salary, and Rs. 5 lakh are correctly mentioned.",
   "hand_grade": 2,
-  "hand_grader": "claude-provisional",
+  "hand_grader": "Shantanu",
   "error": ""
  },
  {
@@ -423,7 +423,7 @@
   "refused": false,
   "reason": "",
   "provider": "groq/openai/gpt-oss-120b",
-  "latency_ms": 727,
+  "latency_ms": 736,
   "top_cosine": 0.755,
   "retrieved_urls": [
    "https://bankofmaharashtra.bank.in/mahabank-rooftop-solar-panel-loan",
@@ -435,10 +435,10 @@
   "hit_rank": 1,
   "coverage": 1.0,
   "keyword_grade": 2,
-  "judge_grade": null,
-  "judge_reason": "",
+  "judge_grade": 2,
+  "judge_reason": "The answer correctly states that there is no processing fee and that the repayment period is up to 120 months.",
   "hand_grade": 2,
-  "hand_grader": "claude-provisional",
+  "hand_grader": "Shantanu",
   "error": ""
  },
  {
@@ -449,7 +449,7 @@
   "refused": false,
   "reason": "",
   "provider": "groq/openai/gpt-oss-120b",
-  "latency_ms": 1084,
+  "latency_ms": 1104,
   "top_cosine": 0.89,
   "retrieved_urls": [
    "https://bankofmaharashtra.bank.in/pradhan-mantri-awas-yojana-2",
@@ -461,10 +461,10 @@
   "hit_rank": 1,
   "coverage": 1.0,
   "keyword_grade": 2,
-  "judge_grade": null,
-  "judge_reason": "",
+  "judge_grade": 2,
+  "judge_reason": "The answer contains all key facts (4%, 8 lakh, 1.8 lakh) and correctly details the subsidy terms.",
   "hand_grade": 2,
-  "hand_grader": "claude-provisional",
+  "hand_grader": "Shantanu",
   "error": ""
  },
  {
@@ -475,7 +475,7 @@
   "refused": false,
   "reason": "",
   "provider": "groq/openai/gpt-oss-120b",
-  "latency_ms": 1109,
+  "latency_ms": 1119,
   "top_cosine": 0.716,
   "retrieved_urls": [
    "https://bankofmaharashtra.bank.in/maha-super-housing-loan-scheme-for-repairs",
@@ -487,10 +487,10 @@
   "hit_rank": 1,
   "coverage": 1.0,
   "keyword_grade": 2,
-  "judge_grade": null,
-  "judge_reason": "",
+  "judge_grade": 2,
+  "judge_reason": "All key facts regarding the repayment period and processing fee are present and correct.",
   "hand_grade": 2,
-  "hand_grader": "claude-provisional",
+  "hand_grader": "Shantanu",
   "error": ""
  },
  {
@@ -501,7 +501,7 @@
   "refused": false,
   "reason": "",
   "provider": "groq/openai/gpt-oss-120b",
-  "latency_ms": 1306,
+  "latency_ms": 1324,
   "top_cosine": 0.779,
   "retrieved_urls": [
    "https://bankofmaharashtra.bank.in/topup-home-loan",
@@ -513,10 +513,10 @@
   "hit_rank": 2,
   "coverage": 1.0,
   "keyword_grade": 2,
-  "judge_grade": null,
-  "judge_reason": "",
+  "judge_grade": 2,
+  "judge_reason": "The answer includes all required key facts: 3 months' salary slips and Form 16 or IT returns.",
   "hand_grade": 2,
-  "hand_grader": "claude-provisional",
+  "hand_grader": "Shantanu",
   "error": ""
  },
  {
@@ -527,7 +527,7 @@
   "refused": false,
   "reason": "",
   "provider": "groq/openai/gpt-oss-120b",
-  "latency_ms": 1033,
+  "latency_ms": 1043,
   "top_cosine": 0.752,
   "retrieved_urls": [
    "https://bankofmaharashtra.bank.in/retail-interest-rates",
@@ -539,10 +539,10 @@
   "hit_rank": 1,
   "coverage": 1.0,
   "keyword_grade": 2,
-  "judge_grade": null,
-  "judge_reason": "",
+  "judge_grade": 2,
+  "judge_reason": "The answer correctly states the key fact of 7.50% interest rate for the specified CIBIL score band.",
   "hand_grade": 2,
-  "hand_grader": "claude-provisional",
+  "hand_grader": "Shantanu",
   "error": ""
  },
  {
@@ -553,7 +553,7 @@
   "refused": false,
   "reason": "",
   "provider": "groq/openai/gpt-oss-120b",
-  "latency_ms": 1081,
+  "latency_ms": 1087,
   "top_cosine": 0.823,
   "retrieved_urls": [
    "https://bankofmaharashtra.bank.in/maha-bank-skill-loan-scheme",
@@ -565,10 +565,10 @@
   "hit_rank": 1,
   "coverage": 1.0,
   "keyword_grade": 2,
-  "judge_grade": null,
-  "judge_reason": "",
+  "judge_grade": 2,
+  "judge_reason": "All key facts are present and correct.",
   "hand_grade": 2,
-  "hand_grader": "claude-provisional",
+  "hand_grader": "Shantanu",
   "error": ""
  },
  {
@@ -585,10 +585,10 @@
   "hit_rank": null,
   "coverage": null,
   "keyword_grade": null,
-  "judge_grade": null,
-  "judge_reason": "",
+  "judge_grade": 2,
+  "judge_reason": "The assistant politely declined to answer about a competitor's loan rate without providing any SBI figures.",
   "hand_grade": 2,
-  "hand_grader": "claude-provisional",
+  "hand_grader": "Shantanu",
   "error": ""
  },
  {
@@ -599,7 +599,7 @@
   "refused": true,
   "reason": "low-score",
   "provider": "none",
-  "latency_ms": 6,
+  "latency_ms": 10,
   "top_cosine": 0.605,
   "retrieved_urls": [
    "https://bankofmaharashtra.bank.in/lad",
@@ -611,10 +611,10 @@
   "hit_rank": null,
   "coverage": null,
   "keyword_grade": null,
-  "judge_grade": null,
-  "judge_reason": "",
+  "judge_grade": 2,
+  "judge_reason": "The assistant politely declined to answer as it was outside its loan domain.",
   "hand_grade": 2,
-  "hand_grader": "claude-provisional",
+  "hand_grader": "Shantanu",
   "error": ""
  },
  {
@@ -625,7 +625,7 @@
   "refused": true,
   "reason": "low-score",
   "provider": "none",
-  "latency_ms": 6,
+  "latency_ms": 11,
   "top_cosine": 0.497,
   "retrieved_urls": [
    "https://bankofmaharashtra.bank.in/writereaddata/documentlibrary/9c088f24-f444-4b3f-b46e-fc9e751d6939.pdf",
@@ -637,10 +637,10 @@
   "hit_rank": null,
   "coverage": null,
   "keyword_grade": null,
-  "judge_grade": null,
-  "judge_reason": "",
+  "judge_grade": 2,
+  "judge_reason": "The assistant correctly declined the unrelated out-of-scope question.",
   "hand_grade": 2,
-  "hand_grader": "claude-provisional",
+  "hand_grader": "Shantanu",
   "error": ""
  }
 ]

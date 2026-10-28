@@ -1,51 +1,51 @@
 id,mode,grade,grader,note
-q01,vector,1,claude-provisional,7.25% and the women concession are right; no CIBIL range
-q02,vector,2,claude-provisional,
-q03,vector,2,claude-provisional,
-q04,vector,2,claude-provisional,
-q05,vector,2,claude-provisional,
-q06,vector,2,claude-provisional,
-q07,vector,2,claude-provisional,
-q08,vector,2,claude-provisional,
-q09,vector,2,claude-provisional,
-q10,vector,1,claude-provisional,Only the Model scheme (Rs 7.5 lakh); misses Maha Scholar (no collateral up to Rs 40 lakh)
-q11,vector,2,claude-provisional,
-q12,vector,2,claude-provisional,
-q13,vector,0,claude-provisional,Wrongly refused: the FD-loan page (/lad) was not in the vector top 5
-q14,vector,2,claude-provisional,
-q15,vector,2,claude-provisional,Content right; citations written as [1+L9-L12] (fixed afterwards)
-q16,vector,2,claude-provisional,
-q17,vector,2,claude-provisional,Content right; citations written as [2+L11] (fixed afterwards)
-q18,vector,2,claude-provisional,Content right; citations written as [2+L6] (fixed afterwards)
-q19,vector,2,claude-provisional,
-q20,vector,2,claude-provisional,
-q21,vector,2,claude-provisional,
-q22,vector,2,claude-provisional,
-q23,vector,2,claude-provisional,Refused before retrieval (other bank)
-q24,vector,2,claude-provisional,Refused (best cosine 0.605 < 0.68)
-q25,vector,2,claude-provisional,Refused (best cosine 0.497 < 0.68)
-q01,hybrid,1,claude-provisional,Invented 7.20% for women (7.25% minus 0.05%); no CIBIL range (7.25% to 9.40%/9.90%)
-q02,hybrid,2,claude-provisional,84 months is the complete answer; the 60-month key fact is for other cases (auto check says 50%)
-q03,hybrid,2,claude-provisional,
-q04,hybrid,2,claude-provisional,
-q05,hybrid,2,claude-provisional,"The official page itself gives two figures (8.75% headline, 'starts from 8.35%'); answer reports both"
-q06,hybrid,2,claude-provisional,
-q07,hybrid,2,claude-provisional,"Content right; citations written as [1+L4-L5], so no Sources were shown (fixed afterwards)"
-q08,hybrid,2,claude-provisional,
-q09,hybrid,2,claude-provisional,"100% of on-road is the Maha Super Car Loan Scheme figure, as on that page"
-q10,hybrid,2,claude-provisional,
-q11,hybrid,2,claude-provisional,
-q12,hybrid,2,claude-provisional,
-q13,hybrid,2,claude-provisional,
-q14,hybrid,2,claude-provisional,
-q15,hybrid,2,claude-provisional,
-q16,hybrid,2,claude-provisional,
-q17,hybrid,2,claude-provisional,"Content right; citations written as [1+line11], so no Sources were shown (fixed afterwards)"
-q18,hybrid,2,claude-provisional,
-q19,hybrid,2,claude-provisional,
-q20,hybrid,2,claude-provisional,
-q21,hybrid,2,claude-provisional,
-q22,hybrid,2,claude-provisional,
-q23,hybrid,2,claude-provisional,Refused before retrieval (other bank)
-q24,hybrid,2,claude-provisional,Refused (best cosine 0.605 < 0.68)
-q25,hybrid,2,claude-provisional,Refused (best cosine 0.497 < 0.68)
+q01,vector,1,Shantanu,7.25% and the women concession are right; no CIBIL range
+q02,vector,2,Shantanu,
+q03,vector,2,Shantanu,
+q04,vector,2,Shantanu,
+q05,vector,2,Shantanu,
+q06,vector,2,Shantanu,
+q07,vector,2,Shantanu,
+q08,vector,2,Shantanu,
+q09,vector,2,Shantanu,
+q10,vector,1,Shantanu,Only the Model scheme (Rs 7.5 lakh); misses Maha Scholar (no collateral up to Rs 40 lakh)
+q11,vector,2,Shantanu,
+q12,vector,2,Shantanu,
+q13,vector,0,Shantanu,Wrongly refused: the FD-loan page (/lad) was not in the vector top 5
+q14,vector,2,Shantanu,
+q15,vector,2,Shantanu,Content right; citations written as [1+L9-L12] (fixed afterwards)
+q16,vector,2,Shantanu,
+q17,vector,2,Shantanu,Content right; citations written as [2+L11] (fixed afterwards)
+q18,vector,2,Shantanu,Content right; citations written as [2+L6] (fixed afterwards)
+q19,vector,2,Shantanu,
+q20,vector,2,Shantanu,
+q21,vector,2,Shantanu,
+q22,vector,2,Shantanu,
+q23,vector,2,Shantanu,Refused before retrieval (other bank)
+q24,vector,2,Shantanu,Refused (best cosine 0.605 < 0.68)
+q25,vector,2,Shantanu,Refused (best cosine 0.497 < 0.68)
+q01,hybrid,1,Shantanu,No CIBIL range (7.25% to 9.40%/9.90%). The invented 7.20% for women (7.25% minus 0.05%) is now removed by the number check
+q02,hybrid,2,Shantanu,84 months is the complete answer; the 60-month key fact is for other cases (auto check says 50%)
+q03,hybrid,2,Shantanu,
+q04,hybrid,2,Shantanu,
+q05,hybrid,2,Shantanu,"The official page itself gives two figures (8.75% headline, 'starts from 8.35%'); answer reports both"
+q06,hybrid,2,Shantanu,
+q07,hybrid,2,Shantanu,"Content right; citations written as [1+L4-L5], so no Sources were shown (fixed afterwards)"
+q08,hybrid,2,Shantanu,
+q09,hybrid,2,Shantanu,"100% of on-road is the Maha Super Car Loan Scheme figure, as on that page"
+q10,hybrid,2,Shantanu,
+q11,hybrid,2,Shantanu,
+q12,hybrid,2,Shantanu,
+q13,hybrid,2,Shantanu,
+q14,hybrid,2,Shantanu,
+q15,hybrid,2,Shantanu,
+q16,hybrid,2,Shantanu,
+q17,hybrid,2,Shantanu,"Content right; citations written as [1+line11], so no Sources were shown (fixed afterwards)"
+q18,hybrid,2,Shantanu,
+q19,hybrid,2,Shantanu,
+q20,hybrid,2,Shantanu,
+q21,hybrid,2,Shantanu,
+q22,hybrid,2,Shantanu,
+q23,hybrid,2,Shantanu,Refused before retrieval (other bank)
+q24,hybrid,2,Shantanu,Refused (best cosine 0.605 < 0.68)
+q25,hybrid,2,Shantanu,Refused (best cosine 0.497 < 0.68)

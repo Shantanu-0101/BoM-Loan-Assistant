@@ -7,10 +7,9 @@ __pycache__/
 *.egg-info/
 # private working docs (not part of the submission)
 BOM_LOAN_ASSISTANT_SPEC.md
-Technical_Assessment_PaiKane.pdf
-docs/Technical_Assessment_PaiKane.pdf
 data/raw/html/*
 !data/raw/html/.gitkeep
-docs/clarification_email_draft.md
 *.log
 data/raw/pdf/*.pdf
+.mypy_cache/
+.claude/

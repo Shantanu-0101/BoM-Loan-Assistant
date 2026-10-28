@@ -19,7 +19,7 @@ SCRAPED = "2026-10-27T18:59:14+00:00"  # 28 Oct 2026 in IST
 def make_chunk(n: int, url: str = "https://bankofmaharashtra.bank.in/p") -> dict:
     return {
         "id": f"p#s#{n}",
-        "text": f"Product: P{n} | Section: S | Source: {url}\n\nBody {n}",
+        "text": f"Product: P{n} | Section: S | Source: {url}\n\nBody {n}. Rate 7.25% p.a.",
         "product": f"Product {n}",
         "section": "S",
         "url": f"{url}{n}",
@@ -147,6 +147,20 @@ def test_answer_has_text_sources_provider_and_date():
         "This is not financial advice."
     )  # added because the reply lacked it
     assert len(answer.chunks) == 5 and answer.latency_ms >= 0
+
+
+def test_a_figure_that_is_not_in_the_context_is_removed_from_the_answer():
+    reply = "Base rate 7.25% p.a. [1]\n- Women: 7.20% p.a. (7.25% minus 0.05%) [1]\n\n"
+    answer = Pipeline(FakeRetriever(), [FakeProvider(reply)]).ask("What is the home loan rate?")
+    assert "7.20" not in answer.text and "Base rate 7.25% p.a. [1]" in answer.text
+    assert "left out" in answer.text and answer.text.endswith("This is not financial advice.")
+    assert not answer.refused
+
+
+def test_answer_with_only_unsupported_figures_becomes_the_not_found_text():
+    reply = "- Rate is 9.99% p.a. [1]\n- Fee 1.11% [2]"
+    answer = Pipeline(FakeRetriever(), [FakeProvider(reply)]).ask("What is the home loan rate?")
+    assert answer.text.startswith(NOT_FOUND) and answer.sources == []
 
 
 def test_prompt_sent_to_the_llm_contains_question_context_and_date():
