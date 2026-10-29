@@ -188,7 +188,7 @@ bom-loan-assistant/
 
 ## 6. Evaluation
 
-**Method.** `eval/questions.jsonl` holds 25 questions: the 4 from the assessment, 18 about specific products (fees, tenure, margin, eligibility, documents), and 3 out of scope (another bank, savings account, weather). The key facts for each question were written by hand from the official pages, and a test checks that each one really appears on its expected page. The runner records, per question:
+**Method.** `eval/questions.jsonl` holds 25 questions: the 4 example questions, 18 about specific products (fees, tenure, margin, eligibility, documents), and 3 out of scope (another bank, savings account, weather). The key facts for each question were written by hand from the official pages, and a test checks that each one really appears on its expected page. The runner records, per question:
 
 - **hit@5 / hit@1:** is the expected page among the 5 chunks sent to the model (or first)?
 - **Key facts:** are all key facts in the answer (automatic string check)?

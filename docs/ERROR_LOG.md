@@ -4,7 +4,7 @@ Real problems met while building, in time order (IST). The README's "Challenges 
 
 ## 2026-10-27 night (time not recorded) | Site unreachable from the development laptop
 - **Symptom:** every request to `bankofmaharashtra.bank.in` failed (`NewConnectionError`; `curl` could not connect). Google worked.
-- **Cause:** the Wi-Fi network gave the laptop only an IPv6 address (IPv4 was link-local `169.254.x.x`). The site's IPv4 address was unreachable, and its IPv6 address timed out. This is risk T1 in the spec.
+- **Cause:** the Wi-Fi network gave the laptop only an IPv6 address (IPv4 was link-local `169.254.x.x`). The site's IPv4 address was unreachable, and its IPv6 address timed out.
 - **Fix:** switched to a network with working IPv4. Diagnosed with raw socket connects to each address, `ipconfig`, and `curl -4` / `curl -6`.
 - **Lesson:** a failing scrape can be the network, not the code. If it recurs, check IPv4 first.
 
@@ -13,8 +13,8 @@ Real problems met while building, in time order (IST). The README's "Challenges 
 - **Cause:** the live sitemap starts with a UTF-8 byte-order mark (BOM).
 - **Fix:** `parse_sitemap` strips the BOM first. Regression test: `test_parse_sitemap_tolerates_utf8_bom`.
 
-## 2026-10-28 ~00:25 IST (approx.) | Page paths in the spec did not match the real site
-- **Symptom:** the spec's Tier 1 slugs were partly given without their parent path, and my guessed hub paths such as `/personal-banking/loans/gold-loan` did not exist.
+## 2026-10-28 ~00:25 IST (approx.) | Page paths I was given did not match the real site
+- **Symptom:** the Tier 1 slugs were partly given without their parent path, and my guessed hub paths such as `/personal-banking/loans/gold-loan` did not exist.
 - **Cause:** only home, personal and car loans live under `/personal-banking/loans/`; every other loan page is at the site root with a flat slug.
 - **Fix:** read the real sitemap (1,333 URLs), matched by slug, and replaced the keyword filter with a word-based classifier (`looks_like_loan_page`) that includes loan words and excludes deposits, calculators, accounts, corporate pages and partner-fintech pages. A test covers both lists.
 
@@ -86,7 +86,7 @@ Real problems met while building, in time order (IST). The README's "Challenges 
 - **Symptom:** "What are the interest rates for a Bank of Maharashtra home loan?" is answered with 7.25% p.a. and the women's concession, but not the CIBIL-score rate table on `/retail-interest-rates`, which has the full range.
 - **Cause:** that table chunk ranks 28th by meaning and 122nd by keywords. Rate chunks are mostly numbers, so they embed poorly, and the page says "Housing Loan" where people say "home loan". Large "Personal Loan" tables outrank it for any "loan interest rate" question.
 - **Tried, no gain (reverted or not kept):** the BGE query-instruction prefix; query synonyms home/housing and car/vehicle for BM25 (helped one question, hurt another); starting a new chunk at each numbered scheme; picking the best "rates" chunk by meaning (it picks the wrong loan).
-- **Left as:** a documented limitation. Candidate fixes for the README's improvements list: a cross-encoder reranker, or a structured rate table with direct lookup (both named in the spec). Phase 4 will measure how many rate questions are affected.
+- **Left as:** a documented limitation. Candidate fixes for the README's improvements list: a cross-encoder reranker, or a structured rate table with direct lookup. Phase 4 will measure how many rate questions are affected.
 
 ## 2026-10-28 ~01:25 IST | Giant table cells are cut mid-row
 - **Symptom:** in the chunks of `/retail-interest-rates`, two personal-loan chunks are exactly 450 words, and the next one starts in the middle of a row (`RLLR - 2.95% - 11.25%; ...`).
@@ -101,7 +101,7 @@ Real problems met while building, in time order (IST). The README's "Challenges 
 
 ## 2026-10-28 ~02:10 IST | The first full evaluation run lost answers to Groq's token limit
 - **Symptom:** several questions failed with `RateLimitError`; the Gemini fallback was down at the same moment (503 / 504), so the run had `all providers failed` errors.
-- **Cause:** the free Groq tier allows 8,000 tokens a minute for `gpt-oss-120b`. One answer costs about 2,500 tokens (5 chunks plus reasoning), so only about 3 answers fit in a minute. The first pause between calls was 2 s (based on the 30 requests/minute limit in the spec, which is not the binding limit).
+- **Cause:** the free Groq tier allows 8,000 tokens a minute for `gpt-oss-120b`. One answer costs about 2,500 tokens (5 chunks plus reasoning), so only about 3 answers fit in a minute. The first pause between calls was 2 s (based on a 30 requests/minute limit, which is not the binding limit).
 - **Fix:** the evaluation waits 15 s between live calls and, on a rate-limit error, waits 20 s and retries up to 4 times. Failed calls are never cached. Successful answers are cached in `eval/cache/`, so a re-run costs no API calls.
 - **Lesson:** token limits, not request limits, bound this pipeline on the free tier. The same limit will affect a reviewer who asks several questions quickly in the UI.
 

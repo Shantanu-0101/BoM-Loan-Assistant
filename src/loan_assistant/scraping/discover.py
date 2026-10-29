@@ -46,8 +46,8 @@ HUB_PATHS = [
     "/procedure-for-agriculture-loans",
 ]
 
-# Last path segments of Tier 1 pages named in the spec (section 2.1). Sitemap and hub links
-# are matched against these, because the spec gives some of them without their parent path.
+# Last path segments of the Tier 1 (main loan product) pages. Sitemap and hub links are
+# matched against these, because some pages are known only by their last path segment.
 TIER1_SLUGS = {
     "home-loan",
     "maha-super-flexi-housing-loan-scheme",

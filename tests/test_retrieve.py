@@ -7,7 +7,7 @@ HOME = "https://bankofmaharashtra.bank.in/personal-banking/loans/home-loan"
 SALARIED = "https://bankofmaharashtra.bank.in/personal-loan-for-salaried-customers"
 FLEXI = "https://bankofmaharashtra.bank.in/maha-super-flexi-housing-loan-scheme"
 
-# The four example questions from the assessment PDF and the page that must be in the top 5.
+# The four example questions and the page that must be in the top 5.
 PDF_QUESTIONS = [
     ("What are the interest rates for a Bank of Maharashtra home loan?", HOME),
     (
