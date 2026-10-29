@@ -80,7 +80,33 @@ python -m loan_assistant.evaluate --mode hybrid --no-judge
 
 Note: the free Groq tier allows about 8,000 tokens a minute for this model, and one answer costs about 2,500. Asking several questions in quick succession can hit that limit; wait a few seconds and ask again.
 
+### Project structure
+
+```
+bom-loan-assistant/
+├── app/streamlit_app.py          # chat UI: answers, source links, retrieved-chunk viewer
+├── src/loan_assistant/
+│   ├── scraping/                 # find URLs, fetch pages and PDFs (polite, cached)
+│   ├── processing/               # clean HTML and PDF text, consolidate, chunk
+│   ├── rag/                      # embed, FAISS + BM25 index, retrieve (RRF), prompt, generate, number check
+│   ├── llm/providers.py          # Groq and Gemini clients
+│   ├── build.py                  # scrape -> process -> chunk -> index
+│   ├── ask.py                    # ask a question from the command line
+│   ├── evaluate.py               # 25-question evaluation with a Gemini judge
+│   └── config.py                 # model names and retrieval settings
+├── data/
+│   ├── raw/                      # urls.csv, manifest.csv, kept PDFs
+│   └── processed/                # pages/, knowledge_base.md, chunks.jsonl, stats.json
+├── index/                        # faiss.index, chunks_meta.json
+├── eval/                         # questions, hand grades, results, cached answers
+├── tests/                        # unit tests and HTML fixtures
+├── docs/                         # screenshot, pipeline diagram, AI tools log, error log
+└── .env.example, pyproject.toml, requirements.txt
+```
+
 ## 3. How it works
+
+![RAG pipeline](docs/rag_pipeline.svg)
 
 ```
  bankofmaharashtra.bank.in

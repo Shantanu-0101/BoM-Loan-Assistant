@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1330 450" width="1330" height="450" font-family="Arial, Helvetica, sans-serif">
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M0 0 L10 5 L0 10 z" fill="#000"/>
+    </marker>
+  </defs>
+  <rect width="1330" height="450" fill="#fff"/>
+
+  <text x="20" y="40" font-size="18" font-weight="bold">A. Build once (offline)</text>
+  <g fill="#fff" stroke="#000" stroke-width="2">
+    <rect x="20" y="60" width="190" height="120"/>
+    <rect x="240" y="60" width="190" height="120"/>
+    <rect x="460" y="60" width="190" height="120"/>
+    <rect x="680" y="60" width="190" height="120"/>
+    <rect x="900" y="60" width="190" height="120"/>
+  </g>
+  <g stroke="#000" stroke-width="2" marker-end="url(#a)" fill="none">
+    <path d="M210 120 H238"/><path d="M430 120 H458"/><path d="M650 120 H678"/><path d="M870 120 H898"/>
+  </g>
+  <g font-size="13" text-anchor="middle" fill="#000">
+    <text x="115" y="95" font-size="16" font-weight="bold">Bank website</text>
+    <text x="115" y="123">86 web pages + 3 PDFs</text>
+    <text x="115" y="143">(bankofmaharashtra.bank.in)</text>
+
+    <text x="335" y="95" font-size="16" font-weight="bold">Clean</text>
+    <text x="335" y="123">HTML to Markdown</text>
+    <text x="335" y="143">tables kept as tables</text>
+
+    <text x="555" y="95" font-size="16" font-weight="bold">Chunk</text>
+    <text x="555" y="118">415 chunks</text>
+    <text x="555" y="136">~300 words, cut by heading</text>
+    <text x="555" y="154">product name on every chunk</text>
+
+    <text x="775" y="95" font-size="16" font-weight="bold">Embed</text>
+    <text x="775" y="123">BAAI/bge-small-en-v1.5</text>
+    <text x="775" y="143">(text to numbers)</text>
+
+    <text x="995" y="95" font-size="16" font-weight="bold">Two indexes</text>
+    <text x="995" y="123">FAISS (by meaning)</text>
+    <text x="995" y="143">BM25 (by exact words)</text>
+  </g>
+
+  <path d="M995 180 V240 H555 V298" stroke="#000" stroke-width="2" stroke-dasharray="6 5" fill="none" marker-end="url(#a)"/>
+  <text x="780" y="232" font-size="12" text-anchor="middle" fill="#000">searched at question time</text>
+
+  <text x="20" y="278" font-size="18" font-weight="bold">B. Every question (online)</text>
+  <g fill="#fff" stroke="#000" stroke-width="2">
+    <rect x="20" y="300" width="190" height="120"/>
+    <rect x="240" y="300" width="190" height="120"/>
+    <rect x="460" y="300" width="190" height="120"/>
+    <rect x="680" y="300" width="190" height="120"/>
+    <rect x="900" y="300" width="190" height="120"/>
+    <rect x="1120" y="300" width="190" height="120"/>
+  </g>
+  <g stroke="#000" stroke-width="2" marker-end="url(#a)" fill="none">
+    <path d="M210 360 H238"/><path d="M430 360 H458"/><path d="M650 360 H678"/><path d="M870 360 H898"/><path d="M1090 360 H1118"/>
+  </g>
+  <g font-size="13" text-anchor="middle" fill="#000">
+    <text x="115" y="335" font-size="16" font-weight="bold">Question</text>
+    <text x="115" y="363">Streamlit chat</text>
+
+    <text x="335" y="335" font-size="16" font-weight="bold">Guard</text>
+    <text x="335" y="360">other bank? off-topic?</text>
+    <text x="335" y="380">best score &lt; 0.68</text>
+    <text x="335" y="400">then refuse</text>
+
+    <text x="555" y="335" font-size="16" font-weight="bold">Hybrid search</text>
+    <text x="555" y="360">20 FAISS + 20 BM25</text>
+    <text x="555" y="380">merge with RRF</text>
+    <text x="555" y="400">keep top 5 chunks</text>
+
+    <text x="775" y="335" font-size="16" font-weight="bold">LLM</text>
+    <text x="775" y="360">Groq gpt-oss-120b</text>
+    <text x="775" y="380">(Gemini as fallback)</text>
+    <text x="775" y="400">answer + cite sources only</text>
+
+    <text x="995" y="335" font-size="16" font-weight="bold">Number check</text>
+    <text x="995" y="360">remove any figure not</text>
+    <text x="995" y="380">in the 5 chunks</text>
+
+    <text x="1215" y="335" font-size="16" font-weight="bold">Answer</text>
+    <text x="1215" y="360">with numbered</text>
+    <text x="1215" y="380">source links</text>
+  </g>
+
+  <text x="20" y="442" font-size="13" fill="#000">Evaluation: 25 questions, vector only vs hybrid, graded by hit@5 and a Gemini judge.</text>
+</svg>
